@@ -1,0 +1,3061 @@
+ed_id,ed_name,county,month,traffic_volume,congestion_delay_minutes,avg_speed_kph
+DUB_rathmines_east_a,Rathmines East A,Dublin,2024-01-01,119000.0,39.7,50.0
+DUB_rathmines_east_a,Rathmines East A,Dublin,2024-02-01,119000.0,39.7,50.0
+DUB_rathmines_east_a,Rathmines East A,Dublin,2024-03-01,119000.0,39.7,50.0
+DUB_rathmines_east_a,Rathmines East A,Dublin,2024-04-01,119000.0,39.7,50.0
+DUB_rathmines_east_a,Rathmines East A,Dublin,2024-05-01,119000.0,39.7,50.0
+DUB_rathmines_east_a,Rathmines East A,Dublin,2024-06-01,119000.0,39.7,50.0
+DUB_rathmines_east_a,Rathmines East A,Dublin,2024-07-01,119000.0,39.7,50.0
+DUB_rathmines_east_a,Rathmines East A,Dublin,2024-08-01,119000.0,39.7,50.0
+DUB_rathmines_east_a,Rathmines East A,Dublin,2024-09-01,119000.0,39.7,50.0
+DUB_rathmines_east_a,Rathmines East A,Dublin,2024-10-01,119000.0,39.7,50.0
+DUB_rathmines_east_a,Rathmines East A,Dublin,2024-11-01,119000.0,39.7,50.0
+DUB_rathmines_east_a,Rathmines East A,Dublin,2024-12-01,119000.0,39.7,50.0
+DUB_rathmines_west_c,Rathmines West C,Dublin,2024-01-01,119000.0,39.7,50.0
+DUB_rathmines_west_c,Rathmines West C,Dublin,2024-02-01,119000.0,39.7,50.0
+DUB_rathmines_west_c,Rathmines West C,Dublin,2024-03-01,119000.0,39.7,50.0
+DUB_rathmines_west_c,Rathmines West C,Dublin,2024-04-01,119000.0,39.7,50.0
+DUB_rathmines_west_c,Rathmines West C,Dublin,2024-05-01,119000.0,39.7,50.0
+DUB_rathmines_west_c,Rathmines West C,Dublin,2024-06-01,119000.0,39.7,50.0
+DUB_rathmines_west_c,Rathmines West C,Dublin,2024-07-01,119000.0,39.7,50.0
+DUB_rathmines_west_c,Rathmines West C,Dublin,2024-08-01,119000.0,39.7,50.0
+DUB_rathmines_west_c,Rathmines West C,Dublin,2024-09-01,119000.0,39.7,50.0
+DUB_rathmines_west_c,Rathmines West C,Dublin,2024-10-01,119000.0,39.7,50.0
+DUB_rathmines_west_c,Rathmines West C,Dublin,2024-11-01,119000.0,39.7,50.0
+DUB_rathmines_west_c,Rathmines West C,Dublin,2024-12-01,119000.0,39.7,50.0
+DUB_pembroke_east_a,Pembroke East A,Dublin,2024-01-01,119000.0,39.7,50.0
+DUB_pembroke_east_a,Pembroke East A,Dublin,2024-02-01,119000.0,39.7,50.0
+DUB_pembroke_east_a,Pembroke East A,Dublin,2024-03-01,119000.0,39.7,50.0
+DUB_pembroke_east_a,Pembroke East A,Dublin,2024-04-01,119000.0,39.7,50.0
+DUB_pembroke_east_a,Pembroke East A,Dublin,2024-05-01,119000.0,39.7,50.0
+DUB_pembroke_east_a,Pembroke East A,Dublin,2024-06-01,119000.0,39.7,50.0
+DUB_pembroke_east_a,Pembroke East A,Dublin,2024-07-01,119000.0,39.7,50.0
+DUB_pembroke_east_a,Pembroke East A,Dublin,2024-08-01,119000.0,39.7,50.0
+DUB_pembroke_east_a,Pembroke East A,Dublin,2024-09-01,119000.0,39.7,50.0
+DUB_pembroke_east_a,Pembroke East A,Dublin,2024-10-01,119000.0,39.7,50.0
+DUB_pembroke_east_a,Pembroke East A,Dublin,2024-11-01,119000.0,39.7,50.0
+DUB_pembroke_east_a,Pembroke East A,Dublin,2024-12-01,119000.0,39.7,50.0
+DUB_ballsbridge,Ballsbridge,Dublin,2024-01-01,119000.0,39.7,50.0
+DUB_ballsbridge,Ballsbridge,Dublin,2024-02-01,119000.0,39.7,50.0
+DUB_ballsbridge,Ballsbridge,Dublin,2024-03-01,119000.0,39.7,50.0
+DUB_ballsbridge,Ballsbridge,Dublin,2024-04-01,119000.0,39.7,50.0
+DUB_ballsbridge,Ballsbridge,Dublin,2024-05-01,119000.0,39.7,50.0
+DUB_ballsbridge,Ballsbridge,Dublin,2024-06-01,119000.0,39.7,50.0
+DUB_ballsbridge,Ballsbridge,Dublin,2024-07-01,119000.0,39.7,50.0
+DUB_ballsbridge,Ballsbridge,Dublin,2024-08-01,119000.0,39.7,50.0
+DUB_ballsbridge,Ballsbridge,Dublin,2024-09-01,119000.0,39.7,50.0
+DUB_ballsbridge,Ballsbridge,Dublin,2024-10-01,119000.0,39.7,50.0
+DUB_ballsbridge,Ballsbridge,Dublin,2024-11-01,119000.0,39.7,50.0
+DUB_ballsbridge,Ballsbridge,Dublin,2024-12-01,119000.0,39.7,50.0
+DUB_drumcondra_south_a,Drumcondra South A,Dublin,2024-01-01,119000.0,39.7,50.0
+DUB_drumcondra_south_a,Drumcondra South A,Dublin,2024-02-01,119000.0,39.7,50.0
+DUB_drumcondra_south_a,Drumcondra South A,Dublin,2024-03-01,119000.0,39.7,50.0
+DUB_drumcondra_south_a,Drumcondra South A,Dublin,2024-04-01,119000.0,39.7,50.0
+DUB_drumcondra_south_a,Drumcondra South A,Dublin,2024-05-01,119000.0,39.7,50.0
+DUB_drumcondra_south_a,Drumcondra South A,Dublin,2024-06-01,119000.0,39.7,50.0
+DUB_drumcondra_south_a,Drumcondra South A,Dublin,2024-07-01,119000.0,39.7,50.0
+DUB_drumcondra_south_a,Drumcondra South A,Dublin,2024-08-01,119000.0,39.7,50.0
+DUB_drumcondra_south_a,Drumcondra South A,Dublin,2024-09-01,119000.0,39.7,50.0
+DUB_drumcondra_south_a,Drumcondra South A,Dublin,2024-10-01,119000.0,39.7,50.0
+DUB_drumcondra_south_a,Drumcondra South A,Dublin,2024-11-01,119000.0,39.7,50.0
+DUB_drumcondra_south_a,Drumcondra South A,Dublin,2024-12-01,119000.0,39.7,50.0
+DUB_cabra_east_a,Cabra East A,Dublin,2024-01-01,102000.0,34.0,50.0
+DUB_cabra_east_a,Cabra East A,Dublin,2024-02-01,102000.0,34.0,50.0
+DUB_cabra_east_a,Cabra East A,Dublin,2024-03-01,102000.0,34.0,50.0
+DUB_cabra_east_a,Cabra East A,Dublin,2024-04-01,102000.0,34.0,50.0
+DUB_cabra_east_a,Cabra East A,Dublin,2024-05-01,102000.0,34.0,50.0
+DUB_cabra_east_a,Cabra East A,Dublin,2024-06-01,102000.0,34.0,50.0
+DUB_cabra_east_a,Cabra East A,Dublin,2024-07-01,102000.0,34.0,50.0
+DUB_cabra_east_a,Cabra East A,Dublin,2024-08-01,102000.0,34.0,50.0
+DUB_cabra_east_a,Cabra East A,Dublin,2024-09-01,102000.0,34.0,50.0
+DUB_cabra_east_a,Cabra East A,Dublin,2024-10-01,102000.0,34.0,50.0
+DUB_cabra_east_a,Cabra East A,Dublin,2024-11-01,102000.0,34.0,50.0
+DUB_cabra_east_a,Cabra East A,Dublin,2024-12-01,102000.0,34.0,50.0
+DUB_clontarf_east_a,Clontarf East A,Dublin,2024-01-01,102000.0,34.0,50.0
+DUB_clontarf_east_a,Clontarf East A,Dublin,2024-02-01,102000.0,34.0,50.0
+DUB_clontarf_east_a,Clontarf East A,Dublin,2024-03-01,102000.0,34.0,50.0
+DUB_clontarf_east_a,Clontarf East A,Dublin,2024-04-01,102000.0,34.0,50.0
+DUB_clontarf_east_a,Clontarf East A,Dublin,2024-05-01,102000.0,34.0,50.0
+DUB_clontarf_east_a,Clontarf East A,Dublin,2024-06-01,102000.0,34.0,50.0
+DUB_clontarf_east_a,Clontarf East A,Dublin,2024-07-01,102000.0,34.0,50.0
+DUB_clontarf_east_a,Clontarf East A,Dublin,2024-08-01,102000.0,34.0,50.0
+DUB_clontarf_east_a,Clontarf East A,Dublin,2024-09-01,102000.0,34.0,50.0
+DUB_clontarf_east_a,Clontarf East A,Dublin,2024-10-01,102000.0,34.0,50.0
+DUB_clontarf_east_a,Clontarf East A,Dublin,2024-11-01,102000.0,34.0,50.0
+DUB_clontarf_east_a,Clontarf East A,Dublin,2024-12-01,102000.0,34.0,50.0
+DUB_finglas_south_a,Finglas South A,Dublin,2024-01-01,102000.0,34.0,50.0
+DUB_finglas_south_a,Finglas South A,Dublin,2024-02-01,102000.0,34.0,50.0
+DUB_finglas_south_a,Finglas South A,Dublin,2024-03-01,102000.0,34.0,50.0
+DUB_finglas_south_a,Finglas South A,Dublin,2024-04-01,102000.0,34.0,50.0
+DUB_finglas_south_a,Finglas South A,Dublin,2024-05-01,102000.0,34.0,50.0
+DUB_finglas_south_a,Finglas South A,Dublin,2024-06-01,102000.0,34.0,50.0
+DUB_finglas_south_a,Finglas South A,Dublin,2024-07-01,102000.0,34.0,50.0
+DUB_finglas_south_a,Finglas South A,Dublin,2024-08-01,102000.0,34.0,50.0
+DUB_finglas_south_a,Finglas South A,Dublin,2024-09-01,102000.0,34.0,50.0
+DUB_finglas_south_a,Finglas South A,Dublin,2024-10-01,102000.0,34.0,50.0
+DUB_finglas_south_a,Finglas South A,Dublin,2024-11-01,102000.0,34.0,50.0
+DUB_finglas_south_a,Finglas South A,Dublin,2024-12-01,102000.0,34.0,50.0
+DUB_tallaght_fettercairn,Tallaght-Fettercairn,Dublin,2024-01-01,102000.0,34.0,50.0
+DUB_tallaght_fettercairn,Tallaght-Fettercairn,Dublin,2024-02-01,102000.0,34.0,50.0
+DUB_tallaght_fettercairn,Tallaght-Fettercairn,Dublin,2024-03-01,102000.0,34.0,50.0
+DUB_tallaght_fettercairn,Tallaght-Fettercairn,Dublin,2024-04-01,102000.0,34.0,50.0
+DUB_tallaght_fettercairn,Tallaght-Fettercairn,Dublin,2024-05-01,102000.0,34.0,50.0
+DUB_tallaght_fettercairn,Tallaght-Fettercairn,Dublin,2024-06-01,102000.0,34.0,50.0
+DUB_tallaght_fettercairn,Tallaght-Fettercairn,Dublin,2024-07-01,102000.0,34.0,50.0
+DUB_tallaght_fettercairn,Tallaght-Fettercairn,Dublin,2024-08-01,102000.0,34.0,50.0
+DUB_tallaght_fettercairn,Tallaght-Fettercairn,Dublin,2024-09-01,102000.0,34.0,50.0
+DUB_tallaght_fettercairn,Tallaght-Fettercairn,Dublin,2024-10-01,102000.0,34.0,50.0
+DUB_tallaght_fettercairn,Tallaght-Fettercairn,Dublin,2024-11-01,102000.0,34.0,50.0
+DUB_tallaght_fettercairn,Tallaght-Fettercairn,Dublin,2024-12-01,102000.0,34.0,50.0
+DUB_lucan_esker,Lucan-Esker,Dublin,2024-01-01,102000.0,34.0,50.0
+DUB_lucan_esker,Lucan-Esker,Dublin,2024-02-01,102000.0,34.0,50.0
+DUB_lucan_esker,Lucan-Esker,Dublin,2024-03-01,102000.0,34.0,50.0
+DUB_lucan_esker,Lucan-Esker,Dublin,2024-04-01,102000.0,34.0,50.0
+DUB_lucan_esker,Lucan-Esker,Dublin,2024-05-01,102000.0,34.0,50.0
+DUB_lucan_esker,Lucan-Esker,Dublin,2024-06-01,102000.0,34.0,50.0
+DUB_lucan_esker,Lucan-Esker,Dublin,2024-07-01,102000.0,34.0,50.0
+DUB_lucan_esker,Lucan-Esker,Dublin,2024-08-01,102000.0,34.0,50.0
+DUB_lucan_esker,Lucan-Esker,Dublin,2024-09-01,102000.0,34.0,50.0
+DUB_lucan_esker,Lucan-Esker,Dublin,2024-10-01,102000.0,34.0,50.0
+DUB_lucan_esker,Lucan-Esker,Dublin,2024-11-01,102000.0,34.0,50.0
+DUB_lucan_esker,Lucan-Esker,Dublin,2024-12-01,102000.0,34.0,50.0
+DUB_blanchardstown_blakestown,Blanchardstown-Blakestown,Dublin,2024-01-01,102000.0,34.0,50.0
+DUB_blanchardstown_blakestown,Blanchardstown-Blakestown,Dublin,2024-02-01,102000.0,34.0,50.0
+DUB_blanchardstown_blakestown,Blanchardstown-Blakestown,Dublin,2024-03-01,102000.0,34.0,50.0
+DUB_blanchardstown_blakestown,Blanchardstown-Blakestown,Dublin,2024-04-01,102000.0,34.0,50.0
+DUB_blanchardstown_blakestown,Blanchardstown-Blakestown,Dublin,2024-05-01,102000.0,34.0,50.0
+DUB_blanchardstown_blakestown,Blanchardstown-Blakestown,Dublin,2024-06-01,102000.0,34.0,50.0
+DUB_blanchardstown_blakestown,Blanchardstown-Blakestown,Dublin,2024-07-01,102000.0,34.0,50.0
+DUB_blanchardstown_blakestown,Blanchardstown-Blakestown,Dublin,2024-08-01,102000.0,34.0,50.0
+DUB_blanchardstown_blakestown,Blanchardstown-Blakestown,Dublin,2024-09-01,102000.0,34.0,50.0
+DUB_blanchardstown_blakestown,Blanchardstown-Blakestown,Dublin,2024-10-01,102000.0,34.0,50.0
+DUB_blanchardstown_blakestown,Blanchardstown-Blakestown,Dublin,2024-11-01,102000.0,34.0,50.0
+DUB_blanchardstown_blakestown,Blanchardstown-Blakestown,Dublin,2024-12-01,102000.0,34.0,50.0
+DUB_swords_forrest,Swords-Forrest,Dublin,2024-01-01,85000.0,28.3,50.0
+DUB_swords_forrest,Swords-Forrest,Dublin,2024-02-01,85000.0,28.3,50.0
+DUB_swords_forrest,Swords-Forrest,Dublin,2024-03-01,85000.0,28.3,50.0
+DUB_swords_forrest,Swords-Forrest,Dublin,2024-04-01,85000.0,28.3,50.0
+DUB_swords_forrest,Swords-Forrest,Dublin,2024-05-01,85000.0,28.3,50.0
+DUB_swords_forrest,Swords-Forrest,Dublin,2024-06-01,85000.0,28.3,50.0
+DUB_swords_forrest,Swords-Forrest,Dublin,2024-07-01,85000.0,28.3,50.0
+DUB_swords_forrest,Swords-Forrest,Dublin,2024-08-01,85000.0,28.3,50.0
+DUB_swords_forrest,Swords-Forrest,Dublin,2024-09-01,85000.0,28.3,50.0
+DUB_swords_forrest,Swords-Forrest,Dublin,2024-10-01,85000.0,28.3,50.0
+DUB_swords_forrest,Swords-Forrest,Dublin,2024-11-01,85000.0,28.3,50.0
+DUB_swords_forrest,Swords-Forrest,Dublin,2024-12-01,85000.0,28.3,50.0
+DUB_howth,Howth,Dublin,2024-01-01,102000.0,34.0,50.0
+DUB_howth,Howth,Dublin,2024-02-01,102000.0,34.0,50.0
+DUB_howth,Howth,Dublin,2024-03-01,102000.0,34.0,50.0
+DUB_howth,Howth,Dublin,2024-04-01,102000.0,34.0,50.0
+DUB_howth,Howth,Dublin,2024-05-01,102000.0,34.0,50.0
+DUB_howth,Howth,Dublin,2024-06-01,102000.0,34.0,50.0
+DUB_howth,Howth,Dublin,2024-07-01,102000.0,34.0,50.0
+DUB_howth,Howth,Dublin,2024-08-01,102000.0,34.0,50.0
+DUB_howth,Howth,Dublin,2024-09-01,102000.0,34.0,50.0
+DUB_howth,Howth,Dublin,2024-10-01,102000.0,34.0,50.0
+DUB_howth,Howth,Dublin,2024-11-01,102000.0,34.0,50.0
+DUB_howth,Howth,Dublin,2024-12-01,102000.0,34.0,50.0
+DUB_dalkey,Dalkey,Dublin,2024-01-01,102000.0,34.0,50.0
+DUB_dalkey,Dalkey,Dublin,2024-02-01,102000.0,34.0,50.0
+DUB_dalkey,Dalkey,Dublin,2024-03-01,102000.0,34.0,50.0
+DUB_dalkey,Dalkey,Dublin,2024-04-01,102000.0,34.0,50.0
+DUB_dalkey,Dalkey,Dublin,2024-05-01,102000.0,34.0,50.0
+DUB_dalkey,Dalkey,Dublin,2024-06-01,102000.0,34.0,50.0
+DUB_dalkey,Dalkey,Dublin,2024-07-01,102000.0,34.0,50.0
+DUB_dalkey,Dalkey,Dublin,2024-08-01,102000.0,34.0,50.0
+DUB_dalkey,Dalkey,Dublin,2024-09-01,102000.0,34.0,50.0
+DUB_dalkey,Dalkey,Dublin,2024-10-01,102000.0,34.0,50.0
+DUB_dalkey,Dalkey,Dublin,2024-11-01,102000.0,34.0,50.0
+DUB_dalkey,Dalkey,Dublin,2024-12-01,102000.0,34.0,50.0
+DUB_blackrock_carysfort,Blackrock-Carysfort,Dublin,2024-01-01,119000.0,39.7,50.0
+DUB_blackrock_carysfort,Blackrock-Carysfort,Dublin,2024-02-01,119000.0,39.7,50.0
+DUB_blackrock_carysfort,Blackrock-Carysfort,Dublin,2024-03-01,119000.0,39.7,50.0
+DUB_blackrock_carysfort,Blackrock-Carysfort,Dublin,2024-04-01,119000.0,39.7,50.0
+DUB_blackrock_carysfort,Blackrock-Carysfort,Dublin,2024-05-01,119000.0,39.7,50.0
+DUB_blackrock_carysfort,Blackrock-Carysfort,Dublin,2024-06-01,119000.0,39.7,50.0
+DUB_blackrock_carysfort,Blackrock-Carysfort,Dublin,2024-07-01,119000.0,39.7,50.0
+DUB_blackrock_carysfort,Blackrock-Carysfort,Dublin,2024-08-01,119000.0,39.7,50.0
+DUB_blackrock_carysfort,Blackrock-Carysfort,Dublin,2024-09-01,119000.0,39.7,50.0
+DUB_blackrock_carysfort,Blackrock-Carysfort,Dublin,2024-10-01,119000.0,39.7,50.0
+DUB_blackrock_carysfort,Blackrock-Carysfort,Dublin,2024-11-01,119000.0,39.7,50.0
+DUB_blackrock_carysfort,Blackrock-Carysfort,Dublin,2024-12-01,119000.0,39.7,50.0
+COR_cork_city_south_central,Cork City South Central,Cork,2024-01-01,63000.0,21.0,50.0
+COR_cork_city_south_central,Cork City South Central,Cork,2024-02-01,63000.0,21.0,50.0
+COR_cork_city_south_central,Cork City South Central,Cork,2024-03-01,63000.0,21.0,50.0
+COR_cork_city_south_central,Cork City South Central,Cork,2024-04-01,63000.0,21.0,50.0
+COR_cork_city_south_central,Cork City South Central,Cork,2024-05-01,63000.0,21.0,50.0
+COR_cork_city_south_central,Cork City South Central,Cork,2024-06-01,63000.0,21.0,50.0
+COR_cork_city_south_central,Cork City South Central,Cork,2024-07-01,63000.0,21.0,50.0
+COR_cork_city_south_central,Cork City South Central,Cork,2024-08-01,63000.0,21.0,50.0
+COR_cork_city_south_central,Cork City South Central,Cork,2024-09-01,63000.0,21.0,50.0
+COR_cork_city_south_central,Cork City South Central,Cork,2024-10-01,63000.0,21.0,50.0
+COR_cork_city_south_central,Cork City South Central,Cork,2024-11-01,63000.0,21.0,50.0
+COR_cork_city_south_central,Cork City South Central,Cork,2024-12-01,63000.0,21.0,50.0
+COR_cork_city_north_central,Cork City North Central,Cork,2024-01-01,63000.0,21.0,50.0
+COR_cork_city_north_central,Cork City North Central,Cork,2024-02-01,63000.0,21.0,50.0
+COR_cork_city_north_central,Cork City North Central,Cork,2024-03-01,63000.0,21.0,50.0
+COR_cork_city_north_central,Cork City North Central,Cork,2024-04-01,63000.0,21.0,50.0
+COR_cork_city_north_central,Cork City North Central,Cork,2024-05-01,63000.0,21.0,50.0
+COR_cork_city_north_central,Cork City North Central,Cork,2024-06-01,63000.0,21.0,50.0
+COR_cork_city_north_central,Cork City North Central,Cork,2024-07-01,63000.0,21.0,50.0
+COR_cork_city_north_central,Cork City North Central,Cork,2024-08-01,63000.0,21.0,50.0
+COR_cork_city_north_central,Cork City North Central,Cork,2024-09-01,63000.0,21.0,50.0
+COR_cork_city_north_central,Cork City North Central,Cork,2024-10-01,63000.0,21.0,50.0
+COR_cork_city_north_central,Cork City North Central,Cork,2024-11-01,63000.0,21.0,50.0
+COR_cork_city_north_central,Cork City North Central,Cork,2024-12-01,63000.0,21.0,50.0
+COR_blackrock_cork,Blackrock (Cork),Cork,2024-01-01,54000.0,18.0,50.0
+COR_blackrock_cork,Blackrock (Cork),Cork,2024-02-01,54000.0,18.0,50.0
+COR_blackrock_cork,Blackrock (Cork),Cork,2024-03-01,54000.0,18.0,50.0
+COR_blackrock_cork,Blackrock (Cork),Cork,2024-04-01,54000.0,18.0,50.0
+COR_blackrock_cork,Blackrock (Cork),Cork,2024-05-01,54000.0,18.0,50.0
+COR_blackrock_cork,Blackrock (Cork),Cork,2024-06-01,54000.0,18.0,50.0
+COR_blackrock_cork,Blackrock (Cork),Cork,2024-07-01,54000.0,18.0,50.0
+COR_blackrock_cork,Blackrock (Cork),Cork,2024-08-01,54000.0,18.0,50.0
+COR_blackrock_cork,Blackrock (Cork),Cork,2024-09-01,54000.0,18.0,50.0
+COR_blackrock_cork,Blackrock (Cork),Cork,2024-10-01,54000.0,18.0,50.0
+COR_blackrock_cork,Blackrock (Cork),Cork,2024-11-01,54000.0,18.0,50.0
+COR_blackrock_cork,Blackrock (Cork),Cork,2024-12-01,54000.0,18.0,50.0
+COR_douglas,Douglas,Cork,2024-01-01,54000.0,18.0,50.0
+COR_douglas,Douglas,Cork,2024-02-01,54000.0,18.0,50.0
+COR_douglas,Douglas,Cork,2024-03-01,54000.0,18.0,50.0
+COR_douglas,Douglas,Cork,2024-04-01,54000.0,18.0,50.0
+COR_douglas,Douglas,Cork,2024-05-01,54000.0,18.0,50.0
+COR_douglas,Douglas,Cork,2024-06-01,54000.0,18.0,50.0
+COR_douglas,Douglas,Cork,2024-07-01,54000.0,18.0,50.0
+COR_douglas,Douglas,Cork,2024-08-01,54000.0,18.0,50.0
+COR_douglas,Douglas,Cork,2024-09-01,54000.0,18.0,50.0
+COR_douglas,Douglas,Cork,2024-10-01,54000.0,18.0,50.0
+COR_douglas,Douglas,Cork,2024-11-01,54000.0,18.0,50.0
+COR_douglas,Douglas,Cork,2024-12-01,54000.0,18.0,50.0
+COR_ballincollig,Ballincollig,Cork,2024-01-01,54000.0,18.0,50.0
+COR_ballincollig,Ballincollig,Cork,2024-02-01,54000.0,18.0,50.0
+COR_ballincollig,Ballincollig,Cork,2024-03-01,54000.0,18.0,50.0
+COR_ballincollig,Ballincollig,Cork,2024-04-01,54000.0,18.0,50.0
+COR_ballincollig,Ballincollig,Cork,2024-05-01,54000.0,18.0,50.0
+COR_ballincollig,Ballincollig,Cork,2024-06-01,54000.0,18.0,50.0
+COR_ballincollig,Ballincollig,Cork,2024-07-01,54000.0,18.0,50.0
+COR_ballincollig,Ballincollig,Cork,2024-08-01,54000.0,18.0,50.0
+COR_ballincollig,Ballincollig,Cork,2024-09-01,54000.0,18.0,50.0
+COR_ballincollig,Ballincollig,Cork,2024-10-01,54000.0,18.0,50.0
+COR_ballincollig,Ballincollig,Cork,2024-11-01,54000.0,18.0,50.0
+COR_ballincollig,Ballincollig,Cork,2024-12-01,54000.0,18.0,50.0
+COR_carrigaline,Carrigaline,Cork,2024-01-01,45000.0,15.0,50.0
+COR_carrigaline,Carrigaline,Cork,2024-02-01,45000.0,15.0,50.0
+COR_carrigaline,Carrigaline,Cork,2024-03-01,45000.0,15.0,50.0
+COR_carrigaline,Carrigaline,Cork,2024-04-01,45000.0,15.0,50.0
+COR_carrigaline,Carrigaline,Cork,2024-05-01,45000.0,15.0,50.0
+COR_carrigaline,Carrigaline,Cork,2024-06-01,45000.0,15.0,50.0
+COR_carrigaline,Carrigaline,Cork,2024-07-01,45000.0,15.0,50.0
+COR_carrigaline,Carrigaline,Cork,2024-08-01,45000.0,15.0,50.0
+COR_carrigaline,Carrigaline,Cork,2024-09-01,45000.0,15.0,50.0
+COR_carrigaline,Carrigaline,Cork,2024-10-01,45000.0,15.0,50.0
+COR_carrigaline,Carrigaline,Cork,2024-11-01,45000.0,15.0,50.0
+COR_carrigaline,Carrigaline,Cork,2024-12-01,45000.0,15.0,50.0
+COR_cobh_urban,Cobh Urban,Cork,2024-01-01,45000.0,15.0,50.0
+COR_cobh_urban,Cobh Urban,Cork,2024-02-01,45000.0,15.0,50.0
+COR_cobh_urban,Cobh Urban,Cork,2024-03-01,45000.0,15.0,50.0
+COR_cobh_urban,Cobh Urban,Cork,2024-04-01,45000.0,15.0,50.0
+COR_cobh_urban,Cobh Urban,Cork,2024-05-01,45000.0,15.0,50.0
+COR_cobh_urban,Cobh Urban,Cork,2024-06-01,45000.0,15.0,50.0
+COR_cobh_urban,Cobh Urban,Cork,2024-07-01,45000.0,15.0,50.0
+COR_cobh_urban,Cobh Urban,Cork,2024-08-01,45000.0,15.0,50.0
+COR_cobh_urban,Cobh Urban,Cork,2024-09-01,45000.0,15.0,50.0
+COR_cobh_urban,Cobh Urban,Cork,2024-10-01,45000.0,15.0,50.0
+COR_cobh_urban,Cobh Urban,Cork,2024-11-01,45000.0,15.0,50.0
+COR_cobh_urban,Cobh Urban,Cork,2024-12-01,45000.0,15.0,50.0
+COR_midleton,Midleton,Cork,2024-01-01,45000.0,15.0,50.0
+COR_midleton,Midleton,Cork,2024-02-01,45000.0,15.0,50.0
+COR_midleton,Midleton,Cork,2024-03-01,45000.0,15.0,50.0
+COR_midleton,Midleton,Cork,2024-04-01,45000.0,15.0,50.0
+COR_midleton,Midleton,Cork,2024-05-01,45000.0,15.0,50.0
+COR_midleton,Midleton,Cork,2024-06-01,45000.0,15.0,50.0
+COR_midleton,Midleton,Cork,2024-07-01,45000.0,15.0,50.0
+COR_midleton,Midleton,Cork,2024-08-01,45000.0,15.0,50.0
+COR_midleton,Midleton,Cork,2024-09-01,45000.0,15.0,50.0
+COR_midleton,Midleton,Cork,2024-10-01,45000.0,15.0,50.0
+COR_midleton,Midleton,Cork,2024-11-01,45000.0,15.0,50.0
+COR_midleton,Midleton,Cork,2024-12-01,45000.0,15.0,50.0
+COR_mallow_urban,Mallow Urban,Cork,2024-01-01,45000.0,15.0,50.0
+COR_mallow_urban,Mallow Urban,Cork,2024-02-01,45000.0,15.0,50.0
+COR_mallow_urban,Mallow Urban,Cork,2024-03-01,45000.0,15.0,50.0
+COR_mallow_urban,Mallow Urban,Cork,2024-04-01,45000.0,15.0,50.0
+COR_mallow_urban,Mallow Urban,Cork,2024-05-01,45000.0,15.0,50.0
+COR_mallow_urban,Mallow Urban,Cork,2024-06-01,45000.0,15.0,50.0
+COR_mallow_urban,Mallow Urban,Cork,2024-07-01,45000.0,15.0,50.0
+COR_mallow_urban,Mallow Urban,Cork,2024-08-01,45000.0,15.0,50.0
+COR_mallow_urban,Mallow Urban,Cork,2024-09-01,45000.0,15.0,50.0
+COR_mallow_urban,Mallow Urban,Cork,2024-10-01,45000.0,15.0,50.0
+COR_mallow_urban,Mallow Urban,Cork,2024-11-01,45000.0,15.0,50.0
+COR_mallow_urban,Mallow Urban,Cork,2024-12-01,45000.0,15.0,50.0
+COR_fermoy_urban,Fermoy Urban,Cork,2024-01-01,45000.0,15.0,50.0
+COR_fermoy_urban,Fermoy Urban,Cork,2024-02-01,45000.0,15.0,50.0
+COR_fermoy_urban,Fermoy Urban,Cork,2024-03-01,45000.0,15.0,50.0
+COR_fermoy_urban,Fermoy Urban,Cork,2024-04-01,45000.0,15.0,50.0
+COR_fermoy_urban,Fermoy Urban,Cork,2024-05-01,45000.0,15.0,50.0
+COR_fermoy_urban,Fermoy Urban,Cork,2024-06-01,45000.0,15.0,50.0
+COR_fermoy_urban,Fermoy Urban,Cork,2024-07-01,45000.0,15.0,50.0
+COR_fermoy_urban,Fermoy Urban,Cork,2024-08-01,45000.0,15.0,50.0
+COR_fermoy_urban,Fermoy Urban,Cork,2024-09-01,45000.0,15.0,50.0
+COR_fermoy_urban,Fermoy Urban,Cork,2024-10-01,45000.0,15.0,50.0
+COR_fermoy_urban,Fermoy Urban,Cork,2024-11-01,45000.0,15.0,50.0
+COR_fermoy_urban,Fermoy Urban,Cork,2024-12-01,45000.0,15.0,50.0
+COR_bandon,Bandon,Cork,2024-01-01,36000.0,12.0,50.0
+COR_bandon,Bandon,Cork,2024-02-01,36000.0,12.0,50.0
+COR_bandon,Bandon,Cork,2024-03-01,36000.0,12.0,50.0
+COR_bandon,Bandon,Cork,2024-04-01,36000.0,12.0,50.0
+COR_bandon,Bandon,Cork,2024-05-01,36000.0,12.0,50.0
+COR_bandon,Bandon,Cork,2024-06-01,36000.0,12.0,50.0
+COR_bandon,Bandon,Cork,2024-07-01,36000.0,12.0,50.0
+COR_bandon,Bandon,Cork,2024-08-01,36000.0,12.0,50.0
+COR_bandon,Bandon,Cork,2024-09-01,36000.0,12.0,50.0
+COR_bandon,Bandon,Cork,2024-10-01,36000.0,12.0,50.0
+COR_bandon,Bandon,Cork,2024-11-01,36000.0,12.0,50.0
+COR_bandon,Bandon,Cork,2024-12-01,36000.0,12.0,50.0
+COR_kinsale,Kinsale,Cork,2024-01-01,36000.0,12.0,50.0
+COR_kinsale,Kinsale,Cork,2024-02-01,36000.0,12.0,50.0
+COR_kinsale,Kinsale,Cork,2024-03-01,36000.0,12.0,50.0
+COR_kinsale,Kinsale,Cork,2024-04-01,36000.0,12.0,50.0
+COR_kinsale,Kinsale,Cork,2024-05-01,36000.0,12.0,50.0
+COR_kinsale,Kinsale,Cork,2024-06-01,36000.0,12.0,50.0
+COR_kinsale,Kinsale,Cork,2024-07-01,36000.0,12.0,50.0
+COR_kinsale,Kinsale,Cork,2024-08-01,36000.0,12.0,50.0
+COR_kinsale,Kinsale,Cork,2024-09-01,36000.0,12.0,50.0
+COR_kinsale,Kinsale,Cork,2024-10-01,36000.0,12.0,50.0
+COR_kinsale,Kinsale,Cork,2024-11-01,36000.0,12.0,50.0
+COR_kinsale,Kinsale,Cork,2024-12-01,36000.0,12.0,50.0
+COR_skibbereen,Skibbereen,Cork,2024-01-01,22500.0,7.5,50.0
+COR_skibbereen,Skibbereen,Cork,2024-02-01,22500.0,7.5,50.0
+COR_skibbereen,Skibbereen,Cork,2024-03-01,22500.0,7.5,50.0
+COR_skibbereen,Skibbereen,Cork,2024-04-01,22500.0,7.5,50.0
+COR_skibbereen,Skibbereen,Cork,2024-05-01,22500.0,7.5,50.0
+COR_skibbereen,Skibbereen,Cork,2024-06-01,22500.0,7.5,50.0
+COR_skibbereen,Skibbereen,Cork,2024-07-01,22500.0,7.5,50.0
+COR_skibbereen,Skibbereen,Cork,2024-08-01,22500.0,7.5,50.0
+COR_skibbereen,Skibbereen,Cork,2024-09-01,22500.0,7.5,50.0
+COR_skibbereen,Skibbereen,Cork,2024-10-01,22500.0,7.5,50.0
+COR_skibbereen,Skibbereen,Cork,2024-11-01,22500.0,7.5,50.0
+COR_skibbereen,Skibbereen,Cork,2024-12-01,22500.0,7.5,50.0
+COR_bantry,Bantry,Cork,2024-01-01,22500.0,7.5,50.0
+COR_bantry,Bantry,Cork,2024-02-01,22500.0,7.5,50.0
+COR_bantry,Bantry,Cork,2024-03-01,22500.0,7.5,50.0
+COR_bantry,Bantry,Cork,2024-04-01,22500.0,7.5,50.0
+COR_bantry,Bantry,Cork,2024-05-01,22500.0,7.5,50.0
+COR_bantry,Bantry,Cork,2024-06-01,22500.0,7.5,50.0
+COR_bantry,Bantry,Cork,2024-07-01,22500.0,7.5,50.0
+COR_bantry,Bantry,Cork,2024-08-01,22500.0,7.5,50.0
+COR_bantry,Bantry,Cork,2024-09-01,22500.0,7.5,50.0
+COR_bantry,Bantry,Cork,2024-10-01,22500.0,7.5,50.0
+COR_bantry,Bantry,Cork,2024-11-01,22500.0,7.5,50.0
+COR_bantry,Bantry,Cork,2024-12-01,22500.0,7.5,50.0
+GAL_galway_city_east,Galway City East,Galway,2024-01-01,42000.0,14.0,50.0
+GAL_galway_city_east,Galway City East,Galway,2024-02-01,42000.0,14.0,50.0
+GAL_galway_city_east,Galway City East,Galway,2024-03-01,42000.0,14.0,50.0
+GAL_galway_city_east,Galway City East,Galway,2024-04-01,42000.0,14.0,50.0
+GAL_galway_city_east,Galway City East,Galway,2024-05-01,42000.0,14.0,50.0
+GAL_galway_city_east,Galway City East,Galway,2024-06-01,42000.0,14.0,50.0
+GAL_galway_city_east,Galway City East,Galway,2024-07-01,42000.0,14.0,50.0
+GAL_galway_city_east,Galway City East,Galway,2024-08-01,42000.0,14.0,50.0
+GAL_galway_city_east,Galway City East,Galway,2024-09-01,42000.0,14.0,50.0
+GAL_galway_city_east,Galway City East,Galway,2024-10-01,42000.0,14.0,50.0
+GAL_galway_city_east,Galway City East,Galway,2024-11-01,42000.0,14.0,50.0
+GAL_galway_city_east,Galway City East,Galway,2024-12-01,42000.0,14.0,50.0
+GAL_galway_city_west,Galway City West,Galway,2024-01-01,42000.0,14.0,50.0
+GAL_galway_city_west,Galway City West,Galway,2024-02-01,42000.0,14.0,50.0
+GAL_galway_city_west,Galway City West,Galway,2024-03-01,42000.0,14.0,50.0
+GAL_galway_city_west,Galway City West,Galway,2024-04-01,42000.0,14.0,50.0
+GAL_galway_city_west,Galway City West,Galway,2024-05-01,42000.0,14.0,50.0
+GAL_galway_city_west,Galway City West,Galway,2024-06-01,42000.0,14.0,50.0
+GAL_galway_city_west,Galway City West,Galway,2024-07-01,42000.0,14.0,50.0
+GAL_galway_city_west,Galway City West,Galway,2024-08-01,42000.0,14.0,50.0
+GAL_galway_city_west,Galway City West,Galway,2024-09-01,42000.0,14.0,50.0
+GAL_galway_city_west,Galway City West,Galway,2024-10-01,42000.0,14.0,50.0
+GAL_galway_city_west,Galway City West,Galway,2024-11-01,42000.0,14.0,50.0
+GAL_galway_city_west,Galway City West,Galway,2024-12-01,42000.0,14.0,50.0
+GAL_salthill,Salthill,Galway,2024-01-01,36000.0,12.0,50.0
+GAL_salthill,Salthill,Galway,2024-02-01,36000.0,12.0,50.0
+GAL_salthill,Salthill,Galway,2024-03-01,36000.0,12.0,50.0
+GAL_salthill,Salthill,Galway,2024-04-01,36000.0,12.0,50.0
+GAL_salthill,Salthill,Galway,2024-05-01,36000.0,12.0,50.0
+GAL_salthill,Salthill,Galway,2024-06-01,36000.0,12.0,50.0
+GAL_salthill,Salthill,Galway,2024-07-01,36000.0,12.0,50.0
+GAL_salthill,Salthill,Galway,2024-08-01,36000.0,12.0,50.0
+GAL_salthill,Salthill,Galway,2024-09-01,36000.0,12.0,50.0
+GAL_salthill,Salthill,Galway,2024-10-01,36000.0,12.0,50.0
+GAL_salthill,Salthill,Galway,2024-11-01,36000.0,12.0,50.0
+GAL_salthill,Salthill,Galway,2024-12-01,36000.0,12.0,50.0
+GAL_knocknacarra,Knocknacarra,Galway,2024-01-01,36000.0,12.0,50.0
+GAL_knocknacarra,Knocknacarra,Galway,2024-02-01,36000.0,12.0,50.0
+GAL_knocknacarra,Knocknacarra,Galway,2024-03-01,36000.0,12.0,50.0
+GAL_knocknacarra,Knocknacarra,Galway,2024-04-01,36000.0,12.0,50.0
+GAL_knocknacarra,Knocknacarra,Galway,2024-05-01,36000.0,12.0,50.0
+GAL_knocknacarra,Knocknacarra,Galway,2024-06-01,36000.0,12.0,50.0
+GAL_knocknacarra,Knocknacarra,Galway,2024-07-01,36000.0,12.0,50.0
+GAL_knocknacarra,Knocknacarra,Galway,2024-08-01,36000.0,12.0,50.0
+GAL_knocknacarra,Knocknacarra,Galway,2024-09-01,36000.0,12.0,50.0
+GAL_knocknacarra,Knocknacarra,Galway,2024-10-01,36000.0,12.0,50.0
+GAL_knocknacarra,Knocknacarra,Galway,2024-11-01,36000.0,12.0,50.0
+GAL_knocknacarra,Knocknacarra,Galway,2024-12-01,36000.0,12.0,50.0
+GAL_oranmore,Oranmore,Galway,2024-01-01,30000.0,10.0,50.0
+GAL_oranmore,Oranmore,Galway,2024-02-01,30000.0,10.0,50.0
+GAL_oranmore,Oranmore,Galway,2024-03-01,30000.0,10.0,50.0
+GAL_oranmore,Oranmore,Galway,2024-04-01,30000.0,10.0,50.0
+GAL_oranmore,Oranmore,Galway,2024-05-01,30000.0,10.0,50.0
+GAL_oranmore,Oranmore,Galway,2024-06-01,30000.0,10.0,50.0
+GAL_oranmore,Oranmore,Galway,2024-07-01,30000.0,10.0,50.0
+GAL_oranmore,Oranmore,Galway,2024-08-01,30000.0,10.0,50.0
+GAL_oranmore,Oranmore,Galway,2024-09-01,30000.0,10.0,50.0
+GAL_oranmore,Oranmore,Galway,2024-10-01,30000.0,10.0,50.0
+GAL_oranmore,Oranmore,Galway,2024-11-01,30000.0,10.0,50.0
+GAL_oranmore,Oranmore,Galway,2024-12-01,30000.0,10.0,50.0
+GAL_tuam_urban,Tuam Urban,Galway,2024-01-01,30000.0,10.0,50.0
+GAL_tuam_urban,Tuam Urban,Galway,2024-02-01,30000.0,10.0,50.0
+GAL_tuam_urban,Tuam Urban,Galway,2024-03-01,30000.0,10.0,50.0
+GAL_tuam_urban,Tuam Urban,Galway,2024-04-01,30000.0,10.0,50.0
+GAL_tuam_urban,Tuam Urban,Galway,2024-05-01,30000.0,10.0,50.0
+GAL_tuam_urban,Tuam Urban,Galway,2024-06-01,30000.0,10.0,50.0
+GAL_tuam_urban,Tuam Urban,Galway,2024-07-01,30000.0,10.0,50.0
+GAL_tuam_urban,Tuam Urban,Galway,2024-08-01,30000.0,10.0,50.0
+GAL_tuam_urban,Tuam Urban,Galway,2024-09-01,30000.0,10.0,50.0
+GAL_tuam_urban,Tuam Urban,Galway,2024-10-01,30000.0,10.0,50.0
+GAL_tuam_urban,Tuam Urban,Galway,2024-11-01,30000.0,10.0,50.0
+GAL_tuam_urban,Tuam Urban,Galway,2024-12-01,30000.0,10.0,50.0
+GAL_loughrea,Loughrea,Galway,2024-01-01,30000.0,10.0,50.0
+GAL_loughrea,Loughrea,Galway,2024-02-01,30000.0,10.0,50.0
+GAL_loughrea,Loughrea,Galway,2024-03-01,30000.0,10.0,50.0
+GAL_loughrea,Loughrea,Galway,2024-04-01,30000.0,10.0,50.0
+GAL_loughrea,Loughrea,Galway,2024-05-01,30000.0,10.0,50.0
+GAL_loughrea,Loughrea,Galway,2024-06-01,30000.0,10.0,50.0
+GAL_loughrea,Loughrea,Galway,2024-07-01,30000.0,10.0,50.0
+GAL_loughrea,Loughrea,Galway,2024-08-01,30000.0,10.0,50.0
+GAL_loughrea,Loughrea,Galway,2024-09-01,30000.0,10.0,50.0
+GAL_loughrea,Loughrea,Galway,2024-10-01,30000.0,10.0,50.0
+GAL_loughrea,Loughrea,Galway,2024-11-01,30000.0,10.0,50.0
+GAL_loughrea,Loughrea,Galway,2024-12-01,30000.0,10.0,50.0
+GAL_ballinasloe_urban,Ballinasloe Urban,Galway,2024-01-01,30000.0,10.0,50.0
+GAL_ballinasloe_urban,Ballinasloe Urban,Galway,2024-02-01,30000.0,10.0,50.0
+GAL_ballinasloe_urban,Ballinasloe Urban,Galway,2024-03-01,30000.0,10.0,50.0
+GAL_ballinasloe_urban,Ballinasloe Urban,Galway,2024-04-01,30000.0,10.0,50.0
+GAL_ballinasloe_urban,Ballinasloe Urban,Galway,2024-05-01,30000.0,10.0,50.0
+GAL_ballinasloe_urban,Ballinasloe Urban,Galway,2024-06-01,30000.0,10.0,50.0
+GAL_ballinasloe_urban,Ballinasloe Urban,Galway,2024-07-01,30000.0,10.0,50.0
+GAL_ballinasloe_urban,Ballinasloe Urban,Galway,2024-08-01,30000.0,10.0,50.0
+GAL_ballinasloe_urban,Ballinasloe Urban,Galway,2024-09-01,30000.0,10.0,50.0
+GAL_ballinasloe_urban,Ballinasloe Urban,Galway,2024-10-01,30000.0,10.0,50.0
+GAL_ballinasloe_urban,Ballinasloe Urban,Galway,2024-11-01,30000.0,10.0,50.0
+GAL_ballinasloe_urban,Ballinasloe Urban,Galway,2024-12-01,30000.0,10.0,50.0
+GAL_athenry,Athenry,Galway,2024-01-01,24000.0,8.0,50.0
+GAL_athenry,Athenry,Galway,2024-02-01,24000.0,8.0,50.0
+GAL_athenry,Athenry,Galway,2024-03-01,24000.0,8.0,50.0
+GAL_athenry,Athenry,Galway,2024-04-01,24000.0,8.0,50.0
+GAL_athenry,Athenry,Galway,2024-05-01,24000.0,8.0,50.0
+GAL_athenry,Athenry,Galway,2024-06-01,24000.0,8.0,50.0
+GAL_athenry,Athenry,Galway,2024-07-01,24000.0,8.0,50.0
+GAL_athenry,Athenry,Galway,2024-08-01,24000.0,8.0,50.0
+GAL_athenry,Athenry,Galway,2024-09-01,24000.0,8.0,50.0
+GAL_athenry,Athenry,Galway,2024-10-01,24000.0,8.0,50.0
+GAL_athenry,Athenry,Galway,2024-11-01,24000.0,8.0,50.0
+GAL_athenry,Athenry,Galway,2024-12-01,24000.0,8.0,50.0
+GAL_clifden,Clifden,Galway,2024-01-01,24000.0,8.0,50.0
+GAL_clifden,Clifden,Galway,2024-02-01,24000.0,8.0,50.0
+GAL_clifden,Clifden,Galway,2024-03-01,24000.0,8.0,50.0
+GAL_clifden,Clifden,Galway,2024-04-01,24000.0,8.0,50.0
+GAL_clifden,Clifden,Galway,2024-05-01,24000.0,8.0,50.0
+GAL_clifden,Clifden,Galway,2024-06-01,24000.0,8.0,50.0
+GAL_clifden,Clifden,Galway,2024-07-01,24000.0,8.0,50.0
+GAL_clifden,Clifden,Galway,2024-08-01,24000.0,8.0,50.0
+GAL_clifden,Clifden,Galway,2024-09-01,24000.0,8.0,50.0
+GAL_clifden,Clifden,Galway,2024-10-01,24000.0,8.0,50.0
+GAL_clifden,Clifden,Galway,2024-11-01,24000.0,8.0,50.0
+GAL_clifden,Clifden,Galway,2024-12-01,24000.0,8.0,50.0
+GAL_oughterard,Oughterard,Galway,2024-01-01,15000.0,5.0,50.0
+GAL_oughterard,Oughterard,Galway,2024-02-01,15000.0,5.0,50.0
+GAL_oughterard,Oughterard,Galway,2024-03-01,15000.0,5.0,50.0
+GAL_oughterard,Oughterard,Galway,2024-04-01,15000.0,5.0,50.0
+GAL_oughterard,Oughterard,Galway,2024-05-01,15000.0,5.0,50.0
+GAL_oughterard,Oughterard,Galway,2024-06-01,15000.0,5.0,50.0
+GAL_oughterard,Oughterard,Galway,2024-07-01,15000.0,5.0,50.0
+GAL_oughterard,Oughterard,Galway,2024-08-01,15000.0,5.0,50.0
+GAL_oughterard,Oughterard,Galway,2024-09-01,15000.0,5.0,50.0
+GAL_oughterard,Oughterard,Galway,2024-10-01,15000.0,5.0,50.0
+GAL_oughterard,Oughterard,Galway,2024-11-01,15000.0,5.0,50.0
+GAL_oughterard,Oughterard,Galway,2024-12-01,15000.0,5.0,50.0
+GAL_spiddal,Spiddal,Galway,2024-01-01,15000.0,5.0,50.0
+GAL_spiddal,Spiddal,Galway,2024-02-01,15000.0,5.0,50.0
+GAL_spiddal,Spiddal,Galway,2024-03-01,15000.0,5.0,50.0
+GAL_spiddal,Spiddal,Galway,2024-04-01,15000.0,5.0,50.0
+GAL_spiddal,Spiddal,Galway,2024-05-01,15000.0,5.0,50.0
+GAL_spiddal,Spiddal,Galway,2024-06-01,15000.0,5.0,50.0
+GAL_spiddal,Spiddal,Galway,2024-07-01,15000.0,5.0,50.0
+GAL_spiddal,Spiddal,Galway,2024-08-01,15000.0,5.0,50.0
+GAL_spiddal,Spiddal,Galway,2024-09-01,15000.0,5.0,50.0
+GAL_spiddal,Spiddal,Galway,2024-10-01,15000.0,5.0,50.0
+GAL_spiddal,Spiddal,Galway,2024-11-01,15000.0,5.0,50.0
+GAL_spiddal,Spiddal,Galway,2024-12-01,15000.0,5.0,50.0
+LIM_limerick_city_east,Limerick City East,Limerick,2024-01-01,39200.0,13.1,50.0
+LIM_limerick_city_east,Limerick City East,Limerick,2024-02-01,39200.0,13.1,50.0
+LIM_limerick_city_east,Limerick City East,Limerick,2024-03-01,39200.0,13.1,50.0
+LIM_limerick_city_east,Limerick City East,Limerick,2024-04-01,39200.0,13.1,50.0
+LIM_limerick_city_east,Limerick City East,Limerick,2024-05-01,39200.0,13.1,50.0
+LIM_limerick_city_east,Limerick City East,Limerick,2024-06-01,39200.0,13.1,50.0
+LIM_limerick_city_east,Limerick City East,Limerick,2024-07-01,39200.0,13.1,50.0
+LIM_limerick_city_east,Limerick City East,Limerick,2024-08-01,39200.0,13.1,50.0
+LIM_limerick_city_east,Limerick City East,Limerick,2024-09-01,39200.0,13.1,50.0
+LIM_limerick_city_east,Limerick City East,Limerick,2024-10-01,39200.0,13.1,50.0
+LIM_limerick_city_east,Limerick City East,Limerick,2024-11-01,39200.0,13.1,50.0
+LIM_limerick_city_east,Limerick City East,Limerick,2024-12-01,39200.0,13.1,50.0
+LIM_limerick_city_west,Limerick City West,Limerick,2024-01-01,39200.0,13.1,50.0
+LIM_limerick_city_west,Limerick City West,Limerick,2024-02-01,39200.0,13.1,50.0
+LIM_limerick_city_west,Limerick City West,Limerick,2024-03-01,39200.0,13.1,50.0
+LIM_limerick_city_west,Limerick City West,Limerick,2024-04-01,39200.0,13.1,50.0
+LIM_limerick_city_west,Limerick City West,Limerick,2024-05-01,39200.0,13.1,50.0
+LIM_limerick_city_west,Limerick City West,Limerick,2024-06-01,39200.0,13.1,50.0
+LIM_limerick_city_west,Limerick City West,Limerick,2024-07-01,39200.0,13.1,50.0
+LIM_limerick_city_west,Limerick City West,Limerick,2024-08-01,39200.0,13.1,50.0
+LIM_limerick_city_west,Limerick City West,Limerick,2024-09-01,39200.0,13.1,50.0
+LIM_limerick_city_west,Limerick City West,Limerick,2024-10-01,39200.0,13.1,50.0
+LIM_limerick_city_west,Limerick City West,Limerick,2024-11-01,39200.0,13.1,50.0
+LIM_limerick_city_west,Limerick City West,Limerick,2024-12-01,39200.0,13.1,50.0
+LIM_castletroy,Castletroy,Limerick,2024-01-01,33600.0,11.2,50.0
+LIM_castletroy,Castletroy,Limerick,2024-02-01,33600.0,11.2,50.0
+LIM_castletroy,Castletroy,Limerick,2024-03-01,33600.0,11.2,50.0
+LIM_castletroy,Castletroy,Limerick,2024-04-01,33600.0,11.2,50.0
+LIM_castletroy,Castletroy,Limerick,2024-05-01,33600.0,11.2,50.0
+LIM_castletroy,Castletroy,Limerick,2024-06-01,33600.0,11.2,50.0
+LIM_castletroy,Castletroy,Limerick,2024-07-01,33600.0,11.2,50.0
+LIM_castletroy,Castletroy,Limerick,2024-08-01,33600.0,11.2,50.0
+LIM_castletroy,Castletroy,Limerick,2024-09-01,33600.0,11.2,50.0
+LIM_castletroy,Castletroy,Limerick,2024-10-01,33600.0,11.2,50.0
+LIM_castletroy,Castletroy,Limerick,2024-11-01,33600.0,11.2,50.0
+LIM_castletroy,Castletroy,Limerick,2024-12-01,33600.0,11.2,50.0
+LIM_raheen,Raheen,Limerick,2024-01-01,33600.0,11.2,50.0
+LIM_raheen,Raheen,Limerick,2024-02-01,33600.0,11.2,50.0
+LIM_raheen,Raheen,Limerick,2024-03-01,33600.0,11.2,50.0
+LIM_raheen,Raheen,Limerick,2024-04-01,33600.0,11.2,50.0
+LIM_raheen,Raheen,Limerick,2024-05-01,33600.0,11.2,50.0
+LIM_raheen,Raheen,Limerick,2024-06-01,33600.0,11.2,50.0
+LIM_raheen,Raheen,Limerick,2024-07-01,33600.0,11.2,50.0
+LIM_raheen,Raheen,Limerick,2024-08-01,33600.0,11.2,50.0
+LIM_raheen,Raheen,Limerick,2024-09-01,33600.0,11.2,50.0
+LIM_raheen,Raheen,Limerick,2024-10-01,33600.0,11.2,50.0
+LIM_raheen,Raheen,Limerick,2024-11-01,33600.0,11.2,50.0
+LIM_raheen,Raheen,Limerick,2024-12-01,33600.0,11.2,50.0
+LIM_dooradoyle,Dooradoyle,Limerick,2024-01-01,33600.0,11.2,50.0
+LIM_dooradoyle,Dooradoyle,Limerick,2024-02-01,33600.0,11.2,50.0
+LIM_dooradoyle,Dooradoyle,Limerick,2024-03-01,33600.0,11.2,50.0
+LIM_dooradoyle,Dooradoyle,Limerick,2024-04-01,33600.0,11.2,50.0
+LIM_dooradoyle,Dooradoyle,Limerick,2024-05-01,33600.0,11.2,50.0
+LIM_dooradoyle,Dooradoyle,Limerick,2024-06-01,33600.0,11.2,50.0
+LIM_dooradoyle,Dooradoyle,Limerick,2024-07-01,33600.0,11.2,50.0
+LIM_dooradoyle,Dooradoyle,Limerick,2024-08-01,33600.0,11.2,50.0
+LIM_dooradoyle,Dooradoyle,Limerick,2024-09-01,33600.0,11.2,50.0
+LIM_dooradoyle,Dooradoyle,Limerick,2024-10-01,33600.0,11.2,50.0
+LIM_dooradoyle,Dooradoyle,Limerick,2024-11-01,33600.0,11.2,50.0
+LIM_dooradoyle,Dooradoyle,Limerick,2024-12-01,33600.0,11.2,50.0
+LIM_newcastle_west,Newcastle West,Limerick,2024-01-01,28000.0,9.3,50.0
+LIM_newcastle_west,Newcastle West,Limerick,2024-02-01,28000.0,9.3,50.0
+LIM_newcastle_west,Newcastle West,Limerick,2024-03-01,28000.0,9.3,50.0
+LIM_newcastle_west,Newcastle West,Limerick,2024-04-01,28000.0,9.3,50.0
+LIM_newcastle_west,Newcastle West,Limerick,2024-05-01,28000.0,9.3,50.0
+LIM_newcastle_west,Newcastle West,Limerick,2024-06-01,28000.0,9.3,50.0
+LIM_newcastle_west,Newcastle West,Limerick,2024-07-01,28000.0,9.3,50.0
+LIM_newcastle_west,Newcastle West,Limerick,2024-08-01,28000.0,9.3,50.0
+LIM_newcastle_west,Newcastle West,Limerick,2024-09-01,28000.0,9.3,50.0
+LIM_newcastle_west,Newcastle West,Limerick,2024-10-01,28000.0,9.3,50.0
+LIM_newcastle_west,Newcastle West,Limerick,2024-11-01,28000.0,9.3,50.0
+LIM_newcastle_west,Newcastle West,Limerick,2024-12-01,28000.0,9.3,50.0
+LIM_adare,Adare,Limerick,2024-01-01,28000.0,9.3,50.0
+LIM_adare,Adare,Limerick,2024-02-01,28000.0,9.3,50.0
+LIM_adare,Adare,Limerick,2024-03-01,28000.0,9.3,50.0
+LIM_adare,Adare,Limerick,2024-04-01,28000.0,9.3,50.0
+LIM_adare,Adare,Limerick,2024-05-01,28000.0,9.3,50.0
+LIM_adare,Adare,Limerick,2024-06-01,28000.0,9.3,50.0
+LIM_adare,Adare,Limerick,2024-07-01,28000.0,9.3,50.0
+LIM_adare,Adare,Limerick,2024-08-01,28000.0,9.3,50.0
+LIM_adare,Adare,Limerick,2024-09-01,28000.0,9.3,50.0
+LIM_adare,Adare,Limerick,2024-10-01,28000.0,9.3,50.0
+LIM_adare,Adare,Limerick,2024-11-01,28000.0,9.3,50.0
+LIM_adare,Adare,Limerick,2024-12-01,28000.0,9.3,50.0
+LIM_kilmallock,Kilmallock,Limerick,2024-01-01,22400.0,7.5,50.0
+LIM_kilmallock,Kilmallock,Limerick,2024-02-01,22400.0,7.5,50.0
+LIM_kilmallock,Kilmallock,Limerick,2024-03-01,22400.0,7.5,50.0
+LIM_kilmallock,Kilmallock,Limerick,2024-04-01,22400.0,7.5,50.0
+LIM_kilmallock,Kilmallock,Limerick,2024-05-01,22400.0,7.5,50.0
+LIM_kilmallock,Kilmallock,Limerick,2024-06-01,22400.0,7.5,50.0
+LIM_kilmallock,Kilmallock,Limerick,2024-07-01,22400.0,7.5,50.0
+LIM_kilmallock,Kilmallock,Limerick,2024-08-01,22400.0,7.5,50.0
+LIM_kilmallock,Kilmallock,Limerick,2024-09-01,22400.0,7.5,50.0
+LIM_kilmallock,Kilmallock,Limerick,2024-10-01,22400.0,7.5,50.0
+LIM_kilmallock,Kilmallock,Limerick,2024-11-01,22400.0,7.5,50.0
+LIM_kilmallock,Kilmallock,Limerick,2024-12-01,22400.0,7.5,50.0
+LIM_abbeyfeale,Abbeyfeale,Limerick,2024-01-01,22400.0,7.5,50.0
+LIM_abbeyfeale,Abbeyfeale,Limerick,2024-02-01,22400.0,7.5,50.0
+LIM_abbeyfeale,Abbeyfeale,Limerick,2024-03-01,22400.0,7.5,50.0
+LIM_abbeyfeale,Abbeyfeale,Limerick,2024-04-01,22400.0,7.5,50.0
+LIM_abbeyfeale,Abbeyfeale,Limerick,2024-05-01,22400.0,7.5,50.0
+LIM_abbeyfeale,Abbeyfeale,Limerick,2024-06-01,22400.0,7.5,50.0
+LIM_abbeyfeale,Abbeyfeale,Limerick,2024-07-01,22400.0,7.5,50.0
+LIM_abbeyfeale,Abbeyfeale,Limerick,2024-08-01,22400.0,7.5,50.0
+LIM_abbeyfeale,Abbeyfeale,Limerick,2024-09-01,22400.0,7.5,50.0
+LIM_abbeyfeale,Abbeyfeale,Limerick,2024-10-01,22400.0,7.5,50.0
+LIM_abbeyfeale,Abbeyfeale,Limerick,2024-11-01,22400.0,7.5,50.0
+LIM_abbeyfeale,Abbeyfeale,Limerick,2024-12-01,22400.0,7.5,50.0
+LIM_askeaton,Askeaton,Limerick,2024-01-01,14000.0,4.7,50.0
+LIM_askeaton,Askeaton,Limerick,2024-02-01,14000.0,4.7,50.0
+LIM_askeaton,Askeaton,Limerick,2024-03-01,14000.0,4.7,50.0
+LIM_askeaton,Askeaton,Limerick,2024-04-01,14000.0,4.7,50.0
+LIM_askeaton,Askeaton,Limerick,2024-05-01,14000.0,4.7,50.0
+LIM_askeaton,Askeaton,Limerick,2024-06-01,14000.0,4.7,50.0
+LIM_askeaton,Askeaton,Limerick,2024-07-01,14000.0,4.7,50.0
+LIM_askeaton,Askeaton,Limerick,2024-08-01,14000.0,4.7,50.0
+LIM_askeaton,Askeaton,Limerick,2024-09-01,14000.0,4.7,50.0
+LIM_askeaton,Askeaton,Limerick,2024-10-01,14000.0,4.7,50.0
+LIM_askeaton,Askeaton,Limerick,2024-11-01,14000.0,4.7,50.0
+LIM_askeaton,Askeaton,Limerick,2024-12-01,14000.0,4.7,50.0
+LIM_bruff,Bruff,Limerick,2024-01-01,14000.0,4.7,50.0
+LIM_bruff,Bruff,Limerick,2024-02-01,14000.0,4.7,50.0
+LIM_bruff,Bruff,Limerick,2024-03-01,14000.0,4.7,50.0
+LIM_bruff,Bruff,Limerick,2024-04-01,14000.0,4.7,50.0
+LIM_bruff,Bruff,Limerick,2024-05-01,14000.0,4.7,50.0
+LIM_bruff,Bruff,Limerick,2024-06-01,14000.0,4.7,50.0
+LIM_bruff,Bruff,Limerick,2024-07-01,14000.0,4.7,50.0
+LIM_bruff,Bruff,Limerick,2024-08-01,14000.0,4.7,50.0
+LIM_bruff,Bruff,Limerick,2024-09-01,14000.0,4.7,50.0
+LIM_bruff,Bruff,Limerick,2024-10-01,14000.0,4.7,50.0
+LIM_bruff,Bruff,Limerick,2024-11-01,14000.0,4.7,50.0
+LIM_bruff,Bruff,Limerick,2024-12-01,14000.0,4.7,50.0
+WAT_waterford_city_centre,Waterford City Centre,Waterford,2024-01-01,30800.0,10.3,50.0
+WAT_waterford_city_centre,Waterford City Centre,Waterford,2024-02-01,30800.0,10.3,50.0
+WAT_waterford_city_centre,Waterford City Centre,Waterford,2024-03-01,30800.0,10.3,50.0
+WAT_waterford_city_centre,Waterford City Centre,Waterford,2024-04-01,30800.0,10.3,50.0
+WAT_waterford_city_centre,Waterford City Centre,Waterford,2024-05-01,30800.0,10.3,50.0
+WAT_waterford_city_centre,Waterford City Centre,Waterford,2024-06-01,30800.0,10.3,50.0
+WAT_waterford_city_centre,Waterford City Centre,Waterford,2024-07-01,30800.0,10.3,50.0
+WAT_waterford_city_centre,Waterford City Centre,Waterford,2024-08-01,30800.0,10.3,50.0
+WAT_waterford_city_centre,Waterford City Centre,Waterford,2024-09-01,30800.0,10.3,50.0
+WAT_waterford_city_centre,Waterford City Centre,Waterford,2024-10-01,30800.0,10.3,50.0
+WAT_waterford_city_centre,Waterford City Centre,Waterford,2024-11-01,30800.0,10.3,50.0
+WAT_waterford_city_centre,Waterford City Centre,Waterford,2024-12-01,30800.0,10.3,50.0
+WAT_waterford_city_south,Waterford City South,Waterford,2024-01-01,30800.0,10.3,50.0
+WAT_waterford_city_south,Waterford City South,Waterford,2024-02-01,30800.0,10.3,50.0
+WAT_waterford_city_south,Waterford City South,Waterford,2024-03-01,30800.0,10.3,50.0
+WAT_waterford_city_south,Waterford City South,Waterford,2024-04-01,30800.0,10.3,50.0
+WAT_waterford_city_south,Waterford City South,Waterford,2024-05-01,30800.0,10.3,50.0
+WAT_waterford_city_south,Waterford City South,Waterford,2024-06-01,30800.0,10.3,50.0
+WAT_waterford_city_south,Waterford City South,Waterford,2024-07-01,30800.0,10.3,50.0
+WAT_waterford_city_south,Waterford City South,Waterford,2024-08-01,30800.0,10.3,50.0
+WAT_waterford_city_south,Waterford City South,Waterford,2024-09-01,30800.0,10.3,50.0
+WAT_waterford_city_south,Waterford City South,Waterford,2024-10-01,30800.0,10.3,50.0
+WAT_waterford_city_south,Waterford City South,Waterford,2024-11-01,30800.0,10.3,50.0
+WAT_waterford_city_south,Waterford City South,Waterford,2024-12-01,30800.0,10.3,50.0
+WAT_tramore_urban,Tramore Urban,Waterford,2024-01-01,26400.0,8.8,50.0
+WAT_tramore_urban,Tramore Urban,Waterford,2024-02-01,26400.0,8.8,50.0
+WAT_tramore_urban,Tramore Urban,Waterford,2024-03-01,26400.0,8.8,50.0
+WAT_tramore_urban,Tramore Urban,Waterford,2024-04-01,26400.0,8.8,50.0
+WAT_tramore_urban,Tramore Urban,Waterford,2024-05-01,26400.0,8.8,50.0
+WAT_tramore_urban,Tramore Urban,Waterford,2024-06-01,26400.0,8.8,50.0
+WAT_tramore_urban,Tramore Urban,Waterford,2024-07-01,26400.0,8.8,50.0
+WAT_tramore_urban,Tramore Urban,Waterford,2024-08-01,26400.0,8.8,50.0
+WAT_tramore_urban,Tramore Urban,Waterford,2024-09-01,26400.0,8.8,50.0
+WAT_tramore_urban,Tramore Urban,Waterford,2024-10-01,26400.0,8.8,50.0
+WAT_tramore_urban,Tramore Urban,Waterford,2024-11-01,26400.0,8.8,50.0
+WAT_tramore_urban,Tramore Urban,Waterford,2024-12-01,26400.0,8.8,50.0
+WAT_dunmore_east,Dunmore East,Waterford,2024-01-01,26400.0,8.8,50.0
+WAT_dunmore_east,Dunmore East,Waterford,2024-02-01,26400.0,8.8,50.0
+WAT_dunmore_east,Dunmore East,Waterford,2024-03-01,26400.0,8.8,50.0
+WAT_dunmore_east,Dunmore East,Waterford,2024-04-01,26400.0,8.8,50.0
+WAT_dunmore_east,Dunmore East,Waterford,2024-05-01,26400.0,8.8,50.0
+WAT_dunmore_east,Dunmore East,Waterford,2024-06-01,26400.0,8.8,50.0
+WAT_dunmore_east,Dunmore East,Waterford,2024-07-01,26400.0,8.8,50.0
+WAT_dunmore_east,Dunmore East,Waterford,2024-08-01,26400.0,8.8,50.0
+WAT_dunmore_east,Dunmore East,Waterford,2024-09-01,26400.0,8.8,50.0
+WAT_dunmore_east,Dunmore East,Waterford,2024-10-01,26400.0,8.8,50.0
+WAT_dunmore_east,Dunmore East,Waterford,2024-11-01,26400.0,8.8,50.0
+WAT_dunmore_east,Dunmore East,Waterford,2024-12-01,26400.0,8.8,50.0
+WAT_dungarvan_urban,Dungarvan Urban,Waterford,2024-01-01,22000.0,7.3,50.0
+WAT_dungarvan_urban,Dungarvan Urban,Waterford,2024-02-01,22000.0,7.3,50.0
+WAT_dungarvan_urban,Dungarvan Urban,Waterford,2024-03-01,22000.0,7.3,50.0
+WAT_dungarvan_urban,Dungarvan Urban,Waterford,2024-04-01,22000.0,7.3,50.0
+WAT_dungarvan_urban,Dungarvan Urban,Waterford,2024-05-01,22000.0,7.3,50.0
+WAT_dungarvan_urban,Dungarvan Urban,Waterford,2024-06-01,22000.0,7.3,50.0
+WAT_dungarvan_urban,Dungarvan Urban,Waterford,2024-07-01,22000.0,7.3,50.0
+WAT_dungarvan_urban,Dungarvan Urban,Waterford,2024-08-01,22000.0,7.3,50.0
+WAT_dungarvan_urban,Dungarvan Urban,Waterford,2024-09-01,22000.0,7.3,50.0
+WAT_dungarvan_urban,Dungarvan Urban,Waterford,2024-10-01,22000.0,7.3,50.0
+WAT_dungarvan_urban,Dungarvan Urban,Waterford,2024-11-01,22000.0,7.3,50.0
+WAT_dungarvan_urban,Dungarvan Urban,Waterford,2024-12-01,22000.0,7.3,50.0
+WAT_lismore,Lismore,Waterford,2024-01-01,17600.0,5.9,50.0
+WAT_lismore,Lismore,Waterford,2024-02-01,17600.0,5.9,50.0
+WAT_lismore,Lismore,Waterford,2024-03-01,17600.0,5.9,50.0
+WAT_lismore,Lismore,Waterford,2024-04-01,17600.0,5.9,50.0
+WAT_lismore,Lismore,Waterford,2024-05-01,17600.0,5.9,50.0
+WAT_lismore,Lismore,Waterford,2024-06-01,17600.0,5.9,50.0
+WAT_lismore,Lismore,Waterford,2024-07-01,17600.0,5.9,50.0
+WAT_lismore,Lismore,Waterford,2024-08-01,17600.0,5.9,50.0
+WAT_lismore,Lismore,Waterford,2024-09-01,17600.0,5.9,50.0
+WAT_lismore,Lismore,Waterford,2024-10-01,17600.0,5.9,50.0
+WAT_lismore,Lismore,Waterford,2024-11-01,17600.0,5.9,50.0
+WAT_lismore,Lismore,Waterford,2024-12-01,17600.0,5.9,50.0
+WAT_cappoquin,Cappoquin,Waterford,2024-01-01,17600.0,5.9,50.0
+WAT_cappoquin,Cappoquin,Waterford,2024-02-01,17600.0,5.9,50.0
+WAT_cappoquin,Cappoquin,Waterford,2024-03-01,17600.0,5.9,50.0
+WAT_cappoquin,Cappoquin,Waterford,2024-04-01,17600.0,5.9,50.0
+WAT_cappoquin,Cappoquin,Waterford,2024-05-01,17600.0,5.9,50.0
+WAT_cappoquin,Cappoquin,Waterford,2024-06-01,17600.0,5.9,50.0
+WAT_cappoquin,Cappoquin,Waterford,2024-07-01,17600.0,5.9,50.0
+WAT_cappoquin,Cappoquin,Waterford,2024-08-01,17600.0,5.9,50.0
+WAT_cappoquin,Cappoquin,Waterford,2024-09-01,17600.0,5.9,50.0
+WAT_cappoquin,Cappoquin,Waterford,2024-10-01,17600.0,5.9,50.0
+WAT_cappoquin,Cappoquin,Waterford,2024-11-01,17600.0,5.9,50.0
+WAT_cappoquin,Cappoquin,Waterford,2024-12-01,17600.0,5.9,50.0
+WAT_ardmore,Ardmore,Waterford,2024-01-01,11000.0,3.7,50.0
+WAT_ardmore,Ardmore,Waterford,2024-02-01,11000.0,3.7,50.0
+WAT_ardmore,Ardmore,Waterford,2024-03-01,11000.0,3.7,50.0
+WAT_ardmore,Ardmore,Waterford,2024-04-01,11000.0,3.7,50.0
+WAT_ardmore,Ardmore,Waterford,2024-05-01,11000.0,3.7,50.0
+WAT_ardmore,Ardmore,Waterford,2024-06-01,11000.0,3.7,50.0
+WAT_ardmore,Ardmore,Waterford,2024-07-01,11000.0,3.7,50.0
+WAT_ardmore,Ardmore,Waterford,2024-08-01,11000.0,3.7,50.0
+WAT_ardmore,Ardmore,Waterford,2024-09-01,11000.0,3.7,50.0
+WAT_ardmore,Ardmore,Waterford,2024-10-01,11000.0,3.7,50.0
+WAT_ardmore,Ardmore,Waterford,2024-11-01,11000.0,3.7,50.0
+WAT_ardmore,Ardmore,Waterford,2024-12-01,11000.0,3.7,50.0
+WAT_portlaw,Portlaw,Waterford,2024-01-01,11000.0,3.7,50.0
+WAT_portlaw,Portlaw,Waterford,2024-02-01,11000.0,3.7,50.0
+WAT_portlaw,Portlaw,Waterford,2024-03-01,11000.0,3.7,50.0
+WAT_portlaw,Portlaw,Waterford,2024-04-01,11000.0,3.7,50.0
+WAT_portlaw,Portlaw,Waterford,2024-05-01,11000.0,3.7,50.0
+WAT_portlaw,Portlaw,Waterford,2024-06-01,11000.0,3.7,50.0
+WAT_portlaw,Portlaw,Waterford,2024-07-01,11000.0,3.7,50.0
+WAT_portlaw,Portlaw,Waterford,2024-08-01,11000.0,3.7,50.0
+WAT_portlaw,Portlaw,Waterford,2024-09-01,11000.0,3.7,50.0
+WAT_portlaw,Portlaw,Waterford,2024-10-01,11000.0,3.7,50.0
+WAT_portlaw,Portlaw,Waterford,2024-11-01,11000.0,3.7,50.0
+WAT_portlaw,Portlaw,Waterford,2024-12-01,11000.0,3.7,50.0
+WAT_kilmacthomas,Kilmacthomas,Waterford,2024-01-01,11000.0,3.7,50.0
+WAT_kilmacthomas,Kilmacthomas,Waterford,2024-02-01,11000.0,3.7,50.0
+WAT_kilmacthomas,Kilmacthomas,Waterford,2024-03-01,11000.0,3.7,50.0
+WAT_kilmacthomas,Kilmacthomas,Waterford,2024-04-01,11000.0,3.7,50.0
+WAT_kilmacthomas,Kilmacthomas,Waterford,2024-05-01,11000.0,3.7,50.0
+WAT_kilmacthomas,Kilmacthomas,Waterford,2024-06-01,11000.0,3.7,50.0
+WAT_kilmacthomas,Kilmacthomas,Waterford,2024-07-01,11000.0,3.7,50.0
+WAT_kilmacthomas,Kilmacthomas,Waterford,2024-08-01,11000.0,3.7,50.0
+WAT_kilmacthomas,Kilmacthomas,Waterford,2024-09-01,11000.0,3.7,50.0
+WAT_kilmacthomas,Kilmacthomas,Waterford,2024-10-01,11000.0,3.7,50.0
+WAT_kilmacthomas,Kilmacthomas,Waterford,2024-11-01,11000.0,3.7,50.0
+WAT_kilmacthomas,Kilmacthomas,Waterford,2024-12-01,11000.0,3.7,50.0
+KER_tralee_urban,Tralee Urban,Kerry,2024-01-01,25200.0,8.4,50.0
+KER_tralee_urban,Tralee Urban,Kerry,2024-02-01,25200.0,8.4,50.0
+KER_tralee_urban,Tralee Urban,Kerry,2024-03-01,25200.0,8.4,50.0
+KER_tralee_urban,Tralee Urban,Kerry,2024-04-01,25200.0,8.4,50.0
+KER_tralee_urban,Tralee Urban,Kerry,2024-05-01,25200.0,8.4,50.0
+KER_tralee_urban,Tralee Urban,Kerry,2024-06-01,25200.0,8.4,50.0
+KER_tralee_urban,Tralee Urban,Kerry,2024-07-01,25200.0,8.4,50.0
+KER_tralee_urban,Tralee Urban,Kerry,2024-08-01,25200.0,8.4,50.0
+KER_tralee_urban,Tralee Urban,Kerry,2024-09-01,25200.0,8.4,50.0
+KER_tralee_urban,Tralee Urban,Kerry,2024-10-01,25200.0,8.4,50.0
+KER_tralee_urban,Tralee Urban,Kerry,2024-11-01,25200.0,8.4,50.0
+KER_tralee_urban,Tralee Urban,Kerry,2024-12-01,25200.0,8.4,50.0
+KER_killarney_urban,Killarney Urban,Kerry,2024-01-01,25200.0,8.4,50.0
+KER_killarney_urban,Killarney Urban,Kerry,2024-02-01,25200.0,8.4,50.0
+KER_killarney_urban,Killarney Urban,Kerry,2024-03-01,25200.0,8.4,50.0
+KER_killarney_urban,Killarney Urban,Kerry,2024-04-01,25200.0,8.4,50.0
+KER_killarney_urban,Killarney Urban,Kerry,2024-05-01,25200.0,8.4,50.0
+KER_killarney_urban,Killarney Urban,Kerry,2024-06-01,25200.0,8.4,50.0
+KER_killarney_urban,Killarney Urban,Kerry,2024-07-01,25200.0,8.4,50.0
+KER_killarney_urban,Killarney Urban,Kerry,2024-08-01,25200.0,8.4,50.0
+KER_killarney_urban,Killarney Urban,Kerry,2024-09-01,25200.0,8.4,50.0
+KER_killarney_urban,Killarney Urban,Kerry,2024-10-01,25200.0,8.4,50.0
+KER_killarney_urban,Killarney Urban,Kerry,2024-11-01,25200.0,8.4,50.0
+KER_killarney_urban,Killarney Urban,Kerry,2024-12-01,25200.0,8.4,50.0
+KER_listowel_urban,Listowel Urban,Kerry,2024-01-01,18000.0,6.0,50.0
+KER_listowel_urban,Listowel Urban,Kerry,2024-02-01,18000.0,6.0,50.0
+KER_listowel_urban,Listowel Urban,Kerry,2024-03-01,18000.0,6.0,50.0
+KER_listowel_urban,Listowel Urban,Kerry,2024-04-01,18000.0,6.0,50.0
+KER_listowel_urban,Listowel Urban,Kerry,2024-05-01,18000.0,6.0,50.0
+KER_listowel_urban,Listowel Urban,Kerry,2024-06-01,18000.0,6.0,50.0
+KER_listowel_urban,Listowel Urban,Kerry,2024-07-01,18000.0,6.0,50.0
+KER_listowel_urban,Listowel Urban,Kerry,2024-08-01,18000.0,6.0,50.0
+KER_listowel_urban,Listowel Urban,Kerry,2024-09-01,18000.0,6.0,50.0
+KER_listowel_urban,Listowel Urban,Kerry,2024-10-01,18000.0,6.0,50.0
+KER_listowel_urban,Listowel Urban,Kerry,2024-11-01,18000.0,6.0,50.0
+KER_listowel_urban,Listowel Urban,Kerry,2024-12-01,18000.0,6.0,50.0
+KER_dingle,Dingle,Kerry,2024-01-01,18000.0,6.0,50.0
+KER_dingle,Dingle,Kerry,2024-02-01,18000.0,6.0,50.0
+KER_dingle,Dingle,Kerry,2024-03-01,18000.0,6.0,50.0
+KER_dingle,Dingle,Kerry,2024-04-01,18000.0,6.0,50.0
+KER_dingle,Dingle,Kerry,2024-05-01,18000.0,6.0,50.0
+KER_dingle,Dingle,Kerry,2024-06-01,18000.0,6.0,50.0
+KER_dingle,Dingle,Kerry,2024-07-01,18000.0,6.0,50.0
+KER_dingle,Dingle,Kerry,2024-08-01,18000.0,6.0,50.0
+KER_dingle,Dingle,Kerry,2024-09-01,18000.0,6.0,50.0
+KER_dingle,Dingle,Kerry,2024-10-01,18000.0,6.0,50.0
+KER_dingle,Dingle,Kerry,2024-11-01,18000.0,6.0,50.0
+KER_dingle,Dingle,Kerry,2024-12-01,18000.0,6.0,50.0
+KER_kenmare,Kenmare,Kerry,2024-01-01,14400.0,4.8,50.0
+KER_kenmare,Kenmare,Kerry,2024-02-01,14400.0,4.8,50.0
+KER_kenmare,Kenmare,Kerry,2024-03-01,14400.0,4.8,50.0
+KER_kenmare,Kenmare,Kerry,2024-04-01,14400.0,4.8,50.0
+KER_kenmare,Kenmare,Kerry,2024-05-01,14400.0,4.8,50.0
+KER_kenmare,Kenmare,Kerry,2024-06-01,14400.0,4.8,50.0
+KER_kenmare,Kenmare,Kerry,2024-07-01,14400.0,4.8,50.0
+KER_kenmare,Kenmare,Kerry,2024-08-01,14400.0,4.8,50.0
+KER_kenmare,Kenmare,Kerry,2024-09-01,14400.0,4.8,50.0
+KER_kenmare,Kenmare,Kerry,2024-10-01,14400.0,4.8,50.0
+KER_kenmare,Kenmare,Kerry,2024-11-01,14400.0,4.8,50.0
+KER_kenmare,Kenmare,Kerry,2024-12-01,14400.0,4.8,50.0
+KER_cahirciveen,Cahirciveen,Kerry,2024-01-01,14400.0,4.8,50.0
+KER_cahirciveen,Cahirciveen,Kerry,2024-02-01,14400.0,4.8,50.0
+KER_cahirciveen,Cahirciveen,Kerry,2024-03-01,14400.0,4.8,50.0
+KER_cahirciveen,Cahirciveen,Kerry,2024-04-01,14400.0,4.8,50.0
+KER_cahirciveen,Cahirciveen,Kerry,2024-05-01,14400.0,4.8,50.0
+KER_cahirciveen,Cahirciveen,Kerry,2024-06-01,14400.0,4.8,50.0
+KER_cahirciveen,Cahirciveen,Kerry,2024-07-01,14400.0,4.8,50.0
+KER_cahirciveen,Cahirciveen,Kerry,2024-08-01,14400.0,4.8,50.0
+KER_cahirciveen,Cahirciveen,Kerry,2024-09-01,14400.0,4.8,50.0
+KER_cahirciveen,Cahirciveen,Kerry,2024-10-01,14400.0,4.8,50.0
+KER_cahirciveen,Cahirciveen,Kerry,2024-11-01,14400.0,4.8,50.0
+KER_cahirciveen,Cahirciveen,Kerry,2024-12-01,14400.0,4.8,50.0
+KER_killorglin,Killorglin,Kerry,2024-01-01,14400.0,4.8,50.0
+KER_killorglin,Killorglin,Kerry,2024-02-01,14400.0,4.8,50.0
+KER_killorglin,Killorglin,Kerry,2024-03-01,14400.0,4.8,50.0
+KER_killorglin,Killorglin,Kerry,2024-04-01,14400.0,4.8,50.0
+KER_killorglin,Killorglin,Kerry,2024-05-01,14400.0,4.8,50.0
+KER_killorglin,Killorglin,Kerry,2024-06-01,14400.0,4.8,50.0
+KER_killorglin,Killorglin,Kerry,2024-07-01,14400.0,4.8,50.0
+KER_killorglin,Killorglin,Kerry,2024-08-01,14400.0,4.8,50.0
+KER_killorglin,Killorglin,Kerry,2024-09-01,14400.0,4.8,50.0
+KER_killorglin,Killorglin,Kerry,2024-10-01,14400.0,4.8,50.0
+KER_killorglin,Killorglin,Kerry,2024-11-01,14400.0,4.8,50.0
+KER_killorglin,Killorglin,Kerry,2024-12-01,14400.0,4.8,50.0
+KER_castleisland,Castleisland,Kerry,2024-01-01,18000.0,6.0,50.0
+KER_castleisland,Castleisland,Kerry,2024-02-01,18000.0,6.0,50.0
+KER_castleisland,Castleisland,Kerry,2024-03-01,18000.0,6.0,50.0
+KER_castleisland,Castleisland,Kerry,2024-04-01,18000.0,6.0,50.0
+KER_castleisland,Castleisland,Kerry,2024-05-01,18000.0,6.0,50.0
+KER_castleisland,Castleisland,Kerry,2024-06-01,18000.0,6.0,50.0
+KER_castleisland,Castleisland,Kerry,2024-07-01,18000.0,6.0,50.0
+KER_castleisland,Castleisland,Kerry,2024-08-01,18000.0,6.0,50.0
+KER_castleisland,Castleisland,Kerry,2024-09-01,18000.0,6.0,50.0
+KER_castleisland,Castleisland,Kerry,2024-10-01,18000.0,6.0,50.0
+KER_castleisland,Castleisland,Kerry,2024-11-01,18000.0,6.0,50.0
+KER_castleisland,Castleisland,Kerry,2024-12-01,18000.0,6.0,50.0
+KER_sneem,Sneem,Kerry,2024-01-01,9000.0,3.0,50.0
+KER_sneem,Sneem,Kerry,2024-02-01,9000.0,3.0,50.0
+KER_sneem,Sneem,Kerry,2024-03-01,9000.0,3.0,50.0
+KER_sneem,Sneem,Kerry,2024-04-01,9000.0,3.0,50.0
+KER_sneem,Sneem,Kerry,2024-05-01,9000.0,3.0,50.0
+KER_sneem,Sneem,Kerry,2024-06-01,9000.0,3.0,50.0
+KER_sneem,Sneem,Kerry,2024-07-01,9000.0,3.0,50.0
+KER_sneem,Sneem,Kerry,2024-08-01,9000.0,3.0,50.0
+KER_sneem,Sneem,Kerry,2024-09-01,9000.0,3.0,50.0
+KER_sneem,Sneem,Kerry,2024-10-01,9000.0,3.0,50.0
+KER_sneem,Sneem,Kerry,2024-11-01,9000.0,3.0,50.0
+KER_sneem,Sneem,Kerry,2024-12-01,9000.0,3.0,50.0
+KER_waterville,Waterville,Kerry,2024-01-01,9000.0,3.0,50.0
+KER_waterville,Waterville,Kerry,2024-02-01,9000.0,3.0,50.0
+KER_waterville,Waterville,Kerry,2024-03-01,9000.0,3.0,50.0
+KER_waterville,Waterville,Kerry,2024-04-01,9000.0,3.0,50.0
+KER_waterville,Waterville,Kerry,2024-05-01,9000.0,3.0,50.0
+KER_waterville,Waterville,Kerry,2024-06-01,9000.0,3.0,50.0
+KER_waterville,Waterville,Kerry,2024-07-01,9000.0,3.0,50.0
+KER_waterville,Waterville,Kerry,2024-08-01,9000.0,3.0,50.0
+KER_waterville,Waterville,Kerry,2024-09-01,9000.0,3.0,50.0
+KER_waterville,Waterville,Kerry,2024-10-01,9000.0,3.0,50.0
+KER_waterville,Waterville,Kerry,2024-11-01,9000.0,3.0,50.0
+KER_waterville,Waterville,Kerry,2024-12-01,9000.0,3.0,50.0
+CLA_ennis_urban,Ennis Urban,Clare,2024-01-01,28000.0,9.3,50.0
+CLA_ennis_urban,Ennis Urban,Clare,2024-02-01,28000.0,9.3,50.0
+CLA_ennis_urban,Ennis Urban,Clare,2024-03-01,28000.0,9.3,50.0
+CLA_ennis_urban,Ennis Urban,Clare,2024-04-01,28000.0,9.3,50.0
+CLA_ennis_urban,Ennis Urban,Clare,2024-05-01,28000.0,9.3,50.0
+CLA_ennis_urban,Ennis Urban,Clare,2024-06-01,28000.0,9.3,50.0
+CLA_ennis_urban,Ennis Urban,Clare,2024-07-01,28000.0,9.3,50.0
+CLA_ennis_urban,Ennis Urban,Clare,2024-08-01,28000.0,9.3,50.0
+CLA_ennis_urban,Ennis Urban,Clare,2024-09-01,28000.0,9.3,50.0
+CLA_ennis_urban,Ennis Urban,Clare,2024-10-01,28000.0,9.3,50.0
+CLA_ennis_urban,Ennis Urban,Clare,2024-11-01,28000.0,9.3,50.0
+CLA_ennis_urban,Ennis Urban,Clare,2024-12-01,28000.0,9.3,50.0
+CLA_shannon,Shannon,Clare,2024-01-01,24000.0,8.0,50.0
+CLA_shannon,Shannon,Clare,2024-02-01,24000.0,8.0,50.0
+CLA_shannon,Shannon,Clare,2024-03-01,24000.0,8.0,50.0
+CLA_shannon,Shannon,Clare,2024-04-01,24000.0,8.0,50.0
+CLA_shannon,Shannon,Clare,2024-05-01,24000.0,8.0,50.0
+CLA_shannon,Shannon,Clare,2024-06-01,24000.0,8.0,50.0
+CLA_shannon,Shannon,Clare,2024-07-01,24000.0,8.0,50.0
+CLA_shannon,Shannon,Clare,2024-08-01,24000.0,8.0,50.0
+CLA_shannon,Shannon,Clare,2024-09-01,24000.0,8.0,50.0
+CLA_shannon,Shannon,Clare,2024-10-01,24000.0,8.0,50.0
+CLA_shannon,Shannon,Clare,2024-11-01,24000.0,8.0,50.0
+CLA_shannon,Shannon,Clare,2024-12-01,24000.0,8.0,50.0
+CLA_kilrush_urban,Kilrush Urban,Clare,2024-01-01,20000.0,6.7,50.0
+CLA_kilrush_urban,Kilrush Urban,Clare,2024-02-01,20000.0,6.7,50.0
+CLA_kilrush_urban,Kilrush Urban,Clare,2024-03-01,20000.0,6.7,50.0
+CLA_kilrush_urban,Kilrush Urban,Clare,2024-04-01,20000.0,6.7,50.0
+CLA_kilrush_urban,Kilrush Urban,Clare,2024-05-01,20000.0,6.7,50.0
+CLA_kilrush_urban,Kilrush Urban,Clare,2024-06-01,20000.0,6.7,50.0
+CLA_kilrush_urban,Kilrush Urban,Clare,2024-07-01,20000.0,6.7,50.0
+CLA_kilrush_urban,Kilrush Urban,Clare,2024-08-01,20000.0,6.7,50.0
+CLA_kilrush_urban,Kilrush Urban,Clare,2024-09-01,20000.0,6.7,50.0
+CLA_kilrush_urban,Kilrush Urban,Clare,2024-10-01,20000.0,6.7,50.0
+CLA_kilrush_urban,Kilrush Urban,Clare,2024-11-01,20000.0,6.7,50.0
+CLA_kilrush_urban,Kilrush Urban,Clare,2024-12-01,20000.0,6.7,50.0
+CLA_ennistymon,Ennistymon,Clare,2024-01-01,16000.0,5.3,50.0
+CLA_ennistymon,Ennistymon,Clare,2024-02-01,16000.0,5.3,50.0
+CLA_ennistymon,Ennistymon,Clare,2024-03-01,16000.0,5.3,50.0
+CLA_ennistymon,Ennistymon,Clare,2024-04-01,16000.0,5.3,50.0
+CLA_ennistymon,Ennistymon,Clare,2024-05-01,16000.0,5.3,50.0
+CLA_ennistymon,Ennistymon,Clare,2024-06-01,16000.0,5.3,50.0
+CLA_ennistymon,Ennistymon,Clare,2024-07-01,16000.0,5.3,50.0
+CLA_ennistymon,Ennistymon,Clare,2024-08-01,16000.0,5.3,50.0
+CLA_ennistymon,Ennistymon,Clare,2024-09-01,16000.0,5.3,50.0
+CLA_ennistymon,Ennistymon,Clare,2024-10-01,16000.0,5.3,50.0
+CLA_ennistymon,Ennistymon,Clare,2024-11-01,16000.0,5.3,50.0
+CLA_ennistymon,Ennistymon,Clare,2024-12-01,16000.0,5.3,50.0
+CLA_kilkee,Kilkee,Clare,2024-01-01,16000.0,5.3,50.0
+CLA_kilkee,Kilkee,Clare,2024-02-01,16000.0,5.3,50.0
+CLA_kilkee,Kilkee,Clare,2024-03-01,16000.0,5.3,50.0
+CLA_kilkee,Kilkee,Clare,2024-04-01,16000.0,5.3,50.0
+CLA_kilkee,Kilkee,Clare,2024-05-01,16000.0,5.3,50.0
+CLA_kilkee,Kilkee,Clare,2024-06-01,16000.0,5.3,50.0
+CLA_kilkee,Kilkee,Clare,2024-07-01,16000.0,5.3,50.0
+CLA_kilkee,Kilkee,Clare,2024-08-01,16000.0,5.3,50.0
+CLA_kilkee,Kilkee,Clare,2024-09-01,16000.0,5.3,50.0
+CLA_kilkee,Kilkee,Clare,2024-10-01,16000.0,5.3,50.0
+CLA_kilkee,Kilkee,Clare,2024-11-01,16000.0,5.3,50.0
+CLA_kilkee,Kilkee,Clare,2024-12-01,16000.0,5.3,50.0
+CLA_newmarket_on_fergus,Newmarket-on-Fergus,Clare,2024-01-01,20000.0,6.7,50.0
+CLA_newmarket_on_fergus,Newmarket-on-Fergus,Clare,2024-02-01,20000.0,6.7,50.0
+CLA_newmarket_on_fergus,Newmarket-on-Fergus,Clare,2024-03-01,20000.0,6.7,50.0
+CLA_newmarket_on_fergus,Newmarket-on-Fergus,Clare,2024-04-01,20000.0,6.7,50.0
+CLA_newmarket_on_fergus,Newmarket-on-Fergus,Clare,2024-05-01,20000.0,6.7,50.0
+CLA_newmarket_on_fergus,Newmarket-on-Fergus,Clare,2024-06-01,20000.0,6.7,50.0
+CLA_newmarket_on_fergus,Newmarket-on-Fergus,Clare,2024-07-01,20000.0,6.7,50.0
+CLA_newmarket_on_fergus,Newmarket-on-Fergus,Clare,2024-08-01,20000.0,6.7,50.0
+CLA_newmarket_on_fergus,Newmarket-on-Fergus,Clare,2024-09-01,20000.0,6.7,50.0
+CLA_newmarket_on_fergus,Newmarket-on-Fergus,Clare,2024-10-01,20000.0,6.7,50.0
+CLA_newmarket_on_fergus,Newmarket-on-Fergus,Clare,2024-11-01,20000.0,6.7,50.0
+CLA_newmarket_on_fergus,Newmarket-on-Fergus,Clare,2024-12-01,20000.0,6.7,50.0
+CLA_sixmilebridge,Sixmilebridge,Clare,2024-01-01,16000.0,5.3,50.0
+CLA_sixmilebridge,Sixmilebridge,Clare,2024-02-01,16000.0,5.3,50.0
+CLA_sixmilebridge,Sixmilebridge,Clare,2024-03-01,16000.0,5.3,50.0
+CLA_sixmilebridge,Sixmilebridge,Clare,2024-04-01,16000.0,5.3,50.0
+CLA_sixmilebridge,Sixmilebridge,Clare,2024-05-01,16000.0,5.3,50.0
+CLA_sixmilebridge,Sixmilebridge,Clare,2024-06-01,16000.0,5.3,50.0
+CLA_sixmilebridge,Sixmilebridge,Clare,2024-07-01,16000.0,5.3,50.0
+CLA_sixmilebridge,Sixmilebridge,Clare,2024-08-01,16000.0,5.3,50.0
+CLA_sixmilebridge,Sixmilebridge,Clare,2024-09-01,16000.0,5.3,50.0
+CLA_sixmilebridge,Sixmilebridge,Clare,2024-10-01,16000.0,5.3,50.0
+CLA_sixmilebridge,Sixmilebridge,Clare,2024-11-01,16000.0,5.3,50.0
+CLA_sixmilebridge,Sixmilebridge,Clare,2024-12-01,16000.0,5.3,50.0
+CLA_scarriff,Scarriff,Clare,2024-01-01,10000.0,3.3,50.0
+CLA_scarriff,Scarriff,Clare,2024-02-01,10000.0,3.3,50.0
+CLA_scarriff,Scarriff,Clare,2024-03-01,10000.0,3.3,50.0
+CLA_scarriff,Scarriff,Clare,2024-04-01,10000.0,3.3,50.0
+CLA_scarriff,Scarriff,Clare,2024-05-01,10000.0,3.3,50.0
+CLA_scarriff,Scarriff,Clare,2024-06-01,10000.0,3.3,50.0
+CLA_scarriff,Scarriff,Clare,2024-07-01,10000.0,3.3,50.0
+CLA_scarriff,Scarriff,Clare,2024-08-01,10000.0,3.3,50.0
+CLA_scarriff,Scarriff,Clare,2024-09-01,10000.0,3.3,50.0
+CLA_scarriff,Scarriff,Clare,2024-10-01,10000.0,3.3,50.0
+CLA_scarriff,Scarriff,Clare,2024-11-01,10000.0,3.3,50.0
+CLA_scarriff,Scarriff,Clare,2024-12-01,10000.0,3.3,50.0
+CLA_lisdoonvarna,Lisdoonvarna,Clare,2024-01-01,10000.0,3.3,50.0
+CLA_lisdoonvarna,Lisdoonvarna,Clare,2024-02-01,10000.0,3.3,50.0
+CLA_lisdoonvarna,Lisdoonvarna,Clare,2024-03-01,10000.0,3.3,50.0
+CLA_lisdoonvarna,Lisdoonvarna,Clare,2024-04-01,10000.0,3.3,50.0
+CLA_lisdoonvarna,Lisdoonvarna,Clare,2024-05-01,10000.0,3.3,50.0
+CLA_lisdoonvarna,Lisdoonvarna,Clare,2024-06-01,10000.0,3.3,50.0
+CLA_lisdoonvarna,Lisdoonvarna,Clare,2024-07-01,10000.0,3.3,50.0
+CLA_lisdoonvarna,Lisdoonvarna,Clare,2024-08-01,10000.0,3.3,50.0
+CLA_lisdoonvarna,Lisdoonvarna,Clare,2024-09-01,10000.0,3.3,50.0
+CLA_lisdoonvarna,Lisdoonvarna,Clare,2024-10-01,10000.0,3.3,50.0
+CLA_lisdoonvarna,Lisdoonvarna,Clare,2024-11-01,10000.0,3.3,50.0
+CLA_lisdoonvarna,Lisdoonvarna,Clare,2024-12-01,10000.0,3.3,50.0
+CLA_miltown_malbay,Miltown Malbay,Clare,2024-01-01,10000.0,3.3,50.0
+CLA_miltown_malbay,Miltown Malbay,Clare,2024-02-01,10000.0,3.3,50.0
+CLA_miltown_malbay,Miltown Malbay,Clare,2024-03-01,10000.0,3.3,50.0
+CLA_miltown_malbay,Miltown Malbay,Clare,2024-04-01,10000.0,3.3,50.0
+CLA_miltown_malbay,Miltown Malbay,Clare,2024-05-01,10000.0,3.3,50.0
+CLA_miltown_malbay,Miltown Malbay,Clare,2024-06-01,10000.0,3.3,50.0
+CLA_miltown_malbay,Miltown Malbay,Clare,2024-07-01,10000.0,3.3,50.0
+CLA_miltown_malbay,Miltown Malbay,Clare,2024-08-01,10000.0,3.3,50.0
+CLA_miltown_malbay,Miltown Malbay,Clare,2024-09-01,10000.0,3.3,50.0
+CLA_miltown_malbay,Miltown Malbay,Clare,2024-10-01,10000.0,3.3,50.0
+CLA_miltown_malbay,Miltown Malbay,Clare,2024-11-01,10000.0,3.3,50.0
+CLA_miltown_malbay,Miltown Malbay,Clare,2024-12-01,10000.0,3.3,50.0
+TIP_clonmel_east_urban,Clonmel East Urban,Tipperary,2024-01-01,26600.0,8.9,50.0
+TIP_clonmel_east_urban,Clonmel East Urban,Tipperary,2024-02-01,26600.0,8.9,50.0
+TIP_clonmel_east_urban,Clonmel East Urban,Tipperary,2024-03-01,26600.0,8.9,50.0
+TIP_clonmel_east_urban,Clonmel East Urban,Tipperary,2024-04-01,26600.0,8.9,50.0
+TIP_clonmel_east_urban,Clonmel East Urban,Tipperary,2024-05-01,26600.0,8.9,50.0
+TIP_clonmel_east_urban,Clonmel East Urban,Tipperary,2024-06-01,26600.0,8.9,50.0
+TIP_clonmel_east_urban,Clonmel East Urban,Tipperary,2024-07-01,26600.0,8.9,50.0
+TIP_clonmel_east_urban,Clonmel East Urban,Tipperary,2024-08-01,26600.0,8.9,50.0
+TIP_clonmel_east_urban,Clonmel East Urban,Tipperary,2024-09-01,26600.0,8.9,50.0
+TIP_clonmel_east_urban,Clonmel East Urban,Tipperary,2024-10-01,26600.0,8.9,50.0
+TIP_clonmel_east_urban,Clonmel East Urban,Tipperary,2024-11-01,26600.0,8.9,50.0
+TIP_clonmel_east_urban,Clonmel East Urban,Tipperary,2024-12-01,26600.0,8.9,50.0
+TIP_clonmel_west_urban,Clonmel West Urban,Tipperary,2024-01-01,26600.0,8.9,50.0
+TIP_clonmel_west_urban,Clonmel West Urban,Tipperary,2024-02-01,26600.0,8.9,50.0
+TIP_clonmel_west_urban,Clonmel West Urban,Tipperary,2024-03-01,26600.0,8.9,50.0
+TIP_clonmel_west_urban,Clonmel West Urban,Tipperary,2024-04-01,26600.0,8.9,50.0
+TIP_clonmel_west_urban,Clonmel West Urban,Tipperary,2024-05-01,26600.0,8.9,50.0
+TIP_clonmel_west_urban,Clonmel West Urban,Tipperary,2024-06-01,26600.0,8.9,50.0
+TIP_clonmel_west_urban,Clonmel West Urban,Tipperary,2024-07-01,26600.0,8.9,50.0
+TIP_clonmel_west_urban,Clonmel West Urban,Tipperary,2024-08-01,26600.0,8.9,50.0
+TIP_clonmel_west_urban,Clonmel West Urban,Tipperary,2024-09-01,26600.0,8.9,50.0
+TIP_clonmel_west_urban,Clonmel West Urban,Tipperary,2024-10-01,26600.0,8.9,50.0
+TIP_clonmel_west_urban,Clonmel West Urban,Tipperary,2024-11-01,26600.0,8.9,50.0
+TIP_clonmel_west_urban,Clonmel West Urban,Tipperary,2024-12-01,26600.0,8.9,50.0
+TIP_thurles_urban,Thurles Urban,Tipperary,2024-01-01,19000.0,6.3,50.0
+TIP_thurles_urban,Thurles Urban,Tipperary,2024-02-01,19000.0,6.3,50.0
+TIP_thurles_urban,Thurles Urban,Tipperary,2024-03-01,19000.0,6.3,50.0
+TIP_thurles_urban,Thurles Urban,Tipperary,2024-04-01,19000.0,6.3,50.0
+TIP_thurles_urban,Thurles Urban,Tipperary,2024-05-01,19000.0,6.3,50.0
+TIP_thurles_urban,Thurles Urban,Tipperary,2024-06-01,19000.0,6.3,50.0
+TIP_thurles_urban,Thurles Urban,Tipperary,2024-07-01,19000.0,6.3,50.0
+TIP_thurles_urban,Thurles Urban,Tipperary,2024-08-01,19000.0,6.3,50.0
+TIP_thurles_urban,Thurles Urban,Tipperary,2024-09-01,19000.0,6.3,50.0
+TIP_thurles_urban,Thurles Urban,Tipperary,2024-10-01,19000.0,6.3,50.0
+TIP_thurles_urban,Thurles Urban,Tipperary,2024-11-01,19000.0,6.3,50.0
+TIP_thurles_urban,Thurles Urban,Tipperary,2024-12-01,19000.0,6.3,50.0
+TIP_nenagh_urban,Nenagh Urban,Tipperary,2024-01-01,19000.0,6.3,50.0
+TIP_nenagh_urban,Nenagh Urban,Tipperary,2024-02-01,19000.0,6.3,50.0
+TIP_nenagh_urban,Nenagh Urban,Tipperary,2024-03-01,19000.0,6.3,50.0
+TIP_nenagh_urban,Nenagh Urban,Tipperary,2024-04-01,19000.0,6.3,50.0
+TIP_nenagh_urban,Nenagh Urban,Tipperary,2024-05-01,19000.0,6.3,50.0
+TIP_nenagh_urban,Nenagh Urban,Tipperary,2024-06-01,19000.0,6.3,50.0
+TIP_nenagh_urban,Nenagh Urban,Tipperary,2024-07-01,19000.0,6.3,50.0
+TIP_nenagh_urban,Nenagh Urban,Tipperary,2024-08-01,19000.0,6.3,50.0
+TIP_nenagh_urban,Nenagh Urban,Tipperary,2024-09-01,19000.0,6.3,50.0
+TIP_nenagh_urban,Nenagh Urban,Tipperary,2024-10-01,19000.0,6.3,50.0
+TIP_nenagh_urban,Nenagh Urban,Tipperary,2024-11-01,19000.0,6.3,50.0
+TIP_nenagh_urban,Nenagh Urban,Tipperary,2024-12-01,19000.0,6.3,50.0
+TIP_carrick_on_suir_urban,Carrick-on-Suir Urban,Tipperary,2024-01-01,19000.0,6.3,50.0
+TIP_carrick_on_suir_urban,Carrick-on-Suir Urban,Tipperary,2024-02-01,19000.0,6.3,50.0
+TIP_carrick_on_suir_urban,Carrick-on-Suir Urban,Tipperary,2024-03-01,19000.0,6.3,50.0
+TIP_carrick_on_suir_urban,Carrick-on-Suir Urban,Tipperary,2024-04-01,19000.0,6.3,50.0
+TIP_carrick_on_suir_urban,Carrick-on-Suir Urban,Tipperary,2024-05-01,19000.0,6.3,50.0
+TIP_carrick_on_suir_urban,Carrick-on-Suir Urban,Tipperary,2024-06-01,19000.0,6.3,50.0
+TIP_carrick_on_suir_urban,Carrick-on-Suir Urban,Tipperary,2024-07-01,19000.0,6.3,50.0
+TIP_carrick_on_suir_urban,Carrick-on-Suir Urban,Tipperary,2024-08-01,19000.0,6.3,50.0
+TIP_carrick_on_suir_urban,Carrick-on-Suir Urban,Tipperary,2024-09-01,19000.0,6.3,50.0
+TIP_carrick_on_suir_urban,Carrick-on-Suir Urban,Tipperary,2024-10-01,19000.0,6.3,50.0
+TIP_carrick_on_suir_urban,Carrick-on-Suir Urban,Tipperary,2024-11-01,19000.0,6.3,50.0
+TIP_carrick_on_suir_urban,Carrick-on-Suir Urban,Tipperary,2024-12-01,19000.0,6.3,50.0
+TIP_cashel_urban,Cashel Urban,Tipperary,2024-01-01,19000.0,6.3,50.0
+TIP_cashel_urban,Cashel Urban,Tipperary,2024-02-01,19000.0,6.3,50.0
+TIP_cashel_urban,Cashel Urban,Tipperary,2024-03-01,19000.0,6.3,50.0
+TIP_cashel_urban,Cashel Urban,Tipperary,2024-04-01,19000.0,6.3,50.0
+TIP_cashel_urban,Cashel Urban,Tipperary,2024-05-01,19000.0,6.3,50.0
+TIP_cashel_urban,Cashel Urban,Tipperary,2024-06-01,19000.0,6.3,50.0
+TIP_cashel_urban,Cashel Urban,Tipperary,2024-07-01,19000.0,6.3,50.0
+TIP_cashel_urban,Cashel Urban,Tipperary,2024-08-01,19000.0,6.3,50.0
+TIP_cashel_urban,Cashel Urban,Tipperary,2024-09-01,19000.0,6.3,50.0
+TIP_cashel_urban,Cashel Urban,Tipperary,2024-10-01,19000.0,6.3,50.0
+TIP_cashel_urban,Cashel Urban,Tipperary,2024-11-01,19000.0,6.3,50.0
+TIP_cashel_urban,Cashel Urban,Tipperary,2024-12-01,19000.0,6.3,50.0
+TIP_roscrea,Roscrea,Tipperary,2024-01-01,19000.0,6.3,50.0
+TIP_roscrea,Roscrea,Tipperary,2024-02-01,19000.0,6.3,50.0
+TIP_roscrea,Roscrea,Tipperary,2024-03-01,19000.0,6.3,50.0
+TIP_roscrea,Roscrea,Tipperary,2024-04-01,19000.0,6.3,50.0
+TIP_roscrea,Roscrea,Tipperary,2024-05-01,19000.0,6.3,50.0
+TIP_roscrea,Roscrea,Tipperary,2024-06-01,19000.0,6.3,50.0
+TIP_roscrea,Roscrea,Tipperary,2024-07-01,19000.0,6.3,50.0
+TIP_roscrea,Roscrea,Tipperary,2024-08-01,19000.0,6.3,50.0
+TIP_roscrea,Roscrea,Tipperary,2024-09-01,19000.0,6.3,50.0
+TIP_roscrea,Roscrea,Tipperary,2024-10-01,19000.0,6.3,50.0
+TIP_roscrea,Roscrea,Tipperary,2024-11-01,19000.0,6.3,50.0
+TIP_roscrea,Roscrea,Tipperary,2024-12-01,19000.0,6.3,50.0
+TIP_tipperary_urban,Tipperary Urban,Tipperary,2024-01-01,15200.0,5.1,50.0
+TIP_tipperary_urban,Tipperary Urban,Tipperary,2024-02-01,15200.0,5.1,50.0
+TIP_tipperary_urban,Tipperary Urban,Tipperary,2024-03-01,15200.0,5.1,50.0
+TIP_tipperary_urban,Tipperary Urban,Tipperary,2024-04-01,15200.0,5.1,50.0
+TIP_tipperary_urban,Tipperary Urban,Tipperary,2024-05-01,15200.0,5.1,50.0
+TIP_tipperary_urban,Tipperary Urban,Tipperary,2024-06-01,15200.0,5.1,50.0
+TIP_tipperary_urban,Tipperary Urban,Tipperary,2024-07-01,15200.0,5.1,50.0
+TIP_tipperary_urban,Tipperary Urban,Tipperary,2024-08-01,15200.0,5.1,50.0
+TIP_tipperary_urban,Tipperary Urban,Tipperary,2024-09-01,15200.0,5.1,50.0
+TIP_tipperary_urban,Tipperary Urban,Tipperary,2024-10-01,15200.0,5.1,50.0
+TIP_tipperary_urban,Tipperary Urban,Tipperary,2024-11-01,15200.0,5.1,50.0
+TIP_tipperary_urban,Tipperary Urban,Tipperary,2024-12-01,15200.0,5.1,50.0
+TIP_cahir,Cahir,Tipperary,2024-01-01,15200.0,5.1,50.0
+TIP_cahir,Cahir,Tipperary,2024-02-01,15200.0,5.1,50.0
+TIP_cahir,Cahir,Tipperary,2024-03-01,15200.0,5.1,50.0
+TIP_cahir,Cahir,Tipperary,2024-04-01,15200.0,5.1,50.0
+TIP_cahir,Cahir,Tipperary,2024-05-01,15200.0,5.1,50.0
+TIP_cahir,Cahir,Tipperary,2024-06-01,15200.0,5.1,50.0
+TIP_cahir,Cahir,Tipperary,2024-07-01,15200.0,5.1,50.0
+TIP_cahir,Cahir,Tipperary,2024-08-01,15200.0,5.1,50.0
+TIP_cahir,Cahir,Tipperary,2024-09-01,15200.0,5.1,50.0
+TIP_cahir,Cahir,Tipperary,2024-10-01,15200.0,5.1,50.0
+TIP_cahir,Cahir,Tipperary,2024-11-01,15200.0,5.1,50.0
+TIP_cahir,Cahir,Tipperary,2024-12-01,15200.0,5.1,50.0
+TIP_templemore,Templemore,Tipperary,2024-01-01,9500.0,3.2,50.0
+TIP_templemore,Templemore,Tipperary,2024-02-01,9500.0,3.2,50.0
+TIP_templemore,Templemore,Tipperary,2024-03-01,9500.0,3.2,50.0
+TIP_templemore,Templemore,Tipperary,2024-04-01,9500.0,3.2,50.0
+TIP_templemore,Templemore,Tipperary,2024-05-01,9500.0,3.2,50.0
+TIP_templemore,Templemore,Tipperary,2024-06-01,9500.0,3.2,50.0
+TIP_templemore,Templemore,Tipperary,2024-07-01,9500.0,3.2,50.0
+TIP_templemore,Templemore,Tipperary,2024-08-01,9500.0,3.2,50.0
+TIP_templemore,Templemore,Tipperary,2024-09-01,9500.0,3.2,50.0
+TIP_templemore,Templemore,Tipperary,2024-10-01,9500.0,3.2,50.0
+TIP_templemore,Templemore,Tipperary,2024-11-01,9500.0,3.2,50.0
+TIP_templemore,Templemore,Tipperary,2024-12-01,9500.0,3.2,50.0
+KIL_kilkenny_no_1_urban,Kilkenny No. 1 Urban,Kilkenny,2024-01-01,23800.0,7.9,50.0
+KIL_kilkenny_no_1_urban,Kilkenny No. 1 Urban,Kilkenny,2024-02-01,23800.0,7.9,50.0
+KIL_kilkenny_no_1_urban,Kilkenny No. 1 Urban,Kilkenny,2024-03-01,23800.0,7.9,50.0
+KIL_kilkenny_no_1_urban,Kilkenny No. 1 Urban,Kilkenny,2024-04-01,23800.0,7.9,50.0
+KIL_kilkenny_no_1_urban,Kilkenny No. 1 Urban,Kilkenny,2024-05-01,23800.0,7.9,50.0
+KIL_kilkenny_no_1_urban,Kilkenny No. 1 Urban,Kilkenny,2024-06-01,23800.0,7.9,50.0
+KIL_kilkenny_no_1_urban,Kilkenny No. 1 Urban,Kilkenny,2024-07-01,23800.0,7.9,50.0
+KIL_kilkenny_no_1_urban,Kilkenny No. 1 Urban,Kilkenny,2024-08-01,23800.0,7.9,50.0
+KIL_kilkenny_no_1_urban,Kilkenny No. 1 Urban,Kilkenny,2024-09-01,23800.0,7.9,50.0
+KIL_kilkenny_no_1_urban,Kilkenny No. 1 Urban,Kilkenny,2024-10-01,23800.0,7.9,50.0
+KIL_kilkenny_no_1_urban,Kilkenny No. 1 Urban,Kilkenny,2024-11-01,23800.0,7.9,50.0
+KIL_kilkenny_no_1_urban,Kilkenny No. 1 Urban,Kilkenny,2024-12-01,23800.0,7.9,50.0
+KIL_kilkenny_no_2_urban,Kilkenny No. 2 Urban,Kilkenny,2024-01-01,23800.0,7.9,50.0
+KIL_kilkenny_no_2_urban,Kilkenny No. 2 Urban,Kilkenny,2024-02-01,23800.0,7.9,50.0
+KIL_kilkenny_no_2_urban,Kilkenny No. 2 Urban,Kilkenny,2024-03-01,23800.0,7.9,50.0
+KIL_kilkenny_no_2_urban,Kilkenny No. 2 Urban,Kilkenny,2024-04-01,23800.0,7.9,50.0
+KIL_kilkenny_no_2_urban,Kilkenny No. 2 Urban,Kilkenny,2024-05-01,23800.0,7.9,50.0
+KIL_kilkenny_no_2_urban,Kilkenny No. 2 Urban,Kilkenny,2024-06-01,23800.0,7.9,50.0
+KIL_kilkenny_no_2_urban,Kilkenny No. 2 Urban,Kilkenny,2024-07-01,23800.0,7.9,50.0
+KIL_kilkenny_no_2_urban,Kilkenny No. 2 Urban,Kilkenny,2024-08-01,23800.0,7.9,50.0
+KIL_kilkenny_no_2_urban,Kilkenny No. 2 Urban,Kilkenny,2024-09-01,23800.0,7.9,50.0
+KIL_kilkenny_no_2_urban,Kilkenny No. 2 Urban,Kilkenny,2024-10-01,23800.0,7.9,50.0
+KIL_kilkenny_no_2_urban,Kilkenny No. 2 Urban,Kilkenny,2024-11-01,23800.0,7.9,50.0
+KIL_kilkenny_no_2_urban,Kilkenny No. 2 Urban,Kilkenny,2024-12-01,23800.0,7.9,50.0
+KIL_castlecomer,Castlecomer,Kilkenny,2024-01-01,17000.0,5.7,50.0
+KIL_castlecomer,Castlecomer,Kilkenny,2024-02-01,17000.0,5.7,50.0
+KIL_castlecomer,Castlecomer,Kilkenny,2024-03-01,17000.0,5.7,50.0
+KIL_castlecomer,Castlecomer,Kilkenny,2024-04-01,17000.0,5.7,50.0
+KIL_castlecomer,Castlecomer,Kilkenny,2024-05-01,17000.0,5.7,50.0
+KIL_castlecomer,Castlecomer,Kilkenny,2024-06-01,17000.0,5.7,50.0
+KIL_castlecomer,Castlecomer,Kilkenny,2024-07-01,17000.0,5.7,50.0
+KIL_castlecomer,Castlecomer,Kilkenny,2024-08-01,17000.0,5.7,50.0
+KIL_castlecomer,Castlecomer,Kilkenny,2024-09-01,17000.0,5.7,50.0
+KIL_castlecomer,Castlecomer,Kilkenny,2024-10-01,17000.0,5.7,50.0
+KIL_castlecomer,Castlecomer,Kilkenny,2024-11-01,17000.0,5.7,50.0
+KIL_castlecomer,Castlecomer,Kilkenny,2024-12-01,17000.0,5.7,50.0
+KIL_callan,Callan,Kilkenny,2024-01-01,13600.0,4.5,50.0
+KIL_callan,Callan,Kilkenny,2024-02-01,13600.0,4.5,50.0
+KIL_callan,Callan,Kilkenny,2024-03-01,13600.0,4.5,50.0
+KIL_callan,Callan,Kilkenny,2024-04-01,13600.0,4.5,50.0
+KIL_callan,Callan,Kilkenny,2024-05-01,13600.0,4.5,50.0
+KIL_callan,Callan,Kilkenny,2024-06-01,13600.0,4.5,50.0
+KIL_callan,Callan,Kilkenny,2024-07-01,13600.0,4.5,50.0
+KIL_callan,Callan,Kilkenny,2024-08-01,13600.0,4.5,50.0
+KIL_callan,Callan,Kilkenny,2024-09-01,13600.0,4.5,50.0
+KIL_callan,Callan,Kilkenny,2024-10-01,13600.0,4.5,50.0
+KIL_callan,Callan,Kilkenny,2024-11-01,13600.0,4.5,50.0
+KIL_callan,Callan,Kilkenny,2024-12-01,13600.0,4.5,50.0
+KIL_thomastown,Thomastown,Kilkenny,2024-01-01,13600.0,4.5,50.0
+KIL_thomastown,Thomastown,Kilkenny,2024-02-01,13600.0,4.5,50.0
+KIL_thomastown,Thomastown,Kilkenny,2024-03-01,13600.0,4.5,50.0
+KIL_thomastown,Thomastown,Kilkenny,2024-04-01,13600.0,4.5,50.0
+KIL_thomastown,Thomastown,Kilkenny,2024-05-01,13600.0,4.5,50.0
+KIL_thomastown,Thomastown,Kilkenny,2024-06-01,13600.0,4.5,50.0
+KIL_thomastown,Thomastown,Kilkenny,2024-07-01,13600.0,4.5,50.0
+KIL_thomastown,Thomastown,Kilkenny,2024-08-01,13600.0,4.5,50.0
+KIL_thomastown,Thomastown,Kilkenny,2024-09-01,13600.0,4.5,50.0
+KIL_thomastown,Thomastown,Kilkenny,2024-10-01,13600.0,4.5,50.0
+KIL_thomastown,Thomastown,Kilkenny,2024-11-01,13600.0,4.5,50.0
+KIL_thomastown,Thomastown,Kilkenny,2024-12-01,13600.0,4.5,50.0
+KIL_graiguenamanagh,Graiguenamanagh,Kilkenny,2024-01-01,13600.0,4.5,50.0
+KIL_graiguenamanagh,Graiguenamanagh,Kilkenny,2024-02-01,13600.0,4.5,50.0
+KIL_graiguenamanagh,Graiguenamanagh,Kilkenny,2024-03-01,13600.0,4.5,50.0
+KIL_graiguenamanagh,Graiguenamanagh,Kilkenny,2024-04-01,13600.0,4.5,50.0
+KIL_graiguenamanagh,Graiguenamanagh,Kilkenny,2024-05-01,13600.0,4.5,50.0
+KIL_graiguenamanagh,Graiguenamanagh,Kilkenny,2024-06-01,13600.0,4.5,50.0
+KIL_graiguenamanagh,Graiguenamanagh,Kilkenny,2024-07-01,13600.0,4.5,50.0
+KIL_graiguenamanagh,Graiguenamanagh,Kilkenny,2024-08-01,13600.0,4.5,50.0
+KIL_graiguenamanagh,Graiguenamanagh,Kilkenny,2024-09-01,13600.0,4.5,50.0
+KIL_graiguenamanagh,Graiguenamanagh,Kilkenny,2024-10-01,13600.0,4.5,50.0
+KIL_graiguenamanagh,Graiguenamanagh,Kilkenny,2024-11-01,13600.0,4.5,50.0
+KIL_graiguenamanagh,Graiguenamanagh,Kilkenny,2024-12-01,13600.0,4.5,50.0
+KIL_freshford,Freshford,Kilkenny,2024-01-01,8500.0,2.8,50.0
+KIL_freshford,Freshford,Kilkenny,2024-02-01,8500.0,2.8,50.0
+KIL_freshford,Freshford,Kilkenny,2024-03-01,8500.0,2.8,50.0
+KIL_freshford,Freshford,Kilkenny,2024-04-01,8500.0,2.8,50.0
+KIL_freshford,Freshford,Kilkenny,2024-05-01,8500.0,2.8,50.0
+KIL_freshford,Freshford,Kilkenny,2024-06-01,8500.0,2.8,50.0
+KIL_freshford,Freshford,Kilkenny,2024-07-01,8500.0,2.8,50.0
+KIL_freshford,Freshford,Kilkenny,2024-08-01,8500.0,2.8,50.0
+KIL_freshford,Freshford,Kilkenny,2024-09-01,8500.0,2.8,50.0
+KIL_freshford,Freshford,Kilkenny,2024-10-01,8500.0,2.8,50.0
+KIL_freshford,Freshford,Kilkenny,2024-11-01,8500.0,2.8,50.0
+KIL_freshford,Freshford,Kilkenny,2024-12-01,8500.0,2.8,50.0
+KIL_urlingford,Urlingford,Kilkenny,2024-01-01,8500.0,2.8,50.0
+KIL_urlingford,Urlingford,Kilkenny,2024-02-01,8500.0,2.8,50.0
+KIL_urlingford,Urlingford,Kilkenny,2024-03-01,8500.0,2.8,50.0
+KIL_urlingford,Urlingford,Kilkenny,2024-04-01,8500.0,2.8,50.0
+KIL_urlingford,Urlingford,Kilkenny,2024-05-01,8500.0,2.8,50.0
+KIL_urlingford,Urlingford,Kilkenny,2024-06-01,8500.0,2.8,50.0
+KIL_urlingford,Urlingford,Kilkenny,2024-07-01,8500.0,2.8,50.0
+KIL_urlingford,Urlingford,Kilkenny,2024-08-01,8500.0,2.8,50.0
+KIL_urlingford,Urlingford,Kilkenny,2024-09-01,8500.0,2.8,50.0
+KIL_urlingford,Urlingford,Kilkenny,2024-10-01,8500.0,2.8,50.0
+KIL_urlingford,Urlingford,Kilkenny,2024-11-01,8500.0,2.8,50.0
+KIL_urlingford,Urlingford,Kilkenny,2024-12-01,8500.0,2.8,50.0
+KIL_piltown,Piltown,Kilkenny,2024-01-01,8500.0,2.8,50.0
+KIL_piltown,Piltown,Kilkenny,2024-02-01,8500.0,2.8,50.0
+KIL_piltown,Piltown,Kilkenny,2024-03-01,8500.0,2.8,50.0
+KIL_piltown,Piltown,Kilkenny,2024-04-01,8500.0,2.8,50.0
+KIL_piltown,Piltown,Kilkenny,2024-05-01,8500.0,2.8,50.0
+KIL_piltown,Piltown,Kilkenny,2024-06-01,8500.0,2.8,50.0
+KIL_piltown,Piltown,Kilkenny,2024-07-01,8500.0,2.8,50.0
+KIL_piltown,Piltown,Kilkenny,2024-08-01,8500.0,2.8,50.0
+KIL_piltown,Piltown,Kilkenny,2024-09-01,8500.0,2.8,50.0
+KIL_piltown,Piltown,Kilkenny,2024-10-01,8500.0,2.8,50.0
+KIL_piltown,Piltown,Kilkenny,2024-11-01,8500.0,2.8,50.0
+KIL_piltown,Piltown,Kilkenny,2024-12-01,8500.0,2.8,50.0
+WEX_wexford_urban,Wexford Urban,Wexford,2024-01-01,25200.0,8.4,50.0
+WEX_wexford_urban,Wexford Urban,Wexford,2024-02-01,25200.0,8.4,50.0
+WEX_wexford_urban,Wexford Urban,Wexford,2024-03-01,25200.0,8.4,50.0
+WEX_wexford_urban,Wexford Urban,Wexford,2024-04-01,25200.0,8.4,50.0
+WEX_wexford_urban,Wexford Urban,Wexford,2024-05-01,25200.0,8.4,50.0
+WEX_wexford_urban,Wexford Urban,Wexford,2024-06-01,25200.0,8.4,50.0
+WEX_wexford_urban,Wexford Urban,Wexford,2024-07-01,25200.0,8.4,50.0
+WEX_wexford_urban,Wexford Urban,Wexford,2024-08-01,25200.0,8.4,50.0
+WEX_wexford_urban,Wexford Urban,Wexford,2024-09-01,25200.0,8.4,50.0
+WEX_wexford_urban,Wexford Urban,Wexford,2024-10-01,25200.0,8.4,50.0
+WEX_wexford_urban,Wexford Urban,Wexford,2024-11-01,25200.0,8.4,50.0
+WEX_wexford_urban,Wexford Urban,Wexford,2024-12-01,25200.0,8.4,50.0
+WEX_wexford_rural,Wexford Rural,Wexford,2024-01-01,21600.0,7.2,50.0
+WEX_wexford_rural,Wexford Rural,Wexford,2024-02-01,21600.0,7.2,50.0
+WEX_wexford_rural,Wexford Rural,Wexford,2024-03-01,21600.0,7.2,50.0
+WEX_wexford_rural,Wexford Rural,Wexford,2024-04-01,21600.0,7.2,50.0
+WEX_wexford_rural,Wexford Rural,Wexford,2024-05-01,21600.0,7.2,50.0
+WEX_wexford_rural,Wexford Rural,Wexford,2024-06-01,21600.0,7.2,50.0
+WEX_wexford_rural,Wexford Rural,Wexford,2024-07-01,21600.0,7.2,50.0
+WEX_wexford_rural,Wexford Rural,Wexford,2024-08-01,21600.0,7.2,50.0
+WEX_wexford_rural,Wexford Rural,Wexford,2024-09-01,21600.0,7.2,50.0
+WEX_wexford_rural,Wexford Rural,Wexford,2024-10-01,21600.0,7.2,50.0
+WEX_wexford_rural,Wexford Rural,Wexford,2024-11-01,21600.0,7.2,50.0
+WEX_wexford_rural,Wexford Rural,Wexford,2024-12-01,21600.0,7.2,50.0
+WEX_new_ross_urban,New Ross Urban,Wexford,2024-01-01,18000.0,6.0,50.0
+WEX_new_ross_urban,New Ross Urban,Wexford,2024-02-01,18000.0,6.0,50.0
+WEX_new_ross_urban,New Ross Urban,Wexford,2024-03-01,18000.0,6.0,50.0
+WEX_new_ross_urban,New Ross Urban,Wexford,2024-04-01,18000.0,6.0,50.0
+WEX_new_ross_urban,New Ross Urban,Wexford,2024-05-01,18000.0,6.0,50.0
+WEX_new_ross_urban,New Ross Urban,Wexford,2024-06-01,18000.0,6.0,50.0
+WEX_new_ross_urban,New Ross Urban,Wexford,2024-07-01,18000.0,6.0,50.0
+WEX_new_ross_urban,New Ross Urban,Wexford,2024-08-01,18000.0,6.0,50.0
+WEX_new_ross_urban,New Ross Urban,Wexford,2024-09-01,18000.0,6.0,50.0
+WEX_new_ross_urban,New Ross Urban,Wexford,2024-10-01,18000.0,6.0,50.0
+WEX_new_ross_urban,New Ross Urban,Wexford,2024-11-01,18000.0,6.0,50.0
+WEX_new_ross_urban,New Ross Urban,Wexford,2024-12-01,18000.0,6.0,50.0
+WEX_enniscorthy_urban,Enniscorthy Urban,Wexford,2024-01-01,18000.0,6.0,50.0
+WEX_enniscorthy_urban,Enniscorthy Urban,Wexford,2024-02-01,18000.0,6.0,50.0
+WEX_enniscorthy_urban,Enniscorthy Urban,Wexford,2024-03-01,18000.0,6.0,50.0
+WEX_enniscorthy_urban,Enniscorthy Urban,Wexford,2024-04-01,18000.0,6.0,50.0
+WEX_enniscorthy_urban,Enniscorthy Urban,Wexford,2024-05-01,18000.0,6.0,50.0
+WEX_enniscorthy_urban,Enniscorthy Urban,Wexford,2024-06-01,18000.0,6.0,50.0
+WEX_enniscorthy_urban,Enniscorthy Urban,Wexford,2024-07-01,18000.0,6.0,50.0
+WEX_enniscorthy_urban,Enniscorthy Urban,Wexford,2024-08-01,18000.0,6.0,50.0
+WEX_enniscorthy_urban,Enniscorthy Urban,Wexford,2024-09-01,18000.0,6.0,50.0
+WEX_enniscorthy_urban,Enniscorthy Urban,Wexford,2024-10-01,18000.0,6.0,50.0
+WEX_enniscorthy_urban,Enniscorthy Urban,Wexford,2024-11-01,18000.0,6.0,50.0
+WEX_enniscorthy_urban,Enniscorthy Urban,Wexford,2024-12-01,18000.0,6.0,50.0
+WEX_gorey,Gorey,Wexford,2024-01-01,18000.0,6.0,50.0
+WEX_gorey,Gorey,Wexford,2024-02-01,18000.0,6.0,50.0
+WEX_gorey,Gorey,Wexford,2024-03-01,18000.0,6.0,50.0
+WEX_gorey,Gorey,Wexford,2024-04-01,18000.0,6.0,50.0
+WEX_gorey,Gorey,Wexford,2024-05-01,18000.0,6.0,50.0
+WEX_gorey,Gorey,Wexford,2024-06-01,18000.0,6.0,50.0
+WEX_gorey,Gorey,Wexford,2024-07-01,18000.0,6.0,50.0
+WEX_gorey,Gorey,Wexford,2024-08-01,18000.0,6.0,50.0
+WEX_gorey,Gorey,Wexford,2024-09-01,18000.0,6.0,50.0
+WEX_gorey,Gorey,Wexford,2024-10-01,18000.0,6.0,50.0
+WEX_gorey,Gorey,Wexford,2024-11-01,18000.0,6.0,50.0
+WEX_gorey,Gorey,Wexford,2024-12-01,18000.0,6.0,50.0
+WEX_bunclody,Bunclody,Wexford,2024-01-01,14400.0,4.8,50.0
+WEX_bunclody,Bunclody,Wexford,2024-02-01,14400.0,4.8,50.0
+WEX_bunclody,Bunclody,Wexford,2024-03-01,14400.0,4.8,50.0
+WEX_bunclody,Bunclody,Wexford,2024-04-01,14400.0,4.8,50.0
+WEX_bunclody,Bunclody,Wexford,2024-05-01,14400.0,4.8,50.0
+WEX_bunclody,Bunclody,Wexford,2024-06-01,14400.0,4.8,50.0
+WEX_bunclody,Bunclody,Wexford,2024-07-01,14400.0,4.8,50.0
+WEX_bunclody,Bunclody,Wexford,2024-08-01,14400.0,4.8,50.0
+WEX_bunclody,Bunclody,Wexford,2024-09-01,14400.0,4.8,50.0
+WEX_bunclody,Bunclody,Wexford,2024-10-01,14400.0,4.8,50.0
+WEX_bunclody,Bunclody,Wexford,2024-11-01,14400.0,4.8,50.0
+WEX_bunclody,Bunclody,Wexford,2024-12-01,14400.0,4.8,50.0
+WEX_ferns,Ferns,Wexford,2024-01-01,14400.0,4.8,50.0
+WEX_ferns,Ferns,Wexford,2024-02-01,14400.0,4.8,50.0
+WEX_ferns,Ferns,Wexford,2024-03-01,14400.0,4.8,50.0
+WEX_ferns,Ferns,Wexford,2024-04-01,14400.0,4.8,50.0
+WEX_ferns,Ferns,Wexford,2024-05-01,14400.0,4.8,50.0
+WEX_ferns,Ferns,Wexford,2024-06-01,14400.0,4.8,50.0
+WEX_ferns,Ferns,Wexford,2024-07-01,14400.0,4.8,50.0
+WEX_ferns,Ferns,Wexford,2024-08-01,14400.0,4.8,50.0
+WEX_ferns,Ferns,Wexford,2024-09-01,14400.0,4.8,50.0
+WEX_ferns,Ferns,Wexford,2024-10-01,14400.0,4.8,50.0
+WEX_ferns,Ferns,Wexford,2024-11-01,14400.0,4.8,50.0
+WEX_ferns,Ferns,Wexford,2024-12-01,14400.0,4.8,50.0
+WEX_rosslare,Rosslare,Wexford,2024-01-01,14400.0,4.8,50.0
+WEX_rosslare,Rosslare,Wexford,2024-02-01,14400.0,4.8,50.0
+WEX_rosslare,Rosslare,Wexford,2024-03-01,14400.0,4.8,50.0
+WEX_rosslare,Rosslare,Wexford,2024-04-01,14400.0,4.8,50.0
+WEX_rosslare,Rosslare,Wexford,2024-05-01,14400.0,4.8,50.0
+WEX_rosslare,Rosslare,Wexford,2024-06-01,14400.0,4.8,50.0
+WEX_rosslare,Rosslare,Wexford,2024-07-01,14400.0,4.8,50.0
+WEX_rosslare,Rosslare,Wexford,2024-08-01,14400.0,4.8,50.0
+WEX_rosslare,Rosslare,Wexford,2024-09-01,14400.0,4.8,50.0
+WEX_rosslare,Rosslare,Wexford,2024-10-01,14400.0,4.8,50.0
+WEX_rosslare,Rosslare,Wexford,2024-11-01,14400.0,4.8,50.0
+WEX_rosslare,Rosslare,Wexford,2024-12-01,14400.0,4.8,50.0
+WEX_courtown,Courtown,Wexford,2024-01-01,9000.0,3.0,50.0
+WEX_courtown,Courtown,Wexford,2024-02-01,9000.0,3.0,50.0
+WEX_courtown,Courtown,Wexford,2024-03-01,9000.0,3.0,50.0
+WEX_courtown,Courtown,Wexford,2024-04-01,9000.0,3.0,50.0
+WEX_courtown,Courtown,Wexford,2024-05-01,9000.0,3.0,50.0
+WEX_courtown,Courtown,Wexford,2024-06-01,9000.0,3.0,50.0
+WEX_courtown,Courtown,Wexford,2024-07-01,9000.0,3.0,50.0
+WEX_courtown,Courtown,Wexford,2024-08-01,9000.0,3.0,50.0
+WEX_courtown,Courtown,Wexford,2024-09-01,9000.0,3.0,50.0
+WEX_courtown,Courtown,Wexford,2024-10-01,9000.0,3.0,50.0
+WEX_courtown,Courtown,Wexford,2024-11-01,9000.0,3.0,50.0
+WEX_courtown,Courtown,Wexford,2024-12-01,9000.0,3.0,50.0
+WEX_kilmore_quay,Kilmore Quay,Wexford,2024-01-01,9000.0,3.0,50.0
+WEX_kilmore_quay,Kilmore Quay,Wexford,2024-02-01,9000.0,3.0,50.0
+WEX_kilmore_quay,Kilmore Quay,Wexford,2024-03-01,9000.0,3.0,50.0
+WEX_kilmore_quay,Kilmore Quay,Wexford,2024-04-01,9000.0,3.0,50.0
+WEX_kilmore_quay,Kilmore Quay,Wexford,2024-05-01,9000.0,3.0,50.0
+WEX_kilmore_quay,Kilmore Quay,Wexford,2024-06-01,9000.0,3.0,50.0
+WEX_kilmore_quay,Kilmore Quay,Wexford,2024-07-01,9000.0,3.0,50.0
+WEX_kilmore_quay,Kilmore Quay,Wexford,2024-08-01,9000.0,3.0,50.0
+WEX_kilmore_quay,Kilmore Quay,Wexford,2024-09-01,9000.0,3.0,50.0
+WEX_kilmore_quay,Kilmore Quay,Wexford,2024-10-01,9000.0,3.0,50.0
+WEX_kilmore_quay,Kilmore Quay,Wexford,2024-11-01,9000.0,3.0,50.0
+WEX_kilmore_quay,Kilmore Quay,Wexford,2024-12-01,9000.0,3.0,50.0
+WIC_bray_no_1,Bray No. 1,Wicklow,2024-01-01,49000.0,16.3,50.0
+WIC_bray_no_1,Bray No. 1,Wicklow,2024-02-01,49000.0,16.3,50.0
+WIC_bray_no_1,Bray No. 1,Wicklow,2024-03-01,49000.0,16.3,50.0
+WIC_bray_no_1,Bray No. 1,Wicklow,2024-04-01,49000.0,16.3,50.0
+WIC_bray_no_1,Bray No. 1,Wicklow,2024-05-01,49000.0,16.3,50.0
+WIC_bray_no_1,Bray No. 1,Wicklow,2024-06-01,49000.0,16.3,50.0
+WIC_bray_no_1,Bray No. 1,Wicklow,2024-07-01,49000.0,16.3,50.0
+WIC_bray_no_1,Bray No. 1,Wicklow,2024-08-01,49000.0,16.3,50.0
+WIC_bray_no_1,Bray No. 1,Wicklow,2024-09-01,49000.0,16.3,50.0
+WIC_bray_no_1,Bray No. 1,Wicklow,2024-10-01,49000.0,16.3,50.0
+WIC_bray_no_1,Bray No. 1,Wicklow,2024-11-01,49000.0,16.3,50.0
+WIC_bray_no_1,Bray No. 1,Wicklow,2024-12-01,49000.0,16.3,50.0
+WIC_bray_no_2,Bray No. 2,Wicklow,2024-01-01,49000.0,16.3,50.0
+WIC_bray_no_2,Bray No. 2,Wicklow,2024-02-01,49000.0,16.3,50.0
+WIC_bray_no_2,Bray No. 2,Wicklow,2024-03-01,49000.0,16.3,50.0
+WIC_bray_no_2,Bray No. 2,Wicklow,2024-04-01,49000.0,16.3,50.0
+WIC_bray_no_2,Bray No. 2,Wicklow,2024-05-01,49000.0,16.3,50.0
+WIC_bray_no_2,Bray No. 2,Wicklow,2024-06-01,49000.0,16.3,50.0
+WIC_bray_no_2,Bray No. 2,Wicklow,2024-07-01,49000.0,16.3,50.0
+WIC_bray_no_2,Bray No. 2,Wicklow,2024-08-01,49000.0,16.3,50.0
+WIC_bray_no_2,Bray No. 2,Wicklow,2024-09-01,49000.0,16.3,50.0
+WIC_bray_no_2,Bray No. 2,Wicklow,2024-10-01,49000.0,16.3,50.0
+WIC_bray_no_2,Bray No. 2,Wicklow,2024-11-01,49000.0,16.3,50.0
+WIC_bray_no_2,Bray No. 2,Wicklow,2024-12-01,49000.0,16.3,50.0
+WIC_greystones,Greystones,Wicklow,2024-01-01,42000.0,14.0,50.0
+WIC_greystones,Greystones,Wicklow,2024-02-01,42000.0,14.0,50.0
+WIC_greystones,Greystones,Wicklow,2024-03-01,42000.0,14.0,50.0
+WIC_greystones,Greystones,Wicklow,2024-04-01,42000.0,14.0,50.0
+WIC_greystones,Greystones,Wicklow,2024-05-01,42000.0,14.0,50.0
+WIC_greystones,Greystones,Wicklow,2024-06-01,42000.0,14.0,50.0
+WIC_greystones,Greystones,Wicklow,2024-07-01,42000.0,14.0,50.0
+WIC_greystones,Greystones,Wicklow,2024-08-01,42000.0,14.0,50.0
+WIC_greystones,Greystones,Wicklow,2024-09-01,42000.0,14.0,50.0
+WIC_greystones,Greystones,Wicklow,2024-10-01,42000.0,14.0,50.0
+WIC_greystones,Greystones,Wicklow,2024-11-01,42000.0,14.0,50.0
+WIC_greystones,Greystones,Wicklow,2024-12-01,42000.0,14.0,50.0
+WIC_arklow_urban,Arklow Urban,Wicklow,2024-01-01,35000.0,11.7,50.0
+WIC_arklow_urban,Arklow Urban,Wicklow,2024-02-01,35000.0,11.7,50.0
+WIC_arklow_urban,Arklow Urban,Wicklow,2024-03-01,35000.0,11.7,50.0
+WIC_arklow_urban,Arklow Urban,Wicklow,2024-04-01,35000.0,11.7,50.0
+WIC_arklow_urban,Arklow Urban,Wicklow,2024-05-01,35000.0,11.7,50.0
+WIC_arklow_urban,Arklow Urban,Wicklow,2024-06-01,35000.0,11.7,50.0
+WIC_arklow_urban,Arklow Urban,Wicklow,2024-07-01,35000.0,11.7,50.0
+WIC_arklow_urban,Arklow Urban,Wicklow,2024-08-01,35000.0,11.7,50.0
+WIC_arklow_urban,Arklow Urban,Wicklow,2024-09-01,35000.0,11.7,50.0
+WIC_arklow_urban,Arklow Urban,Wicklow,2024-10-01,35000.0,11.7,50.0
+WIC_arklow_urban,Arklow Urban,Wicklow,2024-11-01,35000.0,11.7,50.0
+WIC_arklow_urban,Arklow Urban,Wicklow,2024-12-01,35000.0,11.7,50.0
+WIC_wicklow_urban,Wicklow Urban,Wicklow,2024-01-01,35000.0,11.7,50.0
+WIC_wicklow_urban,Wicklow Urban,Wicklow,2024-02-01,35000.0,11.7,50.0
+WIC_wicklow_urban,Wicklow Urban,Wicklow,2024-03-01,35000.0,11.7,50.0
+WIC_wicklow_urban,Wicklow Urban,Wicklow,2024-04-01,35000.0,11.7,50.0
+WIC_wicklow_urban,Wicklow Urban,Wicklow,2024-05-01,35000.0,11.7,50.0
+WIC_wicklow_urban,Wicklow Urban,Wicklow,2024-06-01,35000.0,11.7,50.0
+WIC_wicklow_urban,Wicklow Urban,Wicklow,2024-07-01,35000.0,11.7,50.0
+WIC_wicklow_urban,Wicklow Urban,Wicklow,2024-08-01,35000.0,11.7,50.0
+WIC_wicklow_urban,Wicklow Urban,Wicklow,2024-09-01,35000.0,11.7,50.0
+WIC_wicklow_urban,Wicklow Urban,Wicklow,2024-10-01,35000.0,11.7,50.0
+WIC_wicklow_urban,Wicklow Urban,Wicklow,2024-11-01,35000.0,11.7,50.0
+WIC_wicklow_urban,Wicklow Urban,Wicklow,2024-12-01,35000.0,11.7,50.0
+WIC_rathnew,Rathnew,Wicklow,2024-01-01,42000.0,14.0,50.0
+WIC_rathnew,Rathnew,Wicklow,2024-02-01,42000.0,14.0,50.0
+WIC_rathnew,Rathnew,Wicklow,2024-03-01,42000.0,14.0,50.0
+WIC_rathnew,Rathnew,Wicklow,2024-04-01,42000.0,14.0,50.0
+WIC_rathnew,Rathnew,Wicklow,2024-05-01,42000.0,14.0,50.0
+WIC_rathnew,Rathnew,Wicklow,2024-06-01,42000.0,14.0,50.0
+WIC_rathnew,Rathnew,Wicklow,2024-07-01,42000.0,14.0,50.0
+WIC_rathnew,Rathnew,Wicklow,2024-08-01,42000.0,14.0,50.0
+WIC_rathnew,Rathnew,Wicklow,2024-09-01,42000.0,14.0,50.0
+WIC_rathnew,Rathnew,Wicklow,2024-10-01,42000.0,14.0,50.0
+WIC_rathnew,Rathnew,Wicklow,2024-11-01,42000.0,14.0,50.0
+WIC_rathnew,Rathnew,Wicklow,2024-12-01,42000.0,14.0,50.0
+WIC_blessington,Blessington,Wicklow,2024-01-01,35000.0,11.7,50.0
+WIC_blessington,Blessington,Wicklow,2024-02-01,35000.0,11.7,50.0
+WIC_blessington,Blessington,Wicklow,2024-03-01,35000.0,11.7,50.0
+WIC_blessington,Blessington,Wicklow,2024-04-01,35000.0,11.7,50.0
+WIC_blessington,Blessington,Wicklow,2024-05-01,35000.0,11.7,50.0
+WIC_blessington,Blessington,Wicklow,2024-06-01,35000.0,11.7,50.0
+WIC_blessington,Blessington,Wicklow,2024-07-01,35000.0,11.7,50.0
+WIC_blessington,Blessington,Wicklow,2024-08-01,35000.0,11.7,50.0
+WIC_blessington,Blessington,Wicklow,2024-09-01,35000.0,11.7,50.0
+WIC_blessington,Blessington,Wicklow,2024-10-01,35000.0,11.7,50.0
+WIC_blessington,Blessington,Wicklow,2024-11-01,35000.0,11.7,50.0
+WIC_blessington,Blessington,Wicklow,2024-12-01,35000.0,11.7,50.0
+WIC_aughrim,Aughrim,Wicklow,2024-01-01,28000.0,9.3,50.0
+WIC_aughrim,Aughrim,Wicklow,2024-02-01,28000.0,9.3,50.0
+WIC_aughrim,Aughrim,Wicklow,2024-03-01,28000.0,9.3,50.0
+WIC_aughrim,Aughrim,Wicklow,2024-04-01,28000.0,9.3,50.0
+WIC_aughrim,Aughrim,Wicklow,2024-05-01,28000.0,9.3,50.0
+WIC_aughrim,Aughrim,Wicklow,2024-06-01,28000.0,9.3,50.0
+WIC_aughrim,Aughrim,Wicklow,2024-07-01,28000.0,9.3,50.0
+WIC_aughrim,Aughrim,Wicklow,2024-08-01,28000.0,9.3,50.0
+WIC_aughrim,Aughrim,Wicklow,2024-09-01,28000.0,9.3,50.0
+WIC_aughrim,Aughrim,Wicklow,2024-10-01,28000.0,9.3,50.0
+WIC_aughrim,Aughrim,Wicklow,2024-11-01,28000.0,9.3,50.0
+WIC_aughrim,Aughrim,Wicklow,2024-12-01,28000.0,9.3,50.0
+WIC_baltinglass,Baltinglass,Wicklow,2024-01-01,28000.0,9.3,50.0
+WIC_baltinglass,Baltinglass,Wicklow,2024-02-01,28000.0,9.3,50.0
+WIC_baltinglass,Baltinglass,Wicklow,2024-03-01,28000.0,9.3,50.0
+WIC_baltinglass,Baltinglass,Wicklow,2024-04-01,28000.0,9.3,50.0
+WIC_baltinglass,Baltinglass,Wicklow,2024-05-01,28000.0,9.3,50.0
+WIC_baltinglass,Baltinglass,Wicklow,2024-06-01,28000.0,9.3,50.0
+WIC_baltinglass,Baltinglass,Wicklow,2024-07-01,28000.0,9.3,50.0
+WIC_baltinglass,Baltinglass,Wicklow,2024-08-01,28000.0,9.3,50.0
+WIC_baltinglass,Baltinglass,Wicklow,2024-09-01,28000.0,9.3,50.0
+WIC_baltinglass,Baltinglass,Wicklow,2024-10-01,28000.0,9.3,50.0
+WIC_baltinglass,Baltinglass,Wicklow,2024-11-01,28000.0,9.3,50.0
+WIC_baltinglass,Baltinglass,Wicklow,2024-12-01,28000.0,9.3,50.0
+WIC_roundwood,Roundwood,Wicklow,2024-01-01,17500.0,5.8,50.0
+WIC_roundwood,Roundwood,Wicklow,2024-02-01,17500.0,5.8,50.0
+WIC_roundwood,Roundwood,Wicklow,2024-03-01,17500.0,5.8,50.0
+WIC_roundwood,Roundwood,Wicklow,2024-04-01,17500.0,5.8,50.0
+WIC_roundwood,Roundwood,Wicklow,2024-05-01,17500.0,5.8,50.0
+WIC_roundwood,Roundwood,Wicklow,2024-06-01,17500.0,5.8,50.0
+WIC_roundwood,Roundwood,Wicklow,2024-07-01,17500.0,5.8,50.0
+WIC_roundwood,Roundwood,Wicklow,2024-08-01,17500.0,5.8,50.0
+WIC_roundwood,Roundwood,Wicklow,2024-09-01,17500.0,5.8,50.0
+WIC_roundwood,Roundwood,Wicklow,2024-10-01,17500.0,5.8,50.0
+WIC_roundwood,Roundwood,Wicklow,2024-11-01,17500.0,5.8,50.0
+WIC_roundwood,Roundwood,Wicklow,2024-12-01,17500.0,5.8,50.0
+KIL_naas_urban,Naas Urban,Kildare,2024-01-01,53200.0,17.7,50.0
+KIL_naas_urban,Naas Urban,Kildare,2024-02-01,53200.0,17.7,50.0
+KIL_naas_urban,Naas Urban,Kildare,2024-03-01,53200.0,17.7,50.0
+KIL_naas_urban,Naas Urban,Kildare,2024-04-01,53200.0,17.7,50.0
+KIL_naas_urban,Naas Urban,Kildare,2024-05-01,53200.0,17.7,50.0
+KIL_naas_urban,Naas Urban,Kildare,2024-06-01,53200.0,17.7,50.0
+KIL_naas_urban,Naas Urban,Kildare,2024-07-01,53200.0,17.7,50.0
+KIL_naas_urban,Naas Urban,Kildare,2024-08-01,53200.0,17.7,50.0
+KIL_naas_urban,Naas Urban,Kildare,2024-09-01,53200.0,17.7,50.0
+KIL_naas_urban,Naas Urban,Kildare,2024-10-01,53200.0,17.7,50.0
+KIL_naas_urban,Naas Urban,Kildare,2024-11-01,53200.0,17.7,50.0
+KIL_naas_urban,Naas Urban,Kildare,2024-12-01,53200.0,17.7,50.0
+KIL_newbridge,Newbridge,Kildare,2024-01-01,45600.0,15.2,50.0
+KIL_newbridge,Newbridge,Kildare,2024-02-01,45600.0,15.2,50.0
+KIL_newbridge,Newbridge,Kildare,2024-03-01,45600.0,15.2,50.0
+KIL_newbridge,Newbridge,Kildare,2024-04-01,45600.0,15.2,50.0
+KIL_newbridge,Newbridge,Kildare,2024-05-01,45600.0,15.2,50.0
+KIL_newbridge,Newbridge,Kildare,2024-06-01,45600.0,15.2,50.0
+KIL_newbridge,Newbridge,Kildare,2024-07-01,45600.0,15.2,50.0
+KIL_newbridge,Newbridge,Kildare,2024-08-01,45600.0,15.2,50.0
+KIL_newbridge,Newbridge,Kildare,2024-09-01,45600.0,15.2,50.0
+KIL_newbridge,Newbridge,Kildare,2024-10-01,45600.0,15.2,50.0
+KIL_newbridge,Newbridge,Kildare,2024-11-01,45600.0,15.2,50.0
+KIL_newbridge,Newbridge,Kildare,2024-12-01,45600.0,15.2,50.0
+KIL_maynooth,Maynooth,Kildare,2024-01-01,45600.0,15.2,50.0
+KIL_maynooth,Maynooth,Kildare,2024-02-01,45600.0,15.2,50.0
+KIL_maynooth,Maynooth,Kildare,2024-03-01,45600.0,15.2,50.0
+KIL_maynooth,Maynooth,Kildare,2024-04-01,45600.0,15.2,50.0
+KIL_maynooth,Maynooth,Kildare,2024-05-01,45600.0,15.2,50.0
+KIL_maynooth,Maynooth,Kildare,2024-06-01,45600.0,15.2,50.0
+KIL_maynooth,Maynooth,Kildare,2024-07-01,45600.0,15.2,50.0
+KIL_maynooth,Maynooth,Kildare,2024-08-01,45600.0,15.2,50.0
+KIL_maynooth,Maynooth,Kildare,2024-09-01,45600.0,15.2,50.0
+KIL_maynooth,Maynooth,Kildare,2024-10-01,45600.0,15.2,50.0
+KIL_maynooth,Maynooth,Kildare,2024-11-01,45600.0,15.2,50.0
+KIL_maynooth,Maynooth,Kildare,2024-12-01,45600.0,15.2,50.0
+KIL_celbridge,Celbridge,Kildare,2024-01-01,45600.0,15.2,50.0
+KIL_celbridge,Celbridge,Kildare,2024-02-01,45600.0,15.2,50.0
+KIL_celbridge,Celbridge,Kildare,2024-03-01,45600.0,15.2,50.0
+KIL_celbridge,Celbridge,Kildare,2024-04-01,45600.0,15.2,50.0
+KIL_celbridge,Celbridge,Kildare,2024-05-01,45600.0,15.2,50.0
+KIL_celbridge,Celbridge,Kildare,2024-06-01,45600.0,15.2,50.0
+KIL_celbridge,Celbridge,Kildare,2024-07-01,45600.0,15.2,50.0
+KIL_celbridge,Celbridge,Kildare,2024-08-01,45600.0,15.2,50.0
+KIL_celbridge,Celbridge,Kildare,2024-09-01,45600.0,15.2,50.0
+KIL_celbridge,Celbridge,Kildare,2024-10-01,45600.0,15.2,50.0
+KIL_celbridge,Celbridge,Kildare,2024-11-01,45600.0,15.2,50.0
+KIL_celbridge,Celbridge,Kildare,2024-12-01,45600.0,15.2,50.0
+KIL_leixlip,Leixlip,Kildare,2024-01-01,45600.0,15.2,50.0
+KIL_leixlip,Leixlip,Kildare,2024-02-01,45600.0,15.2,50.0
+KIL_leixlip,Leixlip,Kildare,2024-03-01,45600.0,15.2,50.0
+KIL_leixlip,Leixlip,Kildare,2024-04-01,45600.0,15.2,50.0
+KIL_leixlip,Leixlip,Kildare,2024-05-01,45600.0,15.2,50.0
+KIL_leixlip,Leixlip,Kildare,2024-06-01,45600.0,15.2,50.0
+KIL_leixlip,Leixlip,Kildare,2024-07-01,45600.0,15.2,50.0
+KIL_leixlip,Leixlip,Kildare,2024-08-01,45600.0,15.2,50.0
+KIL_leixlip,Leixlip,Kildare,2024-09-01,45600.0,15.2,50.0
+KIL_leixlip,Leixlip,Kildare,2024-10-01,45600.0,15.2,50.0
+KIL_leixlip,Leixlip,Kildare,2024-11-01,45600.0,15.2,50.0
+KIL_leixlip,Leixlip,Kildare,2024-12-01,45600.0,15.2,50.0
+KIL_athy_urban,Athy Urban,Kildare,2024-01-01,38000.0,12.7,50.0
+KIL_athy_urban,Athy Urban,Kildare,2024-02-01,38000.0,12.7,50.0
+KIL_athy_urban,Athy Urban,Kildare,2024-03-01,38000.0,12.7,50.0
+KIL_athy_urban,Athy Urban,Kildare,2024-04-01,38000.0,12.7,50.0
+KIL_athy_urban,Athy Urban,Kildare,2024-05-01,38000.0,12.7,50.0
+KIL_athy_urban,Athy Urban,Kildare,2024-06-01,38000.0,12.7,50.0
+KIL_athy_urban,Athy Urban,Kildare,2024-07-01,38000.0,12.7,50.0
+KIL_athy_urban,Athy Urban,Kildare,2024-08-01,38000.0,12.7,50.0
+KIL_athy_urban,Athy Urban,Kildare,2024-09-01,38000.0,12.7,50.0
+KIL_athy_urban,Athy Urban,Kildare,2024-10-01,38000.0,12.7,50.0
+KIL_athy_urban,Athy Urban,Kildare,2024-11-01,38000.0,12.7,50.0
+KIL_athy_urban,Athy Urban,Kildare,2024-12-01,38000.0,12.7,50.0
+KIL_kildare_urban,Kildare Urban,Kildare,2024-01-01,38000.0,12.7,50.0
+KIL_kildare_urban,Kildare Urban,Kildare,2024-02-01,38000.0,12.7,50.0
+KIL_kildare_urban,Kildare Urban,Kildare,2024-03-01,38000.0,12.7,50.0
+KIL_kildare_urban,Kildare Urban,Kildare,2024-04-01,38000.0,12.7,50.0
+KIL_kildare_urban,Kildare Urban,Kildare,2024-05-01,38000.0,12.7,50.0
+KIL_kildare_urban,Kildare Urban,Kildare,2024-06-01,38000.0,12.7,50.0
+KIL_kildare_urban,Kildare Urban,Kildare,2024-07-01,38000.0,12.7,50.0
+KIL_kildare_urban,Kildare Urban,Kildare,2024-08-01,38000.0,12.7,50.0
+KIL_kildare_urban,Kildare Urban,Kildare,2024-09-01,38000.0,12.7,50.0
+KIL_kildare_urban,Kildare Urban,Kildare,2024-10-01,38000.0,12.7,50.0
+KIL_kildare_urban,Kildare Urban,Kildare,2024-11-01,38000.0,12.7,50.0
+KIL_kildare_urban,Kildare Urban,Kildare,2024-12-01,38000.0,12.7,50.0
+KIL_monasterevin,Monasterevin,Kildare,2024-01-01,30400.0,10.1,50.0
+KIL_monasterevin,Monasterevin,Kildare,2024-02-01,30400.0,10.1,50.0
+KIL_monasterevin,Monasterevin,Kildare,2024-03-01,30400.0,10.1,50.0
+KIL_monasterevin,Monasterevin,Kildare,2024-04-01,30400.0,10.1,50.0
+KIL_monasterevin,Monasterevin,Kildare,2024-05-01,30400.0,10.1,50.0
+KIL_monasterevin,Monasterevin,Kildare,2024-06-01,30400.0,10.1,50.0
+KIL_monasterevin,Monasterevin,Kildare,2024-07-01,30400.0,10.1,50.0
+KIL_monasterevin,Monasterevin,Kildare,2024-08-01,30400.0,10.1,50.0
+KIL_monasterevin,Monasterevin,Kildare,2024-09-01,30400.0,10.1,50.0
+KIL_monasterevin,Monasterevin,Kildare,2024-10-01,30400.0,10.1,50.0
+KIL_monasterevin,Monasterevin,Kildare,2024-11-01,30400.0,10.1,50.0
+KIL_monasterevin,Monasterevin,Kildare,2024-12-01,30400.0,10.1,50.0
+KIL_kilcullen,Kilcullen,Kildare,2024-01-01,30400.0,10.1,50.0
+KIL_kilcullen,Kilcullen,Kildare,2024-02-01,30400.0,10.1,50.0
+KIL_kilcullen,Kilcullen,Kildare,2024-03-01,30400.0,10.1,50.0
+KIL_kilcullen,Kilcullen,Kildare,2024-04-01,30400.0,10.1,50.0
+KIL_kilcullen,Kilcullen,Kildare,2024-05-01,30400.0,10.1,50.0
+KIL_kilcullen,Kilcullen,Kildare,2024-06-01,30400.0,10.1,50.0
+KIL_kilcullen,Kilcullen,Kildare,2024-07-01,30400.0,10.1,50.0
+KIL_kilcullen,Kilcullen,Kildare,2024-08-01,30400.0,10.1,50.0
+KIL_kilcullen,Kilcullen,Kildare,2024-09-01,30400.0,10.1,50.0
+KIL_kilcullen,Kilcullen,Kildare,2024-10-01,30400.0,10.1,50.0
+KIL_kilcullen,Kilcullen,Kildare,2024-11-01,30400.0,10.1,50.0
+KIL_kilcullen,Kilcullen,Kildare,2024-12-01,30400.0,10.1,50.0
+KIL_clane,Clane,Kildare,2024-01-01,38000.0,12.7,50.0
+KIL_clane,Clane,Kildare,2024-02-01,38000.0,12.7,50.0
+KIL_clane,Clane,Kildare,2024-03-01,38000.0,12.7,50.0
+KIL_clane,Clane,Kildare,2024-04-01,38000.0,12.7,50.0
+KIL_clane,Clane,Kildare,2024-05-01,38000.0,12.7,50.0
+KIL_clane,Clane,Kildare,2024-06-01,38000.0,12.7,50.0
+KIL_clane,Clane,Kildare,2024-07-01,38000.0,12.7,50.0
+KIL_clane,Clane,Kildare,2024-08-01,38000.0,12.7,50.0
+KIL_clane,Clane,Kildare,2024-09-01,38000.0,12.7,50.0
+KIL_clane,Clane,Kildare,2024-10-01,38000.0,12.7,50.0
+KIL_clane,Clane,Kildare,2024-11-01,38000.0,12.7,50.0
+KIL_clane,Clane,Kildare,2024-12-01,38000.0,12.7,50.0
+MEA_navan_urban,Navan Urban,Meath,2024-01-01,50400.0,16.8,50.0
+MEA_navan_urban,Navan Urban,Meath,2024-02-01,50400.0,16.8,50.0
+MEA_navan_urban,Navan Urban,Meath,2024-03-01,50400.0,16.8,50.0
+MEA_navan_urban,Navan Urban,Meath,2024-04-01,50400.0,16.8,50.0
+MEA_navan_urban,Navan Urban,Meath,2024-05-01,50400.0,16.8,50.0
+MEA_navan_urban,Navan Urban,Meath,2024-06-01,50400.0,16.8,50.0
+MEA_navan_urban,Navan Urban,Meath,2024-07-01,50400.0,16.8,50.0
+MEA_navan_urban,Navan Urban,Meath,2024-08-01,50400.0,16.8,50.0
+MEA_navan_urban,Navan Urban,Meath,2024-09-01,50400.0,16.8,50.0
+MEA_navan_urban,Navan Urban,Meath,2024-10-01,50400.0,16.8,50.0
+MEA_navan_urban,Navan Urban,Meath,2024-11-01,50400.0,16.8,50.0
+MEA_navan_urban,Navan Urban,Meath,2024-12-01,50400.0,16.8,50.0
+MEA_trim_urban,Trim Urban,Meath,2024-01-01,36000.0,12.0,50.0
+MEA_trim_urban,Trim Urban,Meath,2024-02-01,36000.0,12.0,50.0
+MEA_trim_urban,Trim Urban,Meath,2024-03-01,36000.0,12.0,50.0
+MEA_trim_urban,Trim Urban,Meath,2024-04-01,36000.0,12.0,50.0
+MEA_trim_urban,Trim Urban,Meath,2024-05-01,36000.0,12.0,50.0
+MEA_trim_urban,Trim Urban,Meath,2024-06-01,36000.0,12.0,50.0
+MEA_trim_urban,Trim Urban,Meath,2024-07-01,36000.0,12.0,50.0
+MEA_trim_urban,Trim Urban,Meath,2024-08-01,36000.0,12.0,50.0
+MEA_trim_urban,Trim Urban,Meath,2024-09-01,36000.0,12.0,50.0
+MEA_trim_urban,Trim Urban,Meath,2024-10-01,36000.0,12.0,50.0
+MEA_trim_urban,Trim Urban,Meath,2024-11-01,36000.0,12.0,50.0
+MEA_trim_urban,Trim Urban,Meath,2024-12-01,36000.0,12.0,50.0
+MEA_ashbourne,Ashbourne,Meath,2024-01-01,43200.0,14.4,50.0
+MEA_ashbourne,Ashbourne,Meath,2024-02-01,43200.0,14.4,50.0
+MEA_ashbourne,Ashbourne,Meath,2024-03-01,43200.0,14.4,50.0
+MEA_ashbourne,Ashbourne,Meath,2024-04-01,43200.0,14.4,50.0
+MEA_ashbourne,Ashbourne,Meath,2024-05-01,43200.0,14.4,50.0
+MEA_ashbourne,Ashbourne,Meath,2024-06-01,43200.0,14.4,50.0
+MEA_ashbourne,Ashbourne,Meath,2024-07-01,43200.0,14.4,50.0
+MEA_ashbourne,Ashbourne,Meath,2024-08-01,43200.0,14.4,50.0
+MEA_ashbourne,Ashbourne,Meath,2024-09-01,43200.0,14.4,50.0
+MEA_ashbourne,Ashbourne,Meath,2024-10-01,43200.0,14.4,50.0
+MEA_ashbourne,Ashbourne,Meath,2024-11-01,43200.0,14.4,50.0
+MEA_ashbourne,Ashbourne,Meath,2024-12-01,43200.0,14.4,50.0
+MEA_ratoath,Ratoath,Meath,2024-01-01,43200.0,14.4,50.0
+MEA_ratoath,Ratoath,Meath,2024-02-01,43200.0,14.4,50.0
+MEA_ratoath,Ratoath,Meath,2024-03-01,43200.0,14.4,50.0
+MEA_ratoath,Ratoath,Meath,2024-04-01,43200.0,14.4,50.0
+MEA_ratoath,Ratoath,Meath,2024-05-01,43200.0,14.4,50.0
+MEA_ratoath,Ratoath,Meath,2024-06-01,43200.0,14.4,50.0
+MEA_ratoath,Ratoath,Meath,2024-07-01,43200.0,14.4,50.0
+MEA_ratoath,Ratoath,Meath,2024-08-01,43200.0,14.4,50.0
+MEA_ratoath,Ratoath,Meath,2024-09-01,43200.0,14.4,50.0
+MEA_ratoath,Ratoath,Meath,2024-10-01,43200.0,14.4,50.0
+MEA_ratoath,Ratoath,Meath,2024-11-01,43200.0,14.4,50.0
+MEA_ratoath,Ratoath,Meath,2024-12-01,43200.0,14.4,50.0
+MEA_dunboyne,Dunboyne,Meath,2024-01-01,43200.0,14.4,50.0
+MEA_dunboyne,Dunboyne,Meath,2024-02-01,43200.0,14.4,50.0
+MEA_dunboyne,Dunboyne,Meath,2024-03-01,43200.0,14.4,50.0
+MEA_dunboyne,Dunboyne,Meath,2024-04-01,43200.0,14.4,50.0
+MEA_dunboyne,Dunboyne,Meath,2024-05-01,43200.0,14.4,50.0
+MEA_dunboyne,Dunboyne,Meath,2024-06-01,43200.0,14.4,50.0
+MEA_dunboyne,Dunboyne,Meath,2024-07-01,43200.0,14.4,50.0
+MEA_dunboyne,Dunboyne,Meath,2024-08-01,43200.0,14.4,50.0
+MEA_dunboyne,Dunboyne,Meath,2024-09-01,43200.0,14.4,50.0
+MEA_dunboyne,Dunboyne,Meath,2024-10-01,43200.0,14.4,50.0
+MEA_dunboyne,Dunboyne,Meath,2024-11-01,43200.0,14.4,50.0
+MEA_dunboyne,Dunboyne,Meath,2024-12-01,43200.0,14.4,50.0
+MEA_kells_urban,Kells Urban,Meath,2024-01-01,36000.0,12.0,50.0
+MEA_kells_urban,Kells Urban,Meath,2024-02-01,36000.0,12.0,50.0
+MEA_kells_urban,Kells Urban,Meath,2024-03-01,36000.0,12.0,50.0
+MEA_kells_urban,Kells Urban,Meath,2024-04-01,36000.0,12.0,50.0
+MEA_kells_urban,Kells Urban,Meath,2024-05-01,36000.0,12.0,50.0
+MEA_kells_urban,Kells Urban,Meath,2024-06-01,36000.0,12.0,50.0
+MEA_kells_urban,Kells Urban,Meath,2024-07-01,36000.0,12.0,50.0
+MEA_kells_urban,Kells Urban,Meath,2024-08-01,36000.0,12.0,50.0
+MEA_kells_urban,Kells Urban,Meath,2024-09-01,36000.0,12.0,50.0
+MEA_kells_urban,Kells Urban,Meath,2024-10-01,36000.0,12.0,50.0
+MEA_kells_urban,Kells Urban,Meath,2024-11-01,36000.0,12.0,50.0
+MEA_kells_urban,Kells Urban,Meath,2024-12-01,36000.0,12.0,50.0
+MEA_dunshaughlin,Dunshaughlin,Meath,2024-01-01,36000.0,12.0,50.0
+MEA_dunshaughlin,Dunshaughlin,Meath,2024-02-01,36000.0,12.0,50.0
+MEA_dunshaughlin,Dunshaughlin,Meath,2024-03-01,36000.0,12.0,50.0
+MEA_dunshaughlin,Dunshaughlin,Meath,2024-04-01,36000.0,12.0,50.0
+MEA_dunshaughlin,Dunshaughlin,Meath,2024-05-01,36000.0,12.0,50.0
+MEA_dunshaughlin,Dunshaughlin,Meath,2024-06-01,36000.0,12.0,50.0
+MEA_dunshaughlin,Dunshaughlin,Meath,2024-07-01,36000.0,12.0,50.0
+MEA_dunshaughlin,Dunshaughlin,Meath,2024-08-01,36000.0,12.0,50.0
+MEA_dunshaughlin,Dunshaughlin,Meath,2024-09-01,36000.0,12.0,50.0
+MEA_dunshaughlin,Dunshaughlin,Meath,2024-10-01,36000.0,12.0,50.0
+MEA_dunshaughlin,Dunshaughlin,Meath,2024-11-01,36000.0,12.0,50.0
+MEA_dunshaughlin,Dunshaughlin,Meath,2024-12-01,36000.0,12.0,50.0
+MEA_bettystown,Bettystown,Meath,2024-01-01,43200.0,14.4,50.0
+MEA_bettystown,Bettystown,Meath,2024-02-01,43200.0,14.4,50.0
+MEA_bettystown,Bettystown,Meath,2024-03-01,43200.0,14.4,50.0
+MEA_bettystown,Bettystown,Meath,2024-04-01,43200.0,14.4,50.0
+MEA_bettystown,Bettystown,Meath,2024-05-01,43200.0,14.4,50.0
+MEA_bettystown,Bettystown,Meath,2024-06-01,43200.0,14.4,50.0
+MEA_bettystown,Bettystown,Meath,2024-07-01,43200.0,14.4,50.0
+MEA_bettystown,Bettystown,Meath,2024-08-01,43200.0,14.4,50.0
+MEA_bettystown,Bettystown,Meath,2024-09-01,43200.0,14.4,50.0
+MEA_bettystown,Bettystown,Meath,2024-10-01,43200.0,14.4,50.0
+MEA_bettystown,Bettystown,Meath,2024-11-01,43200.0,14.4,50.0
+MEA_bettystown,Bettystown,Meath,2024-12-01,43200.0,14.4,50.0
+MEA_laytown,Laytown,Meath,2024-01-01,36000.0,12.0,50.0
+MEA_laytown,Laytown,Meath,2024-02-01,36000.0,12.0,50.0
+MEA_laytown,Laytown,Meath,2024-03-01,36000.0,12.0,50.0
+MEA_laytown,Laytown,Meath,2024-04-01,36000.0,12.0,50.0
+MEA_laytown,Laytown,Meath,2024-05-01,36000.0,12.0,50.0
+MEA_laytown,Laytown,Meath,2024-06-01,36000.0,12.0,50.0
+MEA_laytown,Laytown,Meath,2024-07-01,36000.0,12.0,50.0
+MEA_laytown,Laytown,Meath,2024-08-01,36000.0,12.0,50.0
+MEA_laytown,Laytown,Meath,2024-09-01,36000.0,12.0,50.0
+MEA_laytown,Laytown,Meath,2024-10-01,36000.0,12.0,50.0
+MEA_laytown,Laytown,Meath,2024-11-01,36000.0,12.0,50.0
+MEA_laytown,Laytown,Meath,2024-12-01,36000.0,12.0,50.0
+MEA_enfield,Enfield,Meath,2024-01-01,28800.0,9.6,50.0
+MEA_enfield,Enfield,Meath,2024-02-01,28800.0,9.6,50.0
+MEA_enfield,Enfield,Meath,2024-03-01,28800.0,9.6,50.0
+MEA_enfield,Enfield,Meath,2024-04-01,28800.0,9.6,50.0
+MEA_enfield,Enfield,Meath,2024-05-01,28800.0,9.6,50.0
+MEA_enfield,Enfield,Meath,2024-06-01,28800.0,9.6,50.0
+MEA_enfield,Enfield,Meath,2024-07-01,28800.0,9.6,50.0
+MEA_enfield,Enfield,Meath,2024-08-01,28800.0,9.6,50.0
+MEA_enfield,Enfield,Meath,2024-09-01,28800.0,9.6,50.0
+MEA_enfield,Enfield,Meath,2024-10-01,28800.0,9.6,50.0
+MEA_enfield,Enfield,Meath,2024-11-01,28800.0,9.6,50.0
+MEA_enfield,Enfield,Meath,2024-12-01,28800.0,9.6,50.0
+LOU_drogheda_east_urban,Drogheda East Urban,Louth,2024-01-01,35000.0,11.7,50.0
+LOU_drogheda_east_urban,Drogheda East Urban,Louth,2024-02-01,35000.0,11.7,50.0
+LOU_drogheda_east_urban,Drogheda East Urban,Louth,2024-03-01,35000.0,11.7,50.0
+LOU_drogheda_east_urban,Drogheda East Urban,Louth,2024-04-01,35000.0,11.7,50.0
+LOU_drogheda_east_urban,Drogheda East Urban,Louth,2024-05-01,35000.0,11.7,50.0
+LOU_drogheda_east_urban,Drogheda East Urban,Louth,2024-06-01,35000.0,11.7,50.0
+LOU_drogheda_east_urban,Drogheda East Urban,Louth,2024-07-01,35000.0,11.7,50.0
+LOU_drogheda_east_urban,Drogheda East Urban,Louth,2024-08-01,35000.0,11.7,50.0
+LOU_drogheda_east_urban,Drogheda East Urban,Louth,2024-09-01,35000.0,11.7,50.0
+LOU_drogheda_east_urban,Drogheda East Urban,Louth,2024-10-01,35000.0,11.7,50.0
+LOU_drogheda_east_urban,Drogheda East Urban,Louth,2024-11-01,35000.0,11.7,50.0
+LOU_drogheda_east_urban,Drogheda East Urban,Louth,2024-12-01,35000.0,11.7,50.0
+LOU_drogheda_west_urban,Drogheda West Urban,Louth,2024-01-01,35000.0,11.7,50.0
+LOU_drogheda_west_urban,Drogheda West Urban,Louth,2024-02-01,35000.0,11.7,50.0
+LOU_drogheda_west_urban,Drogheda West Urban,Louth,2024-03-01,35000.0,11.7,50.0
+LOU_drogheda_west_urban,Drogheda West Urban,Louth,2024-04-01,35000.0,11.7,50.0
+LOU_drogheda_west_urban,Drogheda West Urban,Louth,2024-05-01,35000.0,11.7,50.0
+LOU_drogheda_west_urban,Drogheda West Urban,Louth,2024-06-01,35000.0,11.7,50.0
+LOU_drogheda_west_urban,Drogheda West Urban,Louth,2024-07-01,35000.0,11.7,50.0
+LOU_drogheda_west_urban,Drogheda West Urban,Louth,2024-08-01,35000.0,11.7,50.0
+LOU_drogheda_west_urban,Drogheda West Urban,Louth,2024-09-01,35000.0,11.7,50.0
+LOU_drogheda_west_urban,Drogheda West Urban,Louth,2024-10-01,35000.0,11.7,50.0
+LOU_drogheda_west_urban,Drogheda West Urban,Louth,2024-11-01,35000.0,11.7,50.0
+LOU_drogheda_west_urban,Drogheda West Urban,Louth,2024-12-01,35000.0,11.7,50.0
+LOU_dundalk_urban,Dundalk Urban,Louth,2024-01-01,35000.0,11.7,50.0
+LOU_dundalk_urban,Dundalk Urban,Louth,2024-02-01,35000.0,11.7,50.0
+LOU_dundalk_urban,Dundalk Urban,Louth,2024-03-01,35000.0,11.7,50.0
+LOU_dundalk_urban,Dundalk Urban,Louth,2024-04-01,35000.0,11.7,50.0
+LOU_dundalk_urban,Dundalk Urban,Louth,2024-05-01,35000.0,11.7,50.0
+LOU_dundalk_urban,Dundalk Urban,Louth,2024-06-01,35000.0,11.7,50.0
+LOU_dundalk_urban,Dundalk Urban,Louth,2024-07-01,35000.0,11.7,50.0
+LOU_dundalk_urban,Dundalk Urban,Louth,2024-08-01,35000.0,11.7,50.0
+LOU_dundalk_urban,Dundalk Urban,Louth,2024-09-01,35000.0,11.7,50.0
+LOU_dundalk_urban,Dundalk Urban,Louth,2024-10-01,35000.0,11.7,50.0
+LOU_dundalk_urban,Dundalk Urban,Louth,2024-11-01,35000.0,11.7,50.0
+LOU_dundalk_urban,Dundalk Urban,Louth,2024-12-01,35000.0,11.7,50.0
+LOU_dundalk_rural,Dundalk Rural,Louth,2024-01-01,30000.0,10.0,50.0
+LOU_dundalk_rural,Dundalk Rural,Louth,2024-02-01,30000.0,10.0,50.0
+LOU_dundalk_rural,Dundalk Rural,Louth,2024-03-01,30000.0,10.0,50.0
+LOU_dundalk_rural,Dundalk Rural,Louth,2024-04-01,30000.0,10.0,50.0
+LOU_dundalk_rural,Dundalk Rural,Louth,2024-05-01,30000.0,10.0,50.0
+LOU_dundalk_rural,Dundalk Rural,Louth,2024-06-01,30000.0,10.0,50.0
+LOU_dundalk_rural,Dundalk Rural,Louth,2024-07-01,30000.0,10.0,50.0
+LOU_dundalk_rural,Dundalk Rural,Louth,2024-08-01,30000.0,10.0,50.0
+LOU_dundalk_rural,Dundalk Rural,Louth,2024-09-01,30000.0,10.0,50.0
+LOU_dundalk_rural,Dundalk Rural,Louth,2024-10-01,30000.0,10.0,50.0
+LOU_dundalk_rural,Dundalk Rural,Louth,2024-11-01,30000.0,10.0,50.0
+LOU_dundalk_rural,Dundalk Rural,Louth,2024-12-01,30000.0,10.0,50.0
+LOU_ardee,Ardee,Louth,2024-01-01,25000.0,8.3,50.0
+LOU_ardee,Ardee,Louth,2024-02-01,25000.0,8.3,50.0
+LOU_ardee,Ardee,Louth,2024-03-01,25000.0,8.3,50.0
+LOU_ardee,Ardee,Louth,2024-04-01,25000.0,8.3,50.0
+LOU_ardee,Ardee,Louth,2024-05-01,25000.0,8.3,50.0
+LOU_ardee,Ardee,Louth,2024-06-01,25000.0,8.3,50.0
+LOU_ardee,Ardee,Louth,2024-07-01,25000.0,8.3,50.0
+LOU_ardee,Ardee,Louth,2024-08-01,25000.0,8.3,50.0
+LOU_ardee,Ardee,Louth,2024-09-01,25000.0,8.3,50.0
+LOU_ardee,Ardee,Louth,2024-10-01,25000.0,8.3,50.0
+LOU_ardee,Ardee,Louth,2024-11-01,25000.0,8.3,50.0
+LOU_ardee,Ardee,Louth,2024-12-01,25000.0,8.3,50.0
+LOU_dunleer,Dunleer,Louth,2024-01-01,20000.0,6.7,50.0
+LOU_dunleer,Dunleer,Louth,2024-02-01,20000.0,6.7,50.0
+LOU_dunleer,Dunleer,Louth,2024-03-01,20000.0,6.7,50.0
+LOU_dunleer,Dunleer,Louth,2024-04-01,20000.0,6.7,50.0
+LOU_dunleer,Dunleer,Louth,2024-05-01,20000.0,6.7,50.0
+LOU_dunleer,Dunleer,Louth,2024-06-01,20000.0,6.7,50.0
+LOU_dunleer,Dunleer,Louth,2024-07-01,20000.0,6.7,50.0
+LOU_dunleer,Dunleer,Louth,2024-08-01,20000.0,6.7,50.0
+LOU_dunleer,Dunleer,Louth,2024-09-01,20000.0,6.7,50.0
+LOU_dunleer,Dunleer,Louth,2024-10-01,20000.0,6.7,50.0
+LOU_dunleer,Dunleer,Louth,2024-11-01,20000.0,6.7,50.0
+LOU_dunleer,Dunleer,Louth,2024-12-01,20000.0,6.7,50.0
+LOU_carlingford,Carlingford,Louth,2024-01-01,20000.0,6.7,50.0
+LOU_carlingford,Carlingford,Louth,2024-02-01,20000.0,6.7,50.0
+LOU_carlingford,Carlingford,Louth,2024-03-01,20000.0,6.7,50.0
+LOU_carlingford,Carlingford,Louth,2024-04-01,20000.0,6.7,50.0
+LOU_carlingford,Carlingford,Louth,2024-05-01,20000.0,6.7,50.0
+LOU_carlingford,Carlingford,Louth,2024-06-01,20000.0,6.7,50.0
+LOU_carlingford,Carlingford,Louth,2024-07-01,20000.0,6.7,50.0
+LOU_carlingford,Carlingford,Louth,2024-08-01,20000.0,6.7,50.0
+LOU_carlingford,Carlingford,Louth,2024-09-01,20000.0,6.7,50.0
+LOU_carlingford,Carlingford,Louth,2024-10-01,20000.0,6.7,50.0
+LOU_carlingford,Carlingford,Louth,2024-11-01,20000.0,6.7,50.0
+LOU_carlingford,Carlingford,Louth,2024-12-01,20000.0,6.7,50.0
+LOU_blackrock_louth,Blackrock (Louth),Louth,2024-01-01,20000.0,6.7,50.0
+LOU_blackrock_louth,Blackrock (Louth),Louth,2024-02-01,20000.0,6.7,50.0
+LOU_blackrock_louth,Blackrock (Louth),Louth,2024-03-01,20000.0,6.7,50.0
+LOU_blackrock_louth,Blackrock (Louth),Louth,2024-04-01,20000.0,6.7,50.0
+LOU_blackrock_louth,Blackrock (Louth),Louth,2024-05-01,20000.0,6.7,50.0
+LOU_blackrock_louth,Blackrock (Louth),Louth,2024-06-01,20000.0,6.7,50.0
+LOU_blackrock_louth,Blackrock (Louth),Louth,2024-07-01,20000.0,6.7,50.0
+LOU_blackrock_louth,Blackrock (Louth),Louth,2024-08-01,20000.0,6.7,50.0
+LOU_blackrock_louth,Blackrock (Louth),Louth,2024-09-01,20000.0,6.7,50.0
+LOU_blackrock_louth,Blackrock (Louth),Louth,2024-10-01,20000.0,6.7,50.0
+LOU_blackrock_louth,Blackrock (Louth),Louth,2024-11-01,20000.0,6.7,50.0
+LOU_blackrock_louth,Blackrock (Louth),Louth,2024-12-01,20000.0,6.7,50.0
+LOU_clogherhead,Clogherhead,Louth,2024-01-01,12500.0,4.2,50.0
+LOU_clogherhead,Clogherhead,Louth,2024-02-01,12500.0,4.2,50.0
+LOU_clogherhead,Clogherhead,Louth,2024-03-01,12500.0,4.2,50.0
+LOU_clogherhead,Clogherhead,Louth,2024-04-01,12500.0,4.2,50.0
+LOU_clogherhead,Clogherhead,Louth,2024-05-01,12500.0,4.2,50.0
+LOU_clogherhead,Clogherhead,Louth,2024-06-01,12500.0,4.2,50.0
+LOU_clogherhead,Clogherhead,Louth,2024-07-01,12500.0,4.2,50.0
+LOU_clogherhead,Clogherhead,Louth,2024-08-01,12500.0,4.2,50.0
+LOU_clogherhead,Clogherhead,Louth,2024-09-01,12500.0,4.2,50.0
+LOU_clogherhead,Clogherhead,Louth,2024-10-01,12500.0,4.2,50.0
+LOU_clogherhead,Clogherhead,Louth,2024-11-01,12500.0,4.2,50.0
+LOU_clogherhead,Clogherhead,Louth,2024-12-01,12500.0,4.2,50.0
+LOU_cooley,Cooley,Louth,2024-01-01,12500.0,4.2,50.0
+LOU_cooley,Cooley,Louth,2024-02-01,12500.0,4.2,50.0
+LOU_cooley,Cooley,Louth,2024-03-01,12500.0,4.2,50.0
+LOU_cooley,Cooley,Louth,2024-04-01,12500.0,4.2,50.0
+LOU_cooley,Cooley,Louth,2024-05-01,12500.0,4.2,50.0
+LOU_cooley,Cooley,Louth,2024-06-01,12500.0,4.2,50.0
+LOU_cooley,Cooley,Louth,2024-07-01,12500.0,4.2,50.0
+LOU_cooley,Cooley,Louth,2024-08-01,12500.0,4.2,50.0
+LOU_cooley,Cooley,Louth,2024-09-01,12500.0,4.2,50.0
+LOU_cooley,Cooley,Louth,2024-10-01,12500.0,4.2,50.0
+LOU_cooley,Cooley,Louth,2024-11-01,12500.0,4.2,50.0
+LOU_cooley,Cooley,Louth,2024-12-01,12500.0,4.2,50.0
+WES_athlone_east_urban,Athlone East Urban,Westmeath,2024-01-01,22400.0,7.5,50.0
+WES_athlone_east_urban,Athlone East Urban,Westmeath,2024-02-01,22400.0,7.5,50.0
+WES_athlone_east_urban,Athlone East Urban,Westmeath,2024-03-01,22400.0,7.5,50.0
+WES_athlone_east_urban,Athlone East Urban,Westmeath,2024-04-01,22400.0,7.5,50.0
+WES_athlone_east_urban,Athlone East Urban,Westmeath,2024-05-01,22400.0,7.5,50.0
+WES_athlone_east_urban,Athlone East Urban,Westmeath,2024-06-01,22400.0,7.5,50.0
+WES_athlone_east_urban,Athlone East Urban,Westmeath,2024-07-01,22400.0,7.5,50.0
+WES_athlone_east_urban,Athlone East Urban,Westmeath,2024-08-01,22400.0,7.5,50.0
+WES_athlone_east_urban,Athlone East Urban,Westmeath,2024-09-01,22400.0,7.5,50.0
+WES_athlone_east_urban,Athlone East Urban,Westmeath,2024-10-01,22400.0,7.5,50.0
+WES_athlone_east_urban,Athlone East Urban,Westmeath,2024-11-01,22400.0,7.5,50.0
+WES_athlone_east_urban,Athlone East Urban,Westmeath,2024-12-01,22400.0,7.5,50.0
+WES_athlone_west_urban,Athlone West Urban,Westmeath,2024-01-01,22400.0,7.5,50.0
+WES_athlone_west_urban,Athlone West Urban,Westmeath,2024-02-01,22400.0,7.5,50.0
+WES_athlone_west_urban,Athlone West Urban,Westmeath,2024-03-01,22400.0,7.5,50.0
+WES_athlone_west_urban,Athlone West Urban,Westmeath,2024-04-01,22400.0,7.5,50.0
+WES_athlone_west_urban,Athlone West Urban,Westmeath,2024-05-01,22400.0,7.5,50.0
+WES_athlone_west_urban,Athlone West Urban,Westmeath,2024-06-01,22400.0,7.5,50.0
+WES_athlone_west_urban,Athlone West Urban,Westmeath,2024-07-01,22400.0,7.5,50.0
+WES_athlone_west_urban,Athlone West Urban,Westmeath,2024-08-01,22400.0,7.5,50.0
+WES_athlone_west_urban,Athlone West Urban,Westmeath,2024-09-01,22400.0,7.5,50.0
+WES_athlone_west_urban,Athlone West Urban,Westmeath,2024-10-01,22400.0,7.5,50.0
+WES_athlone_west_urban,Athlone West Urban,Westmeath,2024-11-01,22400.0,7.5,50.0
+WES_athlone_west_urban,Athlone West Urban,Westmeath,2024-12-01,22400.0,7.5,50.0
+WES_mullingar_north,Mullingar North,Westmeath,2024-01-01,19200.0,6.4,50.0
+WES_mullingar_north,Mullingar North,Westmeath,2024-02-01,19200.0,6.4,50.0
+WES_mullingar_north,Mullingar North,Westmeath,2024-03-01,19200.0,6.4,50.0
+WES_mullingar_north,Mullingar North,Westmeath,2024-04-01,19200.0,6.4,50.0
+WES_mullingar_north,Mullingar North,Westmeath,2024-05-01,19200.0,6.4,50.0
+WES_mullingar_north,Mullingar North,Westmeath,2024-06-01,19200.0,6.4,50.0
+WES_mullingar_north,Mullingar North,Westmeath,2024-07-01,19200.0,6.4,50.0
+WES_mullingar_north,Mullingar North,Westmeath,2024-08-01,19200.0,6.4,50.0
+WES_mullingar_north,Mullingar North,Westmeath,2024-09-01,19200.0,6.4,50.0
+WES_mullingar_north,Mullingar North,Westmeath,2024-10-01,19200.0,6.4,50.0
+WES_mullingar_north,Mullingar North,Westmeath,2024-11-01,19200.0,6.4,50.0
+WES_mullingar_north,Mullingar North,Westmeath,2024-12-01,19200.0,6.4,50.0
+WES_mullingar_south,Mullingar South,Westmeath,2024-01-01,19200.0,6.4,50.0
+WES_mullingar_south,Mullingar South,Westmeath,2024-02-01,19200.0,6.4,50.0
+WES_mullingar_south,Mullingar South,Westmeath,2024-03-01,19200.0,6.4,50.0
+WES_mullingar_south,Mullingar South,Westmeath,2024-04-01,19200.0,6.4,50.0
+WES_mullingar_south,Mullingar South,Westmeath,2024-05-01,19200.0,6.4,50.0
+WES_mullingar_south,Mullingar South,Westmeath,2024-06-01,19200.0,6.4,50.0
+WES_mullingar_south,Mullingar South,Westmeath,2024-07-01,19200.0,6.4,50.0
+WES_mullingar_south,Mullingar South,Westmeath,2024-08-01,19200.0,6.4,50.0
+WES_mullingar_south,Mullingar South,Westmeath,2024-09-01,19200.0,6.4,50.0
+WES_mullingar_south,Mullingar South,Westmeath,2024-10-01,19200.0,6.4,50.0
+WES_mullingar_south,Mullingar South,Westmeath,2024-11-01,19200.0,6.4,50.0
+WES_mullingar_south,Mullingar South,Westmeath,2024-12-01,19200.0,6.4,50.0
+WES_moate,Moate,Westmeath,2024-01-01,16000.0,5.3,50.0
+WES_moate,Moate,Westmeath,2024-02-01,16000.0,5.3,50.0
+WES_moate,Moate,Westmeath,2024-03-01,16000.0,5.3,50.0
+WES_moate,Moate,Westmeath,2024-04-01,16000.0,5.3,50.0
+WES_moate,Moate,Westmeath,2024-05-01,16000.0,5.3,50.0
+WES_moate,Moate,Westmeath,2024-06-01,16000.0,5.3,50.0
+WES_moate,Moate,Westmeath,2024-07-01,16000.0,5.3,50.0
+WES_moate,Moate,Westmeath,2024-08-01,16000.0,5.3,50.0
+WES_moate,Moate,Westmeath,2024-09-01,16000.0,5.3,50.0
+WES_moate,Moate,Westmeath,2024-10-01,16000.0,5.3,50.0
+WES_moate,Moate,Westmeath,2024-11-01,16000.0,5.3,50.0
+WES_moate,Moate,Westmeath,2024-12-01,16000.0,5.3,50.0
+WES_kilbeggan,Kilbeggan,Westmeath,2024-01-01,12800.0,4.3,50.0
+WES_kilbeggan,Kilbeggan,Westmeath,2024-02-01,12800.0,4.3,50.0
+WES_kilbeggan,Kilbeggan,Westmeath,2024-03-01,12800.0,4.3,50.0
+WES_kilbeggan,Kilbeggan,Westmeath,2024-04-01,12800.0,4.3,50.0
+WES_kilbeggan,Kilbeggan,Westmeath,2024-05-01,12800.0,4.3,50.0
+WES_kilbeggan,Kilbeggan,Westmeath,2024-06-01,12800.0,4.3,50.0
+WES_kilbeggan,Kilbeggan,Westmeath,2024-07-01,12800.0,4.3,50.0
+WES_kilbeggan,Kilbeggan,Westmeath,2024-08-01,12800.0,4.3,50.0
+WES_kilbeggan,Kilbeggan,Westmeath,2024-09-01,12800.0,4.3,50.0
+WES_kilbeggan,Kilbeggan,Westmeath,2024-10-01,12800.0,4.3,50.0
+WES_kilbeggan,Kilbeggan,Westmeath,2024-11-01,12800.0,4.3,50.0
+WES_kilbeggan,Kilbeggan,Westmeath,2024-12-01,12800.0,4.3,50.0
+WES_kinnegad,Kinnegad,Westmeath,2024-01-01,12800.0,4.3,50.0
+WES_kinnegad,Kinnegad,Westmeath,2024-02-01,12800.0,4.3,50.0
+WES_kinnegad,Kinnegad,Westmeath,2024-03-01,12800.0,4.3,50.0
+WES_kinnegad,Kinnegad,Westmeath,2024-04-01,12800.0,4.3,50.0
+WES_kinnegad,Kinnegad,Westmeath,2024-05-01,12800.0,4.3,50.0
+WES_kinnegad,Kinnegad,Westmeath,2024-06-01,12800.0,4.3,50.0
+WES_kinnegad,Kinnegad,Westmeath,2024-07-01,12800.0,4.3,50.0
+WES_kinnegad,Kinnegad,Westmeath,2024-08-01,12800.0,4.3,50.0
+WES_kinnegad,Kinnegad,Westmeath,2024-09-01,12800.0,4.3,50.0
+WES_kinnegad,Kinnegad,Westmeath,2024-10-01,12800.0,4.3,50.0
+WES_kinnegad,Kinnegad,Westmeath,2024-11-01,12800.0,4.3,50.0
+WES_kinnegad,Kinnegad,Westmeath,2024-12-01,12800.0,4.3,50.0
+WES_castlepollard,Castlepollard,Westmeath,2024-01-01,8000.0,2.7,50.0
+WES_castlepollard,Castlepollard,Westmeath,2024-02-01,8000.0,2.7,50.0
+WES_castlepollard,Castlepollard,Westmeath,2024-03-01,8000.0,2.7,50.0
+WES_castlepollard,Castlepollard,Westmeath,2024-04-01,8000.0,2.7,50.0
+WES_castlepollard,Castlepollard,Westmeath,2024-05-01,8000.0,2.7,50.0
+WES_castlepollard,Castlepollard,Westmeath,2024-06-01,8000.0,2.7,50.0
+WES_castlepollard,Castlepollard,Westmeath,2024-07-01,8000.0,2.7,50.0
+WES_castlepollard,Castlepollard,Westmeath,2024-08-01,8000.0,2.7,50.0
+WES_castlepollard,Castlepollard,Westmeath,2024-09-01,8000.0,2.7,50.0
+WES_castlepollard,Castlepollard,Westmeath,2024-10-01,8000.0,2.7,50.0
+WES_castlepollard,Castlepollard,Westmeath,2024-11-01,8000.0,2.7,50.0
+WES_castlepollard,Castlepollard,Westmeath,2024-12-01,8000.0,2.7,50.0
+WES_fore,Fore,Westmeath,2024-01-01,8000.0,2.7,50.0
+WES_fore,Fore,Westmeath,2024-02-01,8000.0,2.7,50.0
+WES_fore,Fore,Westmeath,2024-03-01,8000.0,2.7,50.0
+WES_fore,Fore,Westmeath,2024-04-01,8000.0,2.7,50.0
+WES_fore,Fore,Westmeath,2024-05-01,8000.0,2.7,50.0
+WES_fore,Fore,Westmeath,2024-06-01,8000.0,2.7,50.0
+WES_fore,Fore,Westmeath,2024-07-01,8000.0,2.7,50.0
+WES_fore,Fore,Westmeath,2024-08-01,8000.0,2.7,50.0
+WES_fore,Fore,Westmeath,2024-09-01,8000.0,2.7,50.0
+WES_fore,Fore,Westmeath,2024-10-01,8000.0,2.7,50.0
+WES_fore,Fore,Westmeath,2024-11-01,8000.0,2.7,50.0
+WES_fore,Fore,Westmeath,2024-12-01,8000.0,2.7,50.0
+OFF_tullamore_urban,Tullamore Urban,Offaly,2024-01-01,19600.0,6.5,50.0
+OFF_tullamore_urban,Tullamore Urban,Offaly,2024-02-01,19600.0,6.5,50.0
+OFF_tullamore_urban,Tullamore Urban,Offaly,2024-03-01,19600.0,6.5,50.0
+OFF_tullamore_urban,Tullamore Urban,Offaly,2024-04-01,19600.0,6.5,50.0
+OFF_tullamore_urban,Tullamore Urban,Offaly,2024-05-01,19600.0,6.5,50.0
+OFF_tullamore_urban,Tullamore Urban,Offaly,2024-06-01,19600.0,6.5,50.0
+OFF_tullamore_urban,Tullamore Urban,Offaly,2024-07-01,19600.0,6.5,50.0
+OFF_tullamore_urban,Tullamore Urban,Offaly,2024-08-01,19600.0,6.5,50.0
+OFF_tullamore_urban,Tullamore Urban,Offaly,2024-09-01,19600.0,6.5,50.0
+OFF_tullamore_urban,Tullamore Urban,Offaly,2024-10-01,19600.0,6.5,50.0
+OFF_tullamore_urban,Tullamore Urban,Offaly,2024-11-01,19600.0,6.5,50.0
+OFF_tullamore_urban,Tullamore Urban,Offaly,2024-12-01,19600.0,6.5,50.0
+OFF_birr_urban,Birr Urban,Offaly,2024-01-01,14000.0,4.7,50.0
+OFF_birr_urban,Birr Urban,Offaly,2024-02-01,14000.0,4.7,50.0
+OFF_birr_urban,Birr Urban,Offaly,2024-03-01,14000.0,4.7,50.0
+OFF_birr_urban,Birr Urban,Offaly,2024-04-01,14000.0,4.7,50.0
+OFF_birr_urban,Birr Urban,Offaly,2024-05-01,14000.0,4.7,50.0
+OFF_birr_urban,Birr Urban,Offaly,2024-06-01,14000.0,4.7,50.0
+OFF_birr_urban,Birr Urban,Offaly,2024-07-01,14000.0,4.7,50.0
+OFF_birr_urban,Birr Urban,Offaly,2024-08-01,14000.0,4.7,50.0
+OFF_birr_urban,Birr Urban,Offaly,2024-09-01,14000.0,4.7,50.0
+OFF_birr_urban,Birr Urban,Offaly,2024-10-01,14000.0,4.7,50.0
+OFF_birr_urban,Birr Urban,Offaly,2024-11-01,14000.0,4.7,50.0
+OFF_birr_urban,Birr Urban,Offaly,2024-12-01,14000.0,4.7,50.0
+OFF_edenderry,Edenderry,Offaly,2024-01-01,14000.0,4.7,50.0
+OFF_edenderry,Edenderry,Offaly,2024-02-01,14000.0,4.7,50.0
+OFF_edenderry,Edenderry,Offaly,2024-03-01,14000.0,4.7,50.0
+OFF_edenderry,Edenderry,Offaly,2024-04-01,14000.0,4.7,50.0
+OFF_edenderry,Edenderry,Offaly,2024-05-01,14000.0,4.7,50.0
+OFF_edenderry,Edenderry,Offaly,2024-06-01,14000.0,4.7,50.0
+OFF_edenderry,Edenderry,Offaly,2024-07-01,14000.0,4.7,50.0
+OFF_edenderry,Edenderry,Offaly,2024-08-01,14000.0,4.7,50.0
+OFF_edenderry,Edenderry,Offaly,2024-09-01,14000.0,4.7,50.0
+OFF_edenderry,Edenderry,Offaly,2024-10-01,14000.0,4.7,50.0
+OFF_edenderry,Edenderry,Offaly,2024-11-01,14000.0,4.7,50.0
+OFF_edenderry,Edenderry,Offaly,2024-12-01,14000.0,4.7,50.0
+OFF_clara,Clara,Offaly,2024-01-01,11200.0,3.7,50.0
+OFF_clara,Clara,Offaly,2024-02-01,11200.0,3.7,50.0
+OFF_clara,Clara,Offaly,2024-03-01,11200.0,3.7,50.0
+OFF_clara,Clara,Offaly,2024-04-01,11200.0,3.7,50.0
+OFF_clara,Clara,Offaly,2024-05-01,11200.0,3.7,50.0
+OFF_clara,Clara,Offaly,2024-06-01,11200.0,3.7,50.0
+OFF_clara,Clara,Offaly,2024-07-01,11200.0,3.7,50.0
+OFF_clara,Clara,Offaly,2024-08-01,11200.0,3.7,50.0
+OFF_clara,Clara,Offaly,2024-09-01,11200.0,3.7,50.0
+OFF_clara,Clara,Offaly,2024-10-01,11200.0,3.7,50.0
+OFF_clara,Clara,Offaly,2024-11-01,11200.0,3.7,50.0
+OFF_clara,Clara,Offaly,2024-12-01,11200.0,3.7,50.0
+OFF_ferbane,Ferbane,Offaly,2024-01-01,11200.0,3.7,50.0
+OFF_ferbane,Ferbane,Offaly,2024-02-01,11200.0,3.7,50.0
+OFF_ferbane,Ferbane,Offaly,2024-03-01,11200.0,3.7,50.0
+OFF_ferbane,Ferbane,Offaly,2024-04-01,11200.0,3.7,50.0
+OFF_ferbane,Ferbane,Offaly,2024-05-01,11200.0,3.7,50.0
+OFF_ferbane,Ferbane,Offaly,2024-06-01,11200.0,3.7,50.0
+OFF_ferbane,Ferbane,Offaly,2024-07-01,11200.0,3.7,50.0
+OFF_ferbane,Ferbane,Offaly,2024-08-01,11200.0,3.7,50.0
+OFF_ferbane,Ferbane,Offaly,2024-09-01,11200.0,3.7,50.0
+OFF_ferbane,Ferbane,Offaly,2024-10-01,11200.0,3.7,50.0
+OFF_ferbane,Ferbane,Offaly,2024-11-01,11200.0,3.7,50.0
+OFF_ferbane,Ferbane,Offaly,2024-12-01,11200.0,3.7,50.0
+OFF_banagher,Banagher,Offaly,2024-01-01,11200.0,3.7,50.0
+OFF_banagher,Banagher,Offaly,2024-02-01,11200.0,3.7,50.0
+OFF_banagher,Banagher,Offaly,2024-03-01,11200.0,3.7,50.0
+OFF_banagher,Banagher,Offaly,2024-04-01,11200.0,3.7,50.0
+OFF_banagher,Banagher,Offaly,2024-05-01,11200.0,3.7,50.0
+OFF_banagher,Banagher,Offaly,2024-06-01,11200.0,3.7,50.0
+OFF_banagher,Banagher,Offaly,2024-07-01,11200.0,3.7,50.0
+OFF_banagher,Banagher,Offaly,2024-08-01,11200.0,3.7,50.0
+OFF_banagher,Banagher,Offaly,2024-09-01,11200.0,3.7,50.0
+OFF_banagher,Banagher,Offaly,2024-10-01,11200.0,3.7,50.0
+OFF_banagher,Banagher,Offaly,2024-11-01,11200.0,3.7,50.0
+OFF_banagher,Banagher,Offaly,2024-12-01,11200.0,3.7,50.0
+OFF_kilcormac,Kilcormac,Offaly,2024-01-01,7000.0,2.3,50.0
+OFF_kilcormac,Kilcormac,Offaly,2024-02-01,7000.0,2.3,50.0
+OFF_kilcormac,Kilcormac,Offaly,2024-03-01,7000.0,2.3,50.0
+OFF_kilcormac,Kilcormac,Offaly,2024-04-01,7000.0,2.3,50.0
+OFF_kilcormac,Kilcormac,Offaly,2024-05-01,7000.0,2.3,50.0
+OFF_kilcormac,Kilcormac,Offaly,2024-06-01,7000.0,2.3,50.0
+OFF_kilcormac,Kilcormac,Offaly,2024-07-01,7000.0,2.3,50.0
+OFF_kilcormac,Kilcormac,Offaly,2024-08-01,7000.0,2.3,50.0
+OFF_kilcormac,Kilcormac,Offaly,2024-09-01,7000.0,2.3,50.0
+OFF_kilcormac,Kilcormac,Offaly,2024-10-01,7000.0,2.3,50.0
+OFF_kilcormac,Kilcormac,Offaly,2024-11-01,7000.0,2.3,50.0
+OFF_kilcormac,Kilcormac,Offaly,2024-12-01,7000.0,2.3,50.0
+OFF_shinrone,Shinrone,Offaly,2024-01-01,7000.0,2.3,50.0
+OFF_shinrone,Shinrone,Offaly,2024-02-01,7000.0,2.3,50.0
+OFF_shinrone,Shinrone,Offaly,2024-03-01,7000.0,2.3,50.0
+OFF_shinrone,Shinrone,Offaly,2024-04-01,7000.0,2.3,50.0
+OFF_shinrone,Shinrone,Offaly,2024-05-01,7000.0,2.3,50.0
+OFF_shinrone,Shinrone,Offaly,2024-06-01,7000.0,2.3,50.0
+OFF_shinrone,Shinrone,Offaly,2024-07-01,7000.0,2.3,50.0
+OFF_shinrone,Shinrone,Offaly,2024-08-01,7000.0,2.3,50.0
+OFF_shinrone,Shinrone,Offaly,2024-09-01,7000.0,2.3,50.0
+OFF_shinrone,Shinrone,Offaly,2024-10-01,7000.0,2.3,50.0
+OFF_shinrone,Shinrone,Offaly,2024-11-01,7000.0,2.3,50.0
+OFF_shinrone,Shinrone,Offaly,2024-12-01,7000.0,2.3,50.0
+OFF_cloghan,Cloghan,Offaly,2024-01-01,7000.0,2.3,50.0
+OFF_cloghan,Cloghan,Offaly,2024-02-01,7000.0,2.3,50.0
+OFF_cloghan,Cloghan,Offaly,2024-03-01,7000.0,2.3,50.0
+OFF_cloghan,Cloghan,Offaly,2024-04-01,7000.0,2.3,50.0
+OFF_cloghan,Cloghan,Offaly,2024-05-01,7000.0,2.3,50.0
+OFF_cloghan,Cloghan,Offaly,2024-06-01,7000.0,2.3,50.0
+OFF_cloghan,Cloghan,Offaly,2024-07-01,7000.0,2.3,50.0
+OFF_cloghan,Cloghan,Offaly,2024-08-01,7000.0,2.3,50.0
+OFF_cloghan,Cloghan,Offaly,2024-09-01,7000.0,2.3,50.0
+OFF_cloghan,Cloghan,Offaly,2024-10-01,7000.0,2.3,50.0
+OFF_cloghan,Cloghan,Offaly,2024-11-01,7000.0,2.3,50.0
+OFF_cloghan,Cloghan,Offaly,2024-12-01,7000.0,2.3,50.0
+LAO_portlaoise_urban,Portlaoise Urban,Laois,2024-01-01,21000.0,7.0,50.0
+LAO_portlaoise_urban,Portlaoise Urban,Laois,2024-02-01,21000.0,7.0,50.0
+LAO_portlaoise_urban,Portlaoise Urban,Laois,2024-03-01,21000.0,7.0,50.0
+LAO_portlaoise_urban,Portlaoise Urban,Laois,2024-04-01,21000.0,7.0,50.0
+LAO_portlaoise_urban,Portlaoise Urban,Laois,2024-05-01,21000.0,7.0,50.0
+LAO_portlaoise_urban,Portlaoise Urban,Laois,2024-06-01,21000.0,7.0,50.0
+LAO_portlaoise_urban,Portlaoise Urban,Laois,2024-07-01,21000.0,7.0,50.0
+LAO_portlaoise_urban,Portlaoise Urban,Laois,2024-08-01,21000.0,7.0,50.0
+LAO_portlaoise_urban,Portlaoise Urban,Laois,2024-09-01,21000.0,7.0,50.0
+LAO_portlaoise_urban,Portlaoise Urban,Laois,2024-10-01,21000.0,7.0,50.0
+LAO_portlaoise_urban,Portlaoise Urban,Laois,2024-11-01,21000.0,7.0,50.0
+LAO_portlaoise_urban,Portlaoise Urban,Laois,2024-12-01,21000.0,7.0,50.0
+LAO_mountmellick,Mountmellick,Laois,2024-01-01,15000.0,5.0,50.0
+LAO_mountmellick,Mountmellick,Laois,2024-02-01,15000.0,5.0,50.0
+LAO_mountmellick,Mountmellick,Laois,2024-03-01,15000.0,5.0,50.0
+LAO_mountmellick,Mountmellick,Laois,2024-04-01,15000.0,5.0,50.0
+LAO_mountmellick,Mountmellick,Laois,2024-05-01,15000.0,5.0,50.0
+LAO_mountmellick,Mountmellick,Laois,2024-06-01,15000.0,5.0,50.0
+LAO_mountmellick,Mountmellick,Laois,2024-07-01,15000.0,5.0,50.0
+LAO_mountmellick,Mountmellick,Laois,2024-08-01,15000.0,5.0,50.0
+LAO_mountmellick,Mountmellick,Laois,2024-09-01,15000.0,5.0,50.0
+LAO_mountmellick,Mountmellick,Laois,2024-10-01,15000.0,5.0,50.0
+LAO_mountmellick,Mountmellick,Laois,2024-11-01,15000.0,5.0,50.0
+LAO_mountmellick,Mountmellick,Laois,2024-12-01,15000.0,5.0,50.0
+LAO_portarlington,Portarlington,Laois,2024-01-01,15000.0,5.0,50.0
+LAO_portarlington,Portarlington,Laois,2024-02-01,15000.0,5.0,50.0
+LAO_portarlington,Portarlington,Laois,2024-03-01,15000.0,5.0,50.0
+LAO_portarlington,Portarlington,Laois,2024-04-01,15000.0,5.0,50.0
+LAO_portarlington,Portarlington,Laois,2024-05-01,15000.0,5.0,50.0
+LAO_portarlington,Portarlington,Laois,2024-06-01,15000.0,5.0,50.0
+LAO_portarlington,Portarlington,Laois,2024-07-01,15000.0,5.0,50.0
+LAO_portarlington,Portarlington,Laois,2024-08-01,15000.0,5.0,50.0
+LAO_portarlington,Portarlington,Laois,2024-09-01,15000.0,5.0,50.0
+LAO_portarlington,Portarlington,Laois,2024-10-01,15000.0,5.0,50.0
+LAO_portarlington,Portarlington,Laois,2024-11-01,15000.0,5.0,50.0
+LAO_portarlington,Portarlington,Laois,2024-12-01,15000.0,5.0,50.0
+LAO_mountrath,Mountrath,Laois,2024-01-01,12000.0,4.0,50.0
+LAO_mountrath,Mountrath,Laois,2024-02-01,12000.0,4.0,50.0
+LAO_mountrath,Mountrath,Laois,2024-03-01,12000.0,4.0,50.0
+LAO_mountrath,Mountrath,Laois,2024-04-01,12000.0,4.0,50.0
+LAO_mountrath,Mountrath,Laois,2024-05-01,12000.0,4.0,50.0
+LAO_mountrath,Mountrath,Laois,2024-06-01,12000.0,4.0,50.0
+LAO_mountrath,Mountrath,Laois,2024-07-01,12000.0,4.0,50.0
+LAO_mountrath,Mountrath,Laois,2024-08-01,12000.0,4.0,50.0
+LAO_mountrath,Mountrath,Laois,2024-09-01,12000.0,4.0,50.0
+LAO_mountrath,Mountrath,Laois,2024-10-01,12000.0,4.0,50.0
+LAO_mountrath,Mountrath,Laois,2024-11-01,12000.0,4.0,50.0
+LAO_mountrath,Mountrath,Laois,2024-12-01,12000.0,4.0,50.0
+LAO_abbeyleix,Abbeyleix,Laois,2024-01-01,12000.0,4.0,50.0
+LAO_abbeyleix,Abbeyleix,Laois,2024-02-01,12000.0,4.0,50.0
+LAO_abbeyleix,Abbeyleix,Laois,2024-03-01,12000.0,4.0,50.0
+LAO_abbeyleix,Abbeyleix,Laois,2024-04-01,12000.0,4.0,50.0
+LAO_abbeyleix,Abbeyleix,Laois,2024-05-01,12000.0,4.0,50.0
+LAO_abbeyleix,Abbeyleix,Laois,2024-06-01,12000.0,4.0,50.0
+LAO_abbeyleix,Abbeyleix,Laois,2024-07-01,12000.0,4.0,50.0
+LAO_abbeyleix,Abbeyleix,Laois,2024-08-01,12000.0,4.0,50.0
+LAO_abbeyleix,Abbeyleix,Laois,2024-09-01,12000.0,4.0,50.0
+LAO_abbeyleix,Abbeyleix,Laois,2024-10-01,12000.0,4.0,50.0
+LAO_abbeyleix,Abbeyleix,Laois,2024-11-01,12000.0,4.0,50.0
+LAO_abbeyleix,Abbeyleix,Laois,2024-12-01,12000.0,4.0,50.0
+LAO_durrow,Durrow,Laois,2024-01-01,12000.0,4.0,50.0
+LAO_durrow,Durrow,Laois,2024-02-01,12000.0,4.0,50.0
+LAO_durrow,Durrow,Laois,2024-03-01,12000.0,4.0,50.0
+LAO_durrow,Durrow,Laois,2024-04-01,12000.0,4.0,50.0
+LAO_durrow,Durrow,Laois,2024-05-01,12000.0,4.0,50.0
+LAO_durrow,Durrow,Laois,2024-06-01,12000.0,4.0,50.0
+LAO_durrow,Durrow,Laois,2024-07-01,12000.0,4.0,50.0
+LAO_durrow,Durrow,Laois,2024-08-01,12000.0,4.0,50.0
+LAO_durrow,Durrow,Laois,2024-09-01,12000.0,4.0,50.0
+LAO_durrow,Durrow,Laois,2024-10-01,12000.0,4.0,50.0
+LAO_durrow,Durrow,Laois,2024-11-01,12000.0,4.0,50.0
+LAO_durrow,Durrow,Laois,2024-12-01,12000.0,4.0,50.0
+LAO_rathdowney,Rathdowney,Laois,2024-01-01,7500.0,2.5,50.0
+LAO_rathdowney,Rathdowney,Laois,2024-02-01,7500.0,2.5,50.0
+LAO_rathdowney,Rathdowney,Laois,2024-03-01,7500.0,2.5,50.0
+LAO_rathdowney,Rathdowney,Laois,2024-04-01,7500.0,2.5,50.0
+LAO_rathdowney,Rathdowney,Laois,2024-05-01,7500.0,2.5,50.0
+LAO_rathdowney,Rathdowney,Laois,2024-06-01,7500.0,2.5,50.0
+LAO_rathdowney,Rathdowney,Laois,2024-07-01,7500.0,2.5,50.0
+LAO_rathdowney,Rathdowney,Laois,2024-08-01,7500.0,2.5,50.0
+LAO_rathdowney,Rathdowney,Laois,2024-09-01,7500.0,2.5,50.0
+LAO_rathdowney,Rathdowney,Laois,2024-10-01,7500.0,2.5,50.0
+LAO_rathdowney,Rathdowney,Laois,2024-11-01,7500.0,2.5,50.0
+LAO_rathdowney,Rathdowney,Laois,2024-12-01,7500.0,2.5,50.0
+LAO_stradbally,Stradbally,Laois,2024-01-01,7500.0,2.5,50.0
+LAO_stradbally,Stradbally,Laois,2024-02-01,7500.0,2.5,50.0
+LAO_stradbally,Stradbally,Laois,2024-03-01,7500.0,2.5,50.0
+LAO_stradbally,Stradbally,Laois,2024-04-01,7500.0,2.5,50.0
+LAO_stradbally,Stradbally,Laois,2024-05-01,7500.0,2.5,50.0
+LAO_stradbally,Stradbally,Laois,2024-06-01,7500.0,2.5,50.0
+LAO_stradbally,Stradbally,Laois,2024-07-01,7500.0,2.5,50.0
+LAO_stradbally,Stradbally,Laois,2024-08-01,7500.0,2.5,50.0
+LAO_stradbally,Stradbally,Laois,2024-09-01,7500.0,2.5,50.0
+LAO_stradbally,Stradbally,Laois,2024-10-01,7500.0,2.5,50.0
+LAO_stradbally,Stradbally,Laois,2024-11-01,7500.0,2.5,50.0
+LAO_stradbally,Stradbally,Laois,2024-12-01,7500.0,2.5,50.0
+LAO_ballinakill,Ballinakill,Laois,2024-01-01,7500.0,2.5,50.0
+LAO_ballinakill,Ballinakill,Laois,2024-02-01,7500.0,2.5,50.0
+LAO_ballinakill,Ballinakill,Laois,2024-03-01,7500.0,2.5,50.0
+LAO_ballinakill,Ballinakill,Laois,2024-04-01,7500.0,2.5,50.0
+LAO_ballinakill,Ballinakill,Laois,2024-05-01,7500.0,2.5,50.0
+LAO_ballinakill,Ballinakill,Laois,2024-06-01,7500.0,2.5,50.0
+LAO_ballinakill,Ballinakill,Laois,2024-07-01,7500.0,2.5,50.0
+LAO_ballinakill,Ballinakill,Laois,2024-08-01,7500.0,2.5,50.0
+LAO_ballinakill,Ballinakill,Laois,2024-09-01,7500.0,2.5,50.0
+LAO_ballinakill,Ballinakill,Laois,2024-10-01,7500.0,2.5,50.0
+LAO_ballinakill,Ballinakill,Laois,2024-11-01,7500.0,2.5,50.0
+LAO_ballinakill,Ballinakill,Laois,2024-12-01,7500.0,2.5,50.0
+CAR_carlow_urban,Carlow Urban,Carlow,2024-01-01,19600.0,6.5,50.0
+CAR_carlow_urban,Carlow Urban,Carlow,2024-02-01,19600.0,6.5,50.0
+CAR_carlow_urban,Carlow Urban,Carlow,2024-03-01,19600.0,6.5,50.0
+CAR_carlow_urban,Carlow Urban,Carlow,2024-04-01,19600.0,6.5,50.0
+CAR_carlow_urban,Carlow Urban,Carlow,2024-05-01,19600.0,6.5,50.0
+CAR_carlow_urban,Carlow Urban,Carlow,2024-06-01,19600.0,6.5,50.0
+CAR_carlow_urban,Carlow Urban,Carlow,2024-07-01,19600.0,6.5,50.0
+CAR_carlow_urban,Carlow Urban,Carlow,2024-08-01,19600.0,6.5,50.0
+CAR_carlow_urban,Carlow Urban,Carlow,2024-09-01,19600.0,6.5,50.0
+CAR_carlow_urban,Carlow Urban,Carlow,2024-10-01,19600.0,6.5,50.0
+CAR_carlow_urban,Carlow Urban,Carlow,2024-11-01,19600.0,6.5,50.0
+CAR_carlow_urban,Carlow Urban,Carlow,2024-12-01,19600.0,6.5,50.0
+CAR_carlow_rural,Carlow Rural,Carlow,2024-01-01,16800.0,5.6,50.0
+CAR_carlow_rural,Carlow Rural,Carlow,2024-02-01,16800.0,5.6,50.0
+CAR_carlow_rural,Carlow Rural,Carlow,2024-03-01,16800.0,5.6,50.0
+CAR_carlow_rural,Carlow Rural,Carlow,2024-04-01,16800.0,5.6,50.0
+CAR_carlow_rural,Carlow Rural,Carlow,2024-05-01,16800.0,5.6,50.0
+CAR_carlow_rural,Carlow Rural,Carlow,2024-06-01,16800.0,5.6,50.0
+CAR_carlow_rural,Carlow Rural,Carlow,2024-07-01,16800.0,5.6,50.0
+CAR_carlow_rural,Carlow Rural,Carlow,2024-08-01,16800.0,5.6,50.0
+CAR_carlow_rural,Carlow Rural,Carlow,2024-09-01,16800.0,5.6,50.0
+CAR_carlow_rural,Carlow Rural,Carlow,2024-10-01,16800.0,5.6,50.0
+CAR_carlow_rural,Carlow Rural,Carlow,2024-11-01,16800.0,5.6,50.0
+CAR_carlow_rural,Carlow Rural,Carlow,2024-12-01,16800.0,5.6,50.0
+CAR_tullow,Tullow,Carlow,2024-01-01,14000.0,4.7,50.0
+CAR_tullow,Tullow,Carlow,2024-02-01,14000.0,4.7,50.0
+CAR_tullow,Tullow,Carlow,2024-03-01,14000.0,4.7,50.0
+CAR_tullow,Tullow,Carlow,2024-04-01,14000.0,4.7,50.0
+CAR_tullow,Tullow,Carlow,2024-05-01,14000.0,4.7,50.0
+CAR_tullow,Tullow,Carlow,2024-06-01,14000.0,4.7,50.0
+CAR_tullow,Tullow,Carlow,2024-07-01,14000.0,4.7,50.0
+CAR_tullow,Tullow,Carlow,2024-08-01,14000.0,4.7,50.0
+CAR_tullow,Tullow,Carlow,2024-09-01,14000.0,4.7,50.0
+CAR_tullow,Tullow,Carlow,2024-10-01,14000.0,4.7,50.0
+CAR_tullow,Tullow,Carlow,2024-11-01,14000.0,4.7,50.0
+CAR_tullow,Tullow,Carlow,2024-12-01,14000.0,4.7,50.0
+CAR_muine_bheag_bagenalstown,Muine Bheag (Bagenalstown),Carlow,2024-01-01,11200.0,3.7,50.0
+CAR_muine_bheag_bagenalstown,Muine Bheag (Bagenalstown),Carlow,2024-02-01,11200.0,3.7,50.0
+CAR_muine_bheag_bagenalstown,Muine Bheag (Bagenalstown),Carlow,2024-03-01,11200.0,3.7,50.0
+CAR_muine_bheag_bagenalstown,Muine Bheag (Bagenalstown),Carlow,2024-04-01,11200.0,3.7,50.0
+CAR_muine_bheag_bagenalstown,Muine Bheag (Bagenalstown),Carlow,2024-05-01,11200.0,3.7,50.0
+CAR_muine_bheag_bagenalstown,Muine Bheag (Bagenalstown),Carlow,2024-06-01,11200.0,3.7,50.0
+CAR_muine_bheag_bagenalstown,Muine Bheag (Bagenalstown),Carlow,2024-07-01,11200.0,3.7,50.0
+CAR_muine_bheag_bagenalstown,Muine Bheag (Bagenalstown),Carlow,2024-08-01,11200.0,3.7,50.0
+CAR_muine_bheag_bagenalstown,Muine Bheag (Bagenalstown),Carlow,2024-09-01,11200.0,3.7,50.0
+CAR_muine_bheag_bagenalstown,Muine Bheag (Bagenalstown),Carlow,2024-10-01,11200.0,3.7,50.0
+CAR_muine_bheag_bagenalstown,Muine Bheag (Bagenalstown),Carlow,2024-11-01,11200.0,3.7,50.0
+CAR_muine_bheag_bagenalstown,Muine Bheag (Bagenalstown),Carlow,2024-12-01,11200.0,3.7,50.0
+CAR_hacketstown,Hacketstown,Carlow,2024-01-01,11200.0,3.7,50.0
+CAR_hacketstown,Hacketstown,Carlow,2024-02-01,11200.0,3.7,50.0
+CAR_hacketstown,Hacketstown,Carlow,2024-03-01,11200.0,3.7,50.0
+CAR_hacketstown,Hacketstown,Carlow,2024-04-01,11200.0,3.7,50.0
+CAR_hacketstown,Hacketstown,Carlow,2024-05-01,11200.0,3.7,50.0
+CAR_hacketstown,Hacketstown,Carlow,2024-06-01,11200.0,3.7,50.0
+CAR_hacketstown,Hacketstown,Carlow,2024-07-01,11200.0,3.7,50.0
+CAR_hacketstown,Hacketstown,Carlow,2024-08-01,11200.0,3.7,50.0
+CAR_hacketstown,Hacketstown,Carlow,2024-09-01,11200.0,3.7,50.0
+CAR_hacketstown,Hacketstown,Carlow,2024-10-01,11200.0,3.7,50.0
+CAR_hacketstown,Hacketstown,Carlow,2024-11-01,11200.0,3.7,50.0
+CAR_hacketstown,Hacketstown,Carlow,2024-12-01,11200.0,3.7,50.0
+CAR_borris,Borris,Carlow,2024-01-01,7000.0,2.3,50.0
+CAR_borris,Borris,Carlow,2024-02-01,7000.0,2.3,50.0
+CAR_borris,Borris,Carlow,2024-03-01,7000.0,2.3,50.0
+CAR_borris,Borris,Carlow,2024-04-01,7000.0,2.3,50.0
+CAR_borris,Borris,Carlow,2024-05-01,7000.0,2.3,50.0
+CAR_borris,Borris,Carlow,2024-06-01,7000.0,2.3,50.0
+CAR_borris,Borris,Carlow,2024-07-01,7000.0,2.3,50.0
+CAR_borris,Borris,Carlow,2024-08-01,7000.0,2.3,50.0
+CAR_borris,Borris,Carlow,2024-09-01,7000.0,2.3,50.0
+CAR_borris,Borris,Carlow,2024-10-01,7000.0,2.3,50.0
+CAR_borris,Borris,Carlow,2024-11-01,7000.0,2.3,50.0
+CAR_borris,Borris,Carlow,2024-12-01,7000.0,2.3,50.0
+CAR_leighlinbridge,Leighlinbridge,Carlow,2024-01-01,7000.0,2.3,50.0
+CAR_leighlinbridge,Leighlinbridge,Carlow,2024-02-01,7000.0,2.3,50.0
+CAR_leighlinbridge,Leighlinbridge,Carlow,2024-03-01,7000.0,2.3,50.0
+CAR_leighlinbridge,Leighlinbridge,Carlow,2024-04-01,7000.0,2.3,50.0
+CAR_leighlinbridge,Leighlinbridge,Carlow,2024-05-01,7000.0,2.3,50.0
+CAR_leighlinbridge,Leighlinbridge,Carlow,2024-06-01,7000.0,2.3,50.0
+CAR_leighlinbridge,Leighlinbridge,Carlow,2024-07-01,7000.0,2.3,50.0
+CAR_leighlinbridge,Leighlinbridge,Carlow,2024-08-01,7000.0,2.3,50.0
+CAR_leighlinbridge,Leighlinbridge,Carlow,2024-09-01,7000.0,2.3,50.0
+CAR_leighlinbridge,Leighlinbridge,Carlow,2024-10-01,7000.0,2.3,50.0
+CAR_leighlinbridge,Leighlinbridge,Carlow,2024-11-01,7000.0,2.3,50.0
+CAR_leighlinbridge,Leighlinbridge,Carlow,2024-12-01,7000.0,2.3,50.0
+CAR_myshall,Myshall,Carlow,2024-01-01,7000.0,2.3,50.0
+CAR_myshall,Myshall,Carlow,2024-02-01,7000.0,2.3,50.0
+CAR_myshall,Myshall,Carlow,2024-03-01,7000.0,2.3,50.0
+CAR_myshall,Myshall,Carlow,2024-04-01,7000.0,2.3,50.0
+CAR_myshall,Myshall,Carlow,2024-05-01,7000.0,2.3,50.0
+CAR_myshall,Myshall,Carlow,2024-06-01,7000.0,2.3,50.0
+CAR_myshall,Myshall,Carlow,2024-07-01,7000.0,2.3,50.0
+CAR_myshall,Myshall,Carlow,2024-08-01,7000.0,2.3,50.0
+CAR_myshall,Myshall,Carlow,2024-09-01,7000.0,2.3,50.0
+CAR_myshall,Myshall,Carlow,2024-10-01,7000.0,2.3,50.0
+CAR_myshall,Myshall,Carlow,2024-11-01,7000.0,2.3,50.0
+CAR_myshall,Myshall,Carlow,2024-12-01,7000.0,2.3,50.0
+LON_longford_urban,Longford Urban,Longford,2024-01-01,14000.0,4.7,50.0
+LON_longford_urban,Longford Urban,Longford,2024-02-01,14000.0,4.7,50.0
+LON_longford_urban,Longford Urban,Longford,2024-03-01,14000.0,4.7,50.0
+LON_longford_urban,Longford Urban,Longford,2024-04-01,14000.0,4.7,50.0
+LON_longford_urban,Longford Urban,Longford,2024-05-01,14000.0,4.7,50.0
+LON_longford_urban,Longford Urban,Longford,2024-06-01,14000.0,4.7,50.0
+LON_longford_urban,Longford Urban,Longford,2024-07-01,14000.0,4.7,50.0
+LON_longford_urban,Longford Urban,Longford,2024-08-01,14000.0,4.7,50.0
+LON_longford_urban,Longford Urban,Longford,2024-09-01,14000.0,4.7,50.0
+LON_longford_urban,Longford Urban,Longford,2024-10-01,14000.0,4.7,50.0
+LON_longford_urban,Longford Urban,Longford,2024-11-01,14000.0,4.7,50.0
+LON_longford_urban,Longford Urban,Longford,2024-12-01,14000.0,4.7,50.0
+LON_longford_rural,Longford Rural,Longford,2024-01-01,12000.0,4.0,50.0
+LON_longford_rural,Longford Rural,Longford,2024-02-01,12000.0,4.0,50.0
+LON_longford_rural,Longford Rural,Longford,2024-03-01,12000.0,4.0,50.0
+LON_longford_rural,Longford Rural,Longford,2024-04-01,12000.0,4.0,50.0
+LON_longford_rural,Longford Rural,Longford,2024-05-01,12000.0,4.0,50.0
+LON_longford_rural,Longford Rural,Longford,2024-06-01,12000.0,4.0,50.0
+LON_longford_rural,Longford Rural,Longford,2024-07-01,12000.0,4.0,50.0
+LON_longford_rural,Longford Rural,Longford,2024-08-01,12000.0,4.0,50.0
+LON_longford_rural,Longford Rural,Longford,2024-09-01,12000.0,4.0,50.0
+LON_longford_rural,Longford Rural,Longford,2024-10-01,12000.0,4.0,50.0
+LON_longford_rural,Longford Rural,Longford,2024-11-01,12000.0,4.0,50.0
+LON_longford_rural,Longford Rural,Longford,2024-12-01,12000.0,4.0,50.0
+LON_edgeworthstown,Edgeworthstown,Longford,2024-01-01,10000.0,3.3,50.0
+LON_edgeworthstown,Edgeworthstown,Longford,2024-02-01,10000.0,3.3,50.0
+LON_edgeworthstown,Edgeworthstown,Longford,2024-03-01,10000.0,3.3,50.0
+LON_edgeworthstown,Edgeworthstown,Longford,2024-04-01,10000.0,3.3,50.0
+LON_edgeworthstown,Edgeworthstown,Longford,2024-05-01,10000.0,3.3,50.0
+LON_edgeworthstown,Edgeworthstown,Longford,2024-06-01,10000.0,3.3,50.0
+LON_edgeworthstown,Edgeworthstown,Longford,2024-07-01,10000.0,3.3,50.0
+LON_edgeworthstown,Edgeworthstown,Longford,2024-08-01,10000.0,3.3,50.0
+LON_edgeworthstown,Edgeworthstown,Longford,2024-09-01,10000.0,3.3,50.0
+LON_edgeworthstown,Edgeworthstown,Longford,2024-10-01,10000.0,3.3,50.0
+LON_edgeworthstown,Edgeworthstown,Longford,2024-11-01,10000.0,3.3,50.0
+LON_edgeworthstown,Edgeworthstown,Longford,2024-12-01,10000.0,3.3,50.0
+LON_ballymahon,Ballymahon,Longford,2024-01-01,8000.0,2.7,50.0
+LON_ballymahon,Ballymahon,Longford,2024-02-01,8000.0,2.7,50.0
+LON_ballymahon,Ballymahon,Longford,2024-03-01,8000.0,2.7,50.0
+LON_ballymahon,Ballymahon,Longford,2024-04-01,8000.0,2.7,50.0
+LON_ballymahon,Ballymahon,Longford,2024-05-01,8000.0,2.7,50.0
+LON_ballymahon,Ballymahon,Longford,2024-06-01,8000.0,2.7,50.0
+LON_ballymahon,Ballymahon,Longford,2024-07-01,8000.0,2.7,50.0
+LON_ballymahon,Ballymahon,Longford,2024-08-01,8000.0,2.7,50.0
+LON_ballymahon,Ballymahon,Longford,2024-09-01,8000.0,2.7,50.0
+LON_ballymahon,Ballymahon,Longford,2024-10-01,8000.0,2.7,50.0
+LON_ballymahon,Ballymahon,Longford,2024-11-01,8000.0,2.7,50.0
+LON_ballymahon,Ballymahon,Longford,2024-12-01,8000.0,2.7,50.0
+LON_granard,Granard,Longford,2024-01-01,8000.0,2.7,50.0
+LON_granard,Granard,Longford,2024-02-01,8000.0,2.7,50.0
+LON_granard,Granard,Longford,2024-03-01,8000.0,2.7,50.0
+LON_granard,Granard,Longford,2024-04-01,8000.0,2.7,50.0
+LON_granard,Granard,Longford,2024-05-01,8000.0,2.7,50.0
+LON_granard,Granard,Longford,2024-06-01,8000.0,2.7,50.0
+LON_granard,Granard,Longford,2024-07-01,8000.0,2.7,50.0
+LON_granard,Granard,Longford,2024-08-01,8000.0,2.7,50.0
+LON_granard,Granard,Longford,2024-09-01,8000.0,2.7,50.0
+LON_granard,Granard,Longford,2024-10-01,8000.0,2.7,50.0
+LON_granard,Granard,Longford,2024-11-01,8000.0,2.7,50.0
+LON_granard,Granard,Longford,2024-12-01,8000.0,2.7,50.0
+LON_lanesborough,Lanesborough,Longford,2024-01-01,8000.0,2.7,50.0
+LON_lanesborough,Lanesborough,Longford,2024-02-01,8000.0,2.7,50.0
+LON_lanesborough,Lanesborough,Longford,2024-03-01,8000.0,2.7,50.0
+LON_lanesborough,Lanesborough,Longford,2024-04-01,8000.0,2.7,50.0
+LON_lanesborough,Lanesborough,Longford,2024-05-01,8000.0,2.7,50.0
+LON_lanesborough,Lanesborough,Longford,2024-06-01,8000.0,2.7,50.0
+LON_lanesborough,Lanesborough,Longford,2024-07-01,8000.0,2.7,50.0
+LON_lanesborough,Lanesborough,Longford,2024-08-01,8000.0,2.7,50.0
+LON_lanesborough,Lanesborough,Longford,2024-09-01,8000.0,2.7,50.0
+LON_lanesborough,Lanesborough,Longford,2024-10-01,8000.0,2.7,50.0
+LON_lanesborough,Lanesborough,Longford,2024-11-01,8000.0,2.7,50.0
+LON_lanesborough,Lanesborough,Longford,2024-12-01,8000.0,2.7,50.0
+LON_drumlish,Drumlish,Longford,2024-01-01,5000.0,1.7,50.0
+LON_drumlish,Drumlish,Longford,2024-02-01,5000.0,1.7,50.0
+LON_drumlish,Drumlish,Longford,2024-03-01,5000.0,1.7,50.0
+LON_drumlish,Drumlish,Longford,2024-04-01,5000.0,1.7,50.0
+LON_drumlish,Drumlish,Longford,2024-05-01,5000.0,1.7,50.0
+LON_drumlish,Drumlish,Longford,2024-06-01,5000.0,1.7,50.0
+LON_drumlish,Drumlish,Longford,2024-07-01,5000.0,1.7,50.0
+LON_drumlish,Drumlish,Longford,2024-08-01,5000.0,1.7,50.0
+LON_drumlish,Drumlish,Longford,2024-09-01,5000.0,1.7,50.0
+LON_drumlish,Drumlish,Longford,2024-10-01,5000.0,1.7,50.0
+LON_drumlish,Drumlish,Longford,2024-11-01,5000.0,1.7,50.0
+LON_drumlish,Drumlish,Longford,2024-12-01,5000.0,1.7,50.0
+LON_newtownforbes,Newtownforbes,Longford,2024-01-01,5000.0,1.7,50.0
+LON_newtownforbes,Newtownforbes,Longford,2024-02-01,5000.0,1.7,50.0
+LON_newtownforbes,Newtownforbes,Longford,2024-03-01,5000.0,1.7,50.0
+LON_newtownforbes,Newtownforbes,Longford,2024-04-01,5000.0,1.7,50.0
+LON_newtownforbes,Newtownforbes,Longford,2024-05-01,5000.0,1.7,50.0
+LON_newtownforbes,Newtownforbes,Longford,2024-06-01,5000.0,1.7,50.0
+LON_newtownforbes,Newtownforbes,Longford,2024-07-01,5000.0,1.7,50.0
+LON_newtownforbes,Newtownforbes,Longford,2024-08-01,5000.0,1.7,50.0
+LON_newtownforbes,Newtownforbes,Longford,2024-09-01,5000.0,1.7,50.0
+LON_newtownforbes,Newtownforbes,Longford,2024-10-01,5000.0,1.7,50.0
+LON_newtownforbes,Newtownforbes,Longford,2024-11-01,5000.0,1.7,50.0
+LON_newtownforbes,Newtownforbes,Longford,2024-12-01,5000.0,1.7,50.0
+ROS_roscommon_urban,Roscommon Urban,Roscommon,2024-01-01,15400.0,5.1,50.0
+ROS_roscommon_urban,Roscommon Urban,Roscommon,2024-02-01,15400.0,5.1,50.0
+ROS_roscommon_urban,Roscommon Urban,Roscommon,2024-03-01,15400.0,5.1,50.0
+ROS_roscommon_urban,Roscommon Urban,Roscommon,2024-04-01,15400.0,5.1,50.0
+ROS_roscommon_urban,Roscommon Urban,Roscommon,2024-05-01,15400.0,5.1,50.0
+ROS_roscommon_urban,Roscommon Urban,Roscommon,2024-06-01,15400.0,5.1,50.0
+ROS_roscommon_urban,Roscommon Urban,Roscommon,2024-07-01,15400.0,5.1,50.0
+ROS_roscommon_urban,Roscommon Urban,Roscommon,2024-08-01,15400.0,5.1,50.0
+ROS_roscommon_urban,Roscommon Urban,Roscommon,2024-09-01,15400.0,5.1,50.0
+ROS_roscommon_urban,Roscommon Urban,Roscommon,2024-10-01,15400.0,5.1,50.0
+ROS_roscommon_urban,Roscommon Urban,Roscommon,2024-11-01,15400.0,5.1,50.0
+ROS_roscommon_urban,Roscommon Urban,Roscommon,2024-12-01,15400.0,5.1,50.0
+ROS_boyle_urban,Boyle Urban,Roscommon,2024-01-01,11000.0,3.7,50.0
+ROS_boyle_urban,Boyle Urban,Roscommon,2024-02-01,11000.0,3.7,50.0
+ROS_boyle_urban,Boyle Urban,Roscommon,2024-03-01,11000.0,3.7,50.0
+ROS_boyle_urban,Boyle Urban,Roscommon,2024-04-01,11000.0,3.7,50.0
+ROS_boyle_urban,Boyle Urban,Roscommon,2024-05-01,11000.0,3.7,50.0
+ROS_boyle_urban,Boyle Urban,Roscommon,2024-06-01,11000.0,3.7,50.0
+ROS_boyle_urban,Boyle Urban,Roscommon,2024-07-01,11000.0,3.7,50.0
+ROS_boyle_urban,Boyle Urban,Roscommon,2024-08-01,11000.0,3.7,50.0
+ROS_boyle_urban,Boyle Urban,Roscommon,2024-09-01,11000.0,3.7,50.0
+ROS_boyle_urban,Boyle Urban,Roscommon,2024-10-01,11000.0,3.7,50.0
+ROS_boyle_urban,Boyle Urban,Roscommon,2024-11-01,11000.0,3.7,50.0
+ROS_boyle_urban,Boyle Urban,Roscommon,2024-12-01,11000.0,3.7,50.0
+ROS_castlerea,Castlerea,Roscommon,2024-01-01,11000.0,3.7,50.0
+ROS_castlerea,Castlerea,Roscommon,2024-02-01,11000.0,3.7,50.0
+ROS_castlerea,Castlerea,Roscommon,2024-03-01,11000.0,3.7,50.0
+ROS_castlerea,Castlerea,Roscommon,2024-04-01,11000.0,3.7,50.0
+ROS_castlerea,Castlerea,Roscommon,2024-05-01,11000.0,3.7,50.0
+ROS_castlerea,Castlerea,Roscommon,2024-06-01,11000.0,3.7,50.0
+ROS_castlerea,Castlerea,Roscommon,2024-07-01,11000.0,3.7,50.0
+ROS_castlerea,Castlerea,Roscommon,2024-08-01,11000.0,3.7,50.0
+ROS_castlerea,Castlerea,Roscommon,2024-09-01,11000.0,3.7,50.0
+ROS_castlerea,Castlerea,Roscommon,2024-10-01,11000.0,3.7,50.0
+ROS_castlerea,Castlerea,Roscommon,2024-11-01,11000.0,3.7,50.0
+ROS_castlerea,Castlerea,Roscommon,2024-12-01,11000.0,3.7,50.0
+ROS_ballaghaderreen,Ballaghaderreen,Roscommon,2024-01-01,8800.0,2.9,50.0
+ROS_ballaghaderreen,Ballaghaderreen,Roscommon,2024-02-01,8800.0,2.9,50.0
+ROS_ballaghaderreen,Ballaghaderreen,Roscommon,2024-03-01,8800.0,2.9,50.0
+ROS_ballaghaderreen,Ballaghaderreen,Roscommon,2024-04-01,8800.0,2.9,50.0
+ROS_ballaghaderreen,Ballaghaderreen,Roscommon,2024-05-01,8800.0,2.9,50.0
+ROS_ballaghaderreen,Ballaghaderreen,Roscommon,2024-06-01,8800.0,2.9,50.0
+ROS_ballaghaderreen,Ballaghaderreen,Roscommon,2024-07-01,8800.0,2.9,50.0
+ROS_ballaghaderreen,Ballaghaderreen,Roscommon,2024-08-01,8800.0,2.9,50.0
+ROS_ballaghaderreen,Ballaghaderreen,Roscommon,2024-09-01,8800.0,2.9,50.0
+ROS_ballaghaderreen,Ballaghaderreen,Roscommon,2024-10-01,8800.0,2.9,50.0
+ROS_ballaghaderreen,Ballaghaderreen,Roscommon,2024-11-01,8800.0,2.9,50.0
+ROS_ballaghaderreen,Ballaghaderreen,Roscommon,2024-12-01,8800.0,2.9,50.0
+ROS_strokestown,Strokestown,Roscommon,2024-01-01,8800.0,2.9,50.0
+ROS_strokestown,Strokestown,Roscommon,2024-02-01,8800.0,2.9,50.0
+ROS_strokestown,Strokestown,Roscommon,2024-03-01,8800.0,2.9,50.0
+ROS_strokestown,Strokestown,Roscommon,2024-04-01,8800.0,2.9,50.0
+ROS_strokestown,Strokestown,Roscommon,2024-05-01,8800.0,2.9,50.0
+ROS_strokestown,Strokestown,Roscommon,2024-06-01,8800.0,2.9,50.0
+ROS_strokestown,Strokestown,Roscommon,2024-07-01,8800.0,2.9,50.0
+ROS_strokestown,Strokestown,Roscommon,2024-08-01,8800.0,2.9,50.0
+ROS_strokestown,Strokestown,Roscommon,2024-09-01,8800.0,2.9,50.0
+ROS_strokestown,Strokestown,Roscommon,2024-10-01,8800.0,2.9,50.0
+ROS_strokestown,Strokestown,Roscommon,2024-11-01,8800.0,2.9,50.0
+ROS_strokestown,Strokestown,Roscommon,2024-12-01,8800.0,2.9,50.0
+ROS_elphin,Elphin,Roscommon,2024-01-01,5500.0,1.8,50.0
+ROS_elphin,Elphin,Roscommon,2024-02-01,5500.0,1.8,50.0
+ROS_elphin,Elphin,Roscommon,2024-03-01,5500.0,1.8,50.0
+ROS_elphin,Elphin,Roscommon,2024-04-01,5500.0,1.8,50.0
+ROS_elphin,Elphin,Roscommon,2024-05-01,5500.0,1.8,50.0
+ROS_elphin,Elphin,Roscommon,2024-06-01,5500.0,1.8,50.0
+ROS_elphin,Elphin,Roscommon,2024-07-01,5500.0,1.8,50.0
+ROS_elphin,Elphin,Roscommon,2024-08-01,5500.0,1.8,50.0
+ROS_elphin,Elphin,Roscommon,2024-09-01,5500.0,1.8,50.0
+ROS_elphin,Elphin,Roscommon,2024-10-01,5500.0,1.8,50.0
+ROS_elphin,Elphin,Roscommon,2024-11-01,5500.0,1.8,50.0
+ROS_elphin,Elphin,Roscommon,2024-12-01,5500.0,1.8,50.0
+ROS_athleague,Athleague,Roscommon,2024-01-01,5500.0,1.8,50.0
+ROS_athleague,Athleague,Roscommon,2024-02-01,5500.0,1.8,50.0
+ROS_athleague,Athleague,Roscommon,2024-03-01,5500.0,1.8,50.0
+ROS_athleague,Athleague,Roscommon,2024-04-01,5500.0,1.8,50.0
+ROS_athleague,Athleague,Roscommon,2024-05-01,5500.0,1.8,50.0
+ROS_athleague,Athleague,Roscommon,2024-06-01,5500.0,1.8,50.0
+ROS_athleague,Athleague,Roscommon,2024-07-01,5500.0,1.8,50.0
+ROS_athleague,Athleague,Roscommon,2024-08-01,5500.0,1.8,50.0
+ROS_athleague,Athleague,Roscommon,2024-09-01,5500.0,1.8,50.0
+ROS_athleague,Athleague,Roscommon,2024-10-01,5500.0,1.8,50.0
+ROS_athleague,Athleague,Roscommon,2024-11-01,5500.0,1.8,50.0
+ROS_athleague,Athleague,Roscommon,2024-12-01,5500.0,1.8,50.0
+ROS_frenchpark,Frenchpark,Roscommon,2024-01-01,5500.0,1.8,50.0
+ROS_frenchpark,Frenchpark,Roscommon,2024-02-01,5500.0,1.8,50.0
+ROS_frenchpark,Frenchpark,Roscommon,2024-03-01,5500.0,1.8,50.0
+ROS_frenchpark,Frenchpark,Roscommon,2024-04-01,5500.0,1.8,50.0
+ROS_frenchpark,Frenchpark,Roscommon,2024-05-01,5500.0,1.8,50.0
+ROS_frenchpark,Frenchpark,Roscommon,2024-06-01,5500.0,1.8,50.0
+ROS_frenchpark,Frenchpark,Roscommon,2024-07-01,5500.0,1.8,50.0
+ROS_frenchpark,Frenchpark,Roscommon,2024-08-01,5500.0,1.8,50.0
+ROS_frenchpark,Frenchpark,Roscommon,2024-09-01,5500.0,1.8,50.0
+ROS_frenchpark,Frenchpark,Roscommon,2024-10-01,5500.0,1.8,50.0
+ROS_frenchpark,Frenchpark,Roscommon,2024-11-01,5500.0,1.8,50.0
+ROS_frenchpark,Frenchpark,Roscommon,2024-12-01,5500.0,1.8,50.0
+SLI_sligo_east,Sligo East,Sligo,2024-01-01,18200.0,6.1,50.0
+SLI_sligo_east,Sligo East,Sligo,2024-02-01,18200.0,6.1,50.0
+SLI_sligo_east,Sligo East,Sligo,2024-03-01,18200.0,6.1,50.0
+SLI_sligo_east,Sligo East,Sligo,2024-04-01,18200.0,6.1,50.0
+SLI_sligo_east,Sligo East,Sligo,2024-05-01,18200.0,6.1,50.0
+SLI_sligo_east,Sligo East,Sligo,2024-06-01,18200.0,6.1,50.0
+SLI_sligo_east,Sligo East,Sligo,2024-07-01,18200.0,6.1,50.0
+SLI_sligo_east,Sligo East,Sligo,2024-08-01,18200.0,6.1,50.0
+SLI_sligo_east,Sligo East,Sligo,2024-09-01,18200.0,6.1,50.0
+SLI_sligo_east,Sligo East,Sligo,2024-10-01,18200.0,6.1,50.0
+SLI_sligo_east,Sligo East,Sligo,2024-11-01,18200.0,6.1,50.0
+SLI_sligo_east,Sligo East,Sligo,2024-12-01,18200.0,6.1,50.0
+SLI_sligo_west,Sligo West,Sligo,2024-01-01,18200.0,6.1,50.0
+SLI_sligo_west,Sligo West,Sligo,2024-02-01,18200.0,6.1,50.0
+SLI_sligo_west,Sligo West,Sligo,2024-03-01,18200.0,6.1,50.0
+SLI_sligo_west,Sligo West,Sligo,2024-04-01,18200.0,6.1,50.0
+SLI_sligo_west,Sligo West,Sligo,2024-05-01,18200.0,6.1,50.0
+SLI_sligo_west,Sligo West,Sligo,2024-06-01,18200.0,6.1,50.0
+SLI_sligo_west,Sligo West,Sligo,2024-07-01,18200.0,6.1,50.0
+SLI_sligo_west,Sligo West,Sligo,2024-08-01,18200.0,6.1,50.0
+SLI_sligo_west,Sligo West,Sligo,2024-09-01,18200.0,6.1,50.0
+SLI_sligo_west,Sligo West,Sligo,2024-10-01,18200.0,6.1,50.0
+SLI_sligo_west,Sligo West,Sligo,2024-11-01,18200.0,6.1,50.0
+SLI_sligo_west,Sligo West,Sligo,2024-12-01,18200.0,6.1,50.0
+SLI_strandhill,Strandhill,Sligo,2024-01-01,15600.0,5.2,50.0
+SLI_strandhill,Strandhill,Sligo,2024-02-01,15600.0,5.2,50.0
+SLI_strandhill,Strandhill,Sligo,2024-03-01,15600.0,5.2,50.0
+SLI_strandhill,Strandhill,Sligo,2024-04-01,15600.0,5.2,50.0
+SLI_strandhill,Strandhill,Sligo,2024-05-01,15600.0,5.2,50.0
+SLI_strandhill,Strandhill,Sligo,2024-06-01,15600.0,5.2,50.0
+SLI_strandhill,Strandhill,Sligo,2024-07-01,15600.0,5.2,50.0
+SLI_strandhill,Strandhill,Sligo,2024-08-01,15600.0,5.2,50.0
+SLI_strandhill,Strandhill,Sligo,2024-09-01,15600.0,5.2,50.0
+SLI_strandhill,Strandhill,Sligo,2024-10-01,15600.0,5.2,50.0
+SLI_strandhill,Strandhill,Sligo,2024-11-01,15600.0,5.2,50.0
+SLI_strandhill,Strandhill,Sligo,2024-12-01,15600.0,5.2,50.0
+SLI_rosses_point,Rosses Point,Sligo,2024-01-01,15600.0,5.2,50.0
+SLI_rosses_point,Rosses Point,Sligo,2024-02-01,15600.0,5.2,50.0
+SLI_rosses_point,Rosses Point,Sligo,2024-03-01,15600.0,5.2,50.0
+SLI_rosses_point,Rosses Point,Sligo,2024-04-01,15600.0,5.2,50.0
+SLI_rosses_point,Rosses Point,Sligo,2024-05-01,15600.0,5.2,50.0
+SLI_rosses_point,Rosses Point,Sligo,2024-06-01,15600.0,5.2,50.0
+SLI_rosses_point,Rosses Point,Sligo,2024-07-01,15600.0,5.2,50.0
+SLI_rosses_point,Rosses Point,Sligo,2024-08-01,15600.0,5.2,50.0
+SLI_rosses_point,Rosses Point,Sligo,2024-09-01,15600.0,5.2,50.0
+SLI_rosses_point,Rosses Point,Sligo,2024-10-01,15600.0,5.2,50.0
+SLI_rosses_point,Rosses Point,Sligo,2024-11-01,15600.0,5.2,50.0
+SLI_rosses_point,Rosses Point,Sligo,2024-12-01,15600.0,5.2,50.0
+SLI_ballymote,Ballymote,Sligo,2024-01-01,10400.0,3.5,50.0
+SLI_ballymote,Ballymote,Sligo,2024-02-01,10400.0,3.5,50.0
+SLI_ballymote,Ballymote,Sligo,2024-03-01,10400.0,3.5,50.0
+SLI_ballymote,Ballymote,Sligo,2024-04-01,10400.0,3.5,50.0
+SLI_ballymote,Ballymote,Sligo,2024-05-01,10400.0,3.5,50.0
+SLI_ballymote,Ballymote,Sligo,2024-06-01,10400.0,3.5,50.0
+SLI_ballymote,Ballymote,Sligo,2024-07-01,10400.0,3.5,50.0
+SLI_ballymote,Ballymote,Sligo,2024-08-01,10400.0,3.5,50.0
+SLI_ballymote,Ballymote,Sligo,2024-09-01,10400.0,3.5,50.0
+SLI_ballymote,Ballymote,Sligo,2024-10-01,10400.0,3.5,50.0
+SLI_ballymote,Ballymote,Sligo,2024-11-01,10400.0,3.5,50.0
+SLI_ballymote,Ballymote,Sligo,2024-12-01,10400.0,3.5,50.0
+SLI_tubbercurry,Tubbercurry,Sligo,2024-01-01,10400.0,3.5,50.0
+SLI_tubbercurry,Tubbercurry,Sligo,2024-02-01,10400.0,3.5,50.0
+SLI_tubbercurry,Tubbercurry,Sligo,2024-03-01,10400.0,3.5,50.0
+SLI_tubbercurry,Tubbercurry,Sligo,2024-04-01,10400.0,3.5,50.0
+SLI_tubbercurry,Tubbercurry,Sligo,2024-05-01,10400.0,3.5,50.0
+SLI_tubbercurry,Tubbercurry,Sligo,2024-06-01,10400.0,3.5,50.0
+SLI_tubbercurry,Tubbercurry,Sligo,2024-07-01,10400.0,3.5,50.0
+SLI_tubbercurry,Tubbercurry,Sligo,2024-08-01,10400.0,3.5,50.0
+SLI_tubbercurry,Tubbercurry,Sligo,2024-09-01,10400.0,3.5,50.0
+SLI_tubbercurry,Tubbercurry,Sligo,2024-10-01,10400.0,3.5,50.0
+SLI_tubbercurry,Tubbercurry,Sligo,2024-11-01,10400.0,3.5,50.0
+SLI_tubbercurry,Tubbercurry,Sligo,2024-12-01,10400.0,3.5,50.0
+SLI_collooney,Collooney,Sligo,2024-01-01,10400.0,3.5,50.0
+SLI_collooney,Collooney,Sligo,2024-02-01,10400.0,3.5,50.0
+SLI_collooney,Collooney,Sligo,2024-03-01,10400.0,3.5,50.0
+SLI_collooney,Collooney,Sligo,2024-04-01,10400.0,3.5,50.0
+SLI_collooney,Collooney,Sligo,2024-05-01,10400.0,3.5,50.0
+SLI_collooney,Collooney,Sligo,2024-06-01,10400.0,3.5,50.0
+SLI_collooney,Collooney,Sligo,2024-07-01,10400.0,3.5,50.0
+SLI_collooney,Collooney,Sligo,2024-08-01,10400.0,3.5,50.0
+SLI_collooney,Collooney,Sligo,2024-09-01,10400.0,3.5,50.0
+SLI_collooney,Collooney,Sligo,2024-10-01,10400.0,3.5,50.0
+SLI_collooney,Collooney,Sligo,2024-11-01,10400.0,3.5,50.0
+SLI_collooney,Collooney,Sligo,2024-12-01,10400.0,3.5,50.0
+SLI_easkey,Easkey,Sligo,2024-01-01,6500.0,2.2,50.0
+SLI_easkey,Easkey,Sligo,2024-02-01,6500.0,2.2,50.0
+SLI_easkey,Easkey,Sligo,2024-03-01,6500.0,2.2,50.0
+SLI_easkey,Easkey,Sligo,2024-04-01,6500.0,2.2,50.0
+SLI_easkey,Easkey,Sligo,2024-05-01,6500.0,2.2,50.0
+SLI_easkey,Easkey,Sligo,2024-06-01,6500.0,2.2,50.0
+SLI_easkey,Easkey,Sligo,2024-07-01,6500.0,2.2,50.0
+SLI_easkey,Easkey,Sligo,2024-08-01,6500.0,2.2,50.0
+SLI_easkey,Easkey,Sligo,2024-09-01,6500.0,2.2,50.0
+SLI_easkey,Easkey,Sligo,2024-10-01,6500.0,2.2,50.0
+SLI_easkey,Easkey,Sligo,2024-11-01,6500.0,2.2,50.0
+SLI_easkey,Easkey,Sligo,2024-12-01,6500.0,2.2,50.0
+SLI_enniscrone,Enniscrone,Sligo,2024-01-01,6500.0,2.2,50.0
+SLI_enniscrone,Enniscrone,Sligo,2024-02-01,6500.0,2.2,50.0
+SLI_enniscrone,Enniscrone,Sligo,2024-03-01,6500.0,2.2,50.0
+SLI_enniscrone,Enniscrone,Sligo,2024-04-01,6500.0,2.2,50.0
+SLI_enniscrone,Enniscrone,Sligo,2024-05-01,6500.0,2.2,50.0
+SLI_enniscrone,Enniscrone,Sligo,2024-06-01,6500.0,2.2,50.0
+SLI_enniscrone,Enniscrone,Sligo,2024-07-01,6500.0,2.2,50.0
+SLI_enniscrone,Enniscrone,Sligo,2024-08-01,6500.0,2.2,50.0
+SLI_enniscrone,Enniscrone,Sligo,2024-09-01,6500.0,2.2,50.0
+SLI_enniscrone,Enniscrone,Sligo,2024-10-01,6500.0,2.2,50.0
+SLI_enniscrone,Enniscrone,Sligo,2024-11-01,6500.0,2.2,50.0
+SLI_enniscrone,Enniscrone,Sligo,2024-12-01,6500.0,2.2,50.0
+LEI_carrick_on_shannon,Carrick-on-Shannon,Leitrim,2024-01-01,11200.0,3.7,50.0
+LEI_carrick_on_shannon,Carrick-on-Shannon,Leitrim,2024-02-01,11200.0,3.7,50.0
+LEI_carrick_on_shannon,Carrick-on-Shannon,Leitrim,2024-03-01,11200.0,3.7,50.0
+LEI_carrick_on_shannon,Carrick-on-Shannon,Leitrim,2024-04-01,11200.0,3.7,50.0
+LEI_carrick_on_shannon,Carrick-on-Shannon,Leitrim,2024-05-01,11200.0,3.7,50.0
+LEI_carrick_on_shannon,Carrick-on-Shannon,Leitrim,2024-06-01,11200.0,3.7,50.0
+LEI_carrick_on_shannon,Carrick-on-Shannon,Leitrim,2024-07-01,11200.0,3.7,50.0
+LEI_carrick_on_shannon,Carrick-on-Shannon,Leitrim,2024-08-01,11200.0,3.7,50.0
+LEI_carrick_on_shannon,Carrick-on-Shannon,Leitrim,2024-09-01,11200.0,3.7,50.0
+LEI_carrick_on_shannon,Carrick-on-Shannon,Leitrim,2024-10-01,11200.0,3.7,50.0
+LEI_carrick_on_shannon,Carrick-on-Shannon,Leitrim,2024-11-01,11200.0,3.7,50.0
+LEI_carrick_on_shannon,Carrick-on-Shannon,Leitrim,2024-12-01,11200.0,3.7,50.0
+LEI_manorhamilton,Manorhamilton,Leitrim,2024-01-01,8000.0,2.7,50.0
+LEI_manorhamilton,Manorhamilton,Leitrim,2024-02-01,8000.0,2.7,50.0
+LEI_manorhamilton,Manorhamilton,Leitrim,2024-03-01,8000.0,2.7,50.0
+LEI_manorhamilton,Manorhamilton,Leitrim,2024-04-01,8000.0,2.7,50.0
+LEI_manorhamilton,Manorhamilton,Leitrim,2024-05-01,8000.0,2.7,50.0
+LEI_manorhamilton,Manorhamilton,Leitrim,2024-06-01,8000.0,2.7,50.0
+LEI_manorhamilton,Manorhamilton,Leitrim,2024-07-01,8000.0,2.7,50.0
+LEI_manorhamilton,Manorhamilton,Leitrim,2024-08-01,8000.0,2.7,50.0
+LEI_manorhamilton,Manorhamilton,Leitrim,2024-09-01,8000.0,2.7,50.0
+LEI_manorhamilton,Manorhamilton,Leitrim,2024-10-01,8000.0,2.7,50.0
+LEI_manorhamilton,Manorhamilton,Leitrim,2024-11-01,8000.0,2.7,50.0
+LEI_manorhamilton,Manorhamilton,Leitrim,2024-12-01,8000.0,2.7,50.0
+LEI_ballinamore,Ballinamore,Leitrim,2024-01-01,6400.0,2.1,50.0
+LEI_ballinamore,Ballinamore,Leitrim,2024-02-01,6400.0,2.1,50.0
+LEI_ballinamore,Ballinamore,Leitrim,2024-03-01,6400.0,2.1,50.0
+LEI_ballinamore,Ballinamore,Leitrim,2024-04-01,6400.0,2.1,50.0
+LEI_ballinamore,Ballinamore,Leitrim,2024-05-01,6400.0,2.1,50.0
+LEI_ballinamore,Ballinamore,Leitrim,2024-06-01,6400.0,2.1,50.0
+LEI_ballinamore,Ballinamore,Leitrim,2024-07-01,6400.0,2.1,50.0
+LEI_ballinamore,Ballinamore,Leitrim,2024-08-01,6400.0,2.1,50.0
+LEI_ballinamore,Ballinamore,Leitrim,2024-09-01,6400.0,2.1,50.0
+LEI_ballinamore,Ballinamore,Leitrim,2024-10-01,6400.0,2.1,50.0
+LEI_ballinamore,Ballinamore,Leitrim,2024-11-01,6400.0,2.1,50.0
+LEI_ballinamore,Ballinamore,Leitrim,2024-12-01,6400.0,2.1,50.0
+LEI_mohill,Mohill,Leitrim,2024-01-01,6400.0,2.1,50.0
+LEI_mohill,Mohill,Leitrim,2024-02-01,6400.0,2.1,50.0
+LEI_mohill,Mohill,Leitrim,2024-03-01,6400.0,2.1,50.0
+LEI_mohill,Mohill,Leitrim,2024-04-01,6400.0,2.1,50.0
+LEI_mohill,Mohill,Leitrim,2024-05-01,6400.0,2.1,50.0
+LEI_mohill,Mohill,Leitrim,2024-06-01,6400.0,2.1,50.0
+LEI_mohill,Mohill,Leitrim,2024-07-01,6400.0,2.1,50.0
+LEI_mohill,Mohill,Leitrim,2024-08-01,6400.0,2.1,50.0
+LEI_mohill,Mohill,Leitrim,2024-09-01,6400.0,2.1,50.0
+LEI_mohill,Mohill,Leitrim,2024-10-01,6400.0,2.1,50.0
+LEI_mohill,Mohill,Leitrim,2024-11-01,6400.0,2.1,50.0
+LEI_mohill,Mohill,Leitrim,2024-12-01,6400.0,2.1,50.0
+LEI_drumshanbo,Drumshanbo,Leitrim,2024-01-01,6400.0,2.1,50.0
+LEI_drumshanbo,Drumshanbo,Leitrim,2024-02-01,6400.0,2.1,50.0
+LEI_drumshanbo,Drumshanbo,Leitrim,2024-03-01,6400.0,2.1,50.0
+LEI_drumshanbo,Drumshanbo,Leitrim,2024-04-01,6400.0,2.1,50.0
+LEI_drumshanbo,Drumshanbo,Leitrim,2024-05-01,6400.0,2.1,50.0
+LEI_drumshanbo,Drumshanbo,Leitrim,2024-06-01,6400.0,2.1,50.0
+LEI_drumshanbo,Drumshanbo,Leitrim,2024-07-01,6400.0,2.1,50.0
+LEI_drumshanbo,Drumshanbo,Leitrim,2024-08-01,6400.0,2.1,50.0
+LEI_drumshanbo,Drumshanbo,Leitrim,2024-09-01,6400.0,2.1,50.0
+LEI_drumshanbo,Drumshanbo,Leitrim,2024-10-01,6400.0,2.1,50.0
+LEI_drumshanbo,Drumshanbo,Leitrim,2024-11-01,6400.0,2.1,50.0
+LEI_drumshanbo,Drumshanbo,Leitrim,2024-12-01,6400.0,2.1,50.0
+LEI_kinlough,Kinlough,Leitrim,2024-01-01,4000.0,1.3,50.0
+LEI_kinlough,Kinlough,Leitrim,2024-02-01,4000.0,1.3,50.0
+LEI_kinlough,Kinlough,Leitrim,2024-03-01,4000.0,1.3,50.0
+LEI_kinlough,Kinlough,Leitrim,2024-04-01,4000.0,1.3,50.0
+LEI_kinlough,Kinlough,Leitrim,2024-05-01,4000.0,1.3,50.0
+LEI_kinlough,Kinlough,Leitrim,2024-06-01,4000.0,1.3,50.0
+LEI_kinlough,Kinlough,Leitrim,2024-07-01,4000.0,1.3,50.0
+LEI_kinlough,Kinlough,Leitrim,2024-08-01,4000.0,1.3,50.0
+LEI_kinlough,Kinlough,Leitrim,2024-09-01,4000.0,1.3,50.0
+LEI_kinlough,Kinlough,Leitrim,2024-10-01,4000.0,1.3,50.0
+LEI_kinlough,Kinlough,Leitrim,2024-11-01,4000.0,1.3,50.0
+LEI_kinlough,Kinlough,Leitrim,2024-12-01,4000.0,1.3,50.0
+LEI_dromahair,Dromahair,Leitrim,2024-01-01,4000.0,1.3,50.0
+LEI_dromahair,Dromahair,Leitrim,2024-02-01,4000.0,1.3,50.0
+LEI_dromahair,Dromahair,Leitrim,2024-03-01,4000.0,1.3,50.0
+LEI_dromahair,Dromahair,Leitrim,2024-04-01,4000.0,1.3,50.0
+LEI_dromahair,Dromahair,Leitrim,2024-05-01,4000.0,1.3,50.0
+LEI_dromahair,Dromahair,Leitrim,2024-06-01,4000.0,1.3,50.0
+LEI_dromahair,Dromahair,Leitrim,2024-07-01,4000.0,1.3,50.0
+LEI_dromahair,Dromahair,Leitrim,2024-08-01,4000.0,1.3,50.0
+LEI_dromahair,Dromahair,Leitrim,2024-09-01,4000.0,1.3,50.0
+LEI_dromahair,Dromahair,Leitrim,2024-10-01,4000.0,1.3,50.0
+LEI_dromahair,Dromahair,Leitrim,2024-11-01,4000.0,1.3,50.0
+LEI_dromahair,Dromahair,Leitrim,2024-12-01,4000.0,1.3,50.0
+LEI_drumkeerin,Drumkeerin,Leitrim,2024-01-01,4000.0,1.3,50.0
+LEI_drumkeerin,Drumkeerin,Leitrim,2024-02-01,4000.0,1.3,50.0
+LEI_drumkeerin,Drumkeerin,Leitrim,2024-03-01,4000.0,1.3,50.0
+LEI_drumkeerin,Drumkeerin,Leitrim,2024-04-01,4000.0,1.3,50.0
+LEI_drumkeerin,Drumkeerin,Leitrim,2024-05-01,4000.0,1.3,50.0
+LEI_drumkeerin,Drumkeerin,Leitrim,2024-06-01,4000.0,1.3,50.0
+LEI_drumkeerin,Drumkeerin,Leitrim,2024-07-01,4000.0,1.3,50.0
+LEI_drumkeerin,Drumkeerin,Leitrim,2024-08-01,4000.0,1.3,50.0
+LEI_drumkeerin,Drumkeerin,Leitrim,2024-09-01,4000.0,1.3,50.0
+LEI_drumkeerin,Drumkeerin,Leitrim,2024-10-01,4000.0,1.3,50.0
+LEI_drumkeerin,Drumkeerin,Leitrim,2024-11-01,4000.0,1.3,50.0
+LEI_drumkeerin,Drumkeerin,Leitrim,2024-12-01,4000.0,1.3,50.0
+MAY_castlebar_urban,Castlebar Urban,Mayo,2024-01-01,16800.0,5.6,50.0
+MAY_castlebar_urban,Castlebar Urban,Mayo,2024-02-01,16800.0,5.6,50.0
+MAY_castlebar_urban,Castlebar Urban,Mayo,2024-03-01,16800.0,5.6,50.0
+MAY_castlebar_urban,Castlebar Urban,Mayo,2024-04-01,16800.0,5.6,50.0
+MAY_castlebar_urban,Castlebar Urban,Mayo,2024-05-01,16800.0,5.6,50.0
+MAY_castlebar_urban,Castlebar Urban,Mayo,2024-06-01,16800.0,5.6,50.0
+MAY_castlebar_urban,Castlebar Urban,Mayo,2024-07-01,16800.0,5.6,50.0
+MAY_castlebar_urban,Castlebar Urban,Mayo,2024-08-01,16800.0,5.6,50.0
+MAY_castlebar_urban,Castlebar Urban,Mayo,2024-09-01,16800.0,5.6,50.0
+MAY_castlebar_urban,Castlebar Urban,Mayo,2024-10-01,16800.0,5.6,50.0
+MAY_castlebar_urban,Castlebar Urban,Mayo,2024-11-01,16800.0,5.6,50.0
+MAY_castlebar_urban,Castlebar Urban,Mayo,2024-12-01,16800.0,5.6,50.0
+MAY_westport_urban,Westport Urban,Mayo,2024-01-01,16800.0,5.6,50.0
+MAY_westport_urban,Westport Urban,Mayo,2024-02-01,16800.0,5.6,50.0
+MAY_westport_urban,Westport Urban,Mayo,2024-03-01,16800.0,5.6,50.0
+MAY_westport_urban,Westport Urban,Mayo,2024-04-01,16800.0,5.6,50.0
+MAY_westport_urban,Westport Urban,Mayo,2024-05-01,16800.0,5.6,50.0
+MAY_westport_urban,Westport Urban,Mayo,2024-06-01,16800.0,5.6,50.0
+MAY_westport_urban,Westport Urban,Mayo,2024-07-01,16800.0,5.6,50.0
+MAY_westport_urban,Westport Urban,Mayo,2024-08-01,16800.0,5.6,50.0
+MAY_westport_urban,Westport Urban,Mayo,2024-09-01,16800.0,5.6,50.0
+MAY_westport_urban,Westport Urban,Mayo,2024-10-01,16800.0,5.6,50.0
+MAY_westport_urban,Westport Urban,Mayo,2024-11-01,16800.0,5.6,50.0
+MAY_westport_urban,Westport Urban,Mayo,2024-12-01,16800.0,5.6,50.0
+MAY_ballina_urban,Ballina Urban,Mayo,2024-01-01,12000.0,4.0,50.0
+MAY_ballina_urban,Ballina Urban,Mayo,2024-02-01,12000.0,4.0,50.0
+MAY_ballina_urban,Ballina Urban,Mayo,2024-03-01,12000.0,4.0,50.0
+MAY_ballina_urban,Ballina Urban,Mayo,2024-04-01,12000.0,4.0,50.0
+MAY_ballina_urban,Ballina Urban,Mayo,2024-05-01,12000.0,4.0,50.0
+MAY_ballina_urban,Ballina Urban,Mayo,2024-06-01,12000.0,4.0,50.0
+MAY_ballina_urban,Ballina Urban,Mayo,2024-07-01,12000.0,4.0,50.0
+MAY_ballina_urban,Ballina Urban,Mayo,2024-08-01,12000.0,4.0,50.0
+MAY_ballina_urban,Ballina Urban,Mayo,2024-09-01,12000.0,4.0,50.0
+MAY_ballina_urban,Ballina Urban,Mayo,2024-10-01,12000.0,4.0,50.0
+MAY_ballina_urban,Ballina Urban,Mayo,2024-11-01,12000.0,4.0,50.0
+MAY_ballina_urban,Ballina Urban,Mayo,2024-12-01,12000.0,4.0,50.0
+MAY_claremorris,Claremorris,Mayo,2024-01-01,12000.0,4.0,50.0
+MAY_claremorris,Claremorris,Mayo,2024-02-01,12000.0,4.0,50.0
+MAY_claremorris,Claremorris,Mayo,2024-03-01,12000.0,4.0,50.0
+MAY_claremorris,Claremorris,Mayo,2024-04-01,12000.0,4.0,50.0
+MAY_claremorris,Claremorris,Mayo,2024-05-01,12000.0,4.0,50.0
+MAY_claremorris,Claremorris,Mayo,2024-06-01,12000.0,4.0,50.0
+MAY_claremorris,Claremorris,Mayo,2024-07-01,12000.0,4.0,50.0
+MAY_claremorris,Claremorris,Mayo,2024-08-01,12000.0,4.0,50.0
+MAY_claremorris,Claremorris,Mayo,2024-09-01,12000.0,4.0,50.0
+MAY_claremorris,Claremorris,Mayo,2024-10-01,12000.0,4.0,50.0
+MAY_claremorris,Claremorris,Mayo,2024-11-01,12000.0,4.0,50.0
+MAY_claremorris,Claremorris,Mayo,2024-12-01,12000.0,4.0,50.0
+MAY_ballinrobe,Ballinrobe,Mayo,2024-01-01,9600.0,3.2,50.0
+MAY_ballinrobe,Ballinrobe,Mayo,2024-02-01,9600.0,3.2,50.0
+MAY_ballinrobe,Ballinrobe,Mayo,2024-03-01,9600.0,3.2,50.0
+MAY_ballinrobe,Ballinrobe,Mayo,2024-04-01,9600.0,3.2,50.0
+MAY_ballinrobe,Ballinrobe,Mayo,2024-05-01,9600.0,3.2,50.0
+MAY_ballinrobe,Ballinrobe,Mayo,2024-06-01,9600.0,3.2,50.0
+MAY_ballinrobe,Ballinrobe,Mayo,2024-07-01,9600.0,3.2,50.0
+MAY_ballinrobe,Ballinrobe,Mayo,2024-08-01,9600.0,3.2,50.0
+MAY_ballinrobe,Ballinrobe,Mayo,2024-09-01,9600.0,3.2,50.0
+MAY_ballinrobe,Ballinrobe,Mayo,2024-10-01,9600.0,3.2,50.0
+MAY_ballinrobe,Ballinrobe,Mayo,2024-11-01,9600.0,3.2,50.0
+MAY_ballinrobe,Ballinrobe,Mayo,2024-12-01,9600.0,3.2,50.0
+MAY_swinford,Swinford,Mayo,2024-01-01,9600.0,3.2,50.0
+MAY_swinford,Swinford,Mayo,2024-02-01,9600.0,3.2,50.0
+MAY_swinford,Swinford,Mayo,2024-03-01,9600.0,3.2,50.0
+MAY_swinford,Swinford,Mayo,2024-04-01,9600.0,3.2,50.0
+MAY_swinford,Swinford,Mayo,2024-05-01,9600.0,3.2,50.0
+MAY_swinford,Swinford,Mayo,2024-06-01,9600.0,3.2,50.0
+MAY_swinford,Swinford,Mayo,2024-07-01,9600.0,3.2,50.0
+MAY_swinford,Swinford,Mayo,2024-08-01,9600.0,3.2,50.0
+MAY_swinford,Swinford,Mayo,2024-09-01,9600.0,3.2,50.0
+MAY_swinford,Swinford,Mayo,2024-10-01,9600.0,3.2,50.0
+MAY_swinford,Swinford,Mayo,2024-11-01,9600.0,3.2,50.0
+MAY_swinford,Swinford,Mayo,2024-12-01,9600.0,3.2,50.0
+MAY_belmullet,Belmullet,Mayo,2024-01-01,9600.0,3.2,50.0
+MAY_belmullet,Belmullet,Mayo,2024-02-01,9600.0,3.2,50.0
+MAY_belmullet,Belmullet,Mayo,2024-03-01,9600.0,3.2,50.0
+MAY_belmullet,Belmullet,Mayo,2024-04-01,9600.0,3.2,50.0
+MAY_belmullet,Belmullet,Mayo,2024-05-01,9600.0,3.2,50.0
+MAY_belmullet,Belmullet,Mayo,2024-06-01,9600.0,3.2,50.0
+MAY_belmullet,Belmullet,Mayo,2024-07-01,9600.0,3.2,50.0
+MAY_belmullet,Belmullet,Mayo,2024-08-01,9600.0,3.2,50.0
+MAY_belmullet,Belmullet,Mayo,2024-09-01,9600.0,3.2,50.0
+MAY_belmullet,Belmullet,Mayo,2024-10-01,9600.0,3.2,50.0
+MAY_belmullet,Belmullet,Mayo,2024-11-01,9600.0,3.2,50.0
+MAY_belmullet,Belmullet,Mayo,2024-12-01,9600.0,3.2,50.0
+MAY_knock,Knock,Mayo,2024-01-01,9600.0,3.2,50.0
+MAY_knock,Knock,Mayo,2024-02-01,9600.0,3.2,50.0
+MAY_knock,Knock,Mayo,2024-03-01,9600.0,3.2,50.0
+MAY_knock,Knock,Mayo,2024-04-01,9600.0,3.2,50.0
+MAY_knock,Knock,Mayo,2024-05-01,9600.0,3.2,50.0
+MAY_knock,Knock,Mayo,2024-06-01,9600.0,3.2,50.0
+MAY_knock,Knock,Mayo,2024-07-01,9600.0,3.2,50.0
+MAY_knock,Knock,Mayo,2024-08-01,9600.0,3.2,50.0
+MAY_knock,Knock,Mayo,2024-09-01,9600.0,3.2,50.0
+MAY_knock,Knock,Mayo,2024-10-01,9600.0,3.2,50.0
+MAY_knock,Knock,Mayo,2024-11-01,9600.0,3.2,50.0
+MAY_knock,Knock,Mayo,2024-12-01,9600.0,3.2,50.0
+MAY_achill,Achill,Mayo,2024-01-01,6000.0,2.0,50.0
+MAY_achill,Achill,Mayo,2024-02-01,6000.0,2.0,50.0
+MAY_achill,Achill,Mayo,2024-03-01,6000.0,2.0,50.0
+MAY_achill,Achill,Mayo,2024-04-01,6000.0,2.0,50.0
+MAY_achill,Achill,Mayo,2024-05-01,6000.0,2.0,50.0
+MAY_achill,Achill,Mayo,2024-06-01,6000.0,2.0,50.0
+MAY_achill,Achill,Mayo,2024-07-01,6000.0,2.0,50.0
+MAY_achill,Achill,Mayo,2024-08-01,6000.0,2.0,50.0
+MAY_achill,Achill,Mayo,2024-09-01,6000.0,2.0,50.0
+MAY_achill,Achill,Mayo,2024-10-01,6000.0,2.0,50.0
+MAY_achill,Achill,Mayo,2024-11-01,6000.0,2.0,50.0
+MAY_achill,Achill,Mayo,2024-12-01,6000.0,2.0,50.0
+MAY_louisburgh,Louisburgh,Mayo,2024-01-01,6000.0,2.0,50.0
+MAY_louisburgh,Louisburgh,Mayo,2024-02-01,6000.0,2.0,50.0
+MAY_louisburgh,Louisburgh,Mayo,2024-03-01,6000.0,2.0,50.0
+MAY_louisburgh,Louisburgh,Mayo,2024-04-01,6000.0,2.0,50.0
+MAY_louisburgh,Louisburgh,Mayo,2024-05-01,6000.0,2.0,50.0
+MAY_louisburgh,Louisburgh,Mayo,2024-06-01,6000.0,2.0,50.0
+MAY_louisburgh,Louisburgh,Mayo,2024-07-01,6000.0,2.0,50.0
+MAY_louisburgh,Louisburgh,Mayo,2024-08-01,6000.0,2.0,50.0
+MAY_louisburgh,Louisburgh,Mayo,2024-09-01,6000.0,2.0,50.0
+MAY_louisburgh,Louisburgh,Mayo,2024-10-01,6000.0,2.0,50.0
+MAY_louisburgh,Louisburgh,Mayo,2024-11-01,6000.0,2.0,50.0
+MAY_louisburgh,Louisburgh,Mayo,2024-12-01,6000.0,2.0,50.0
+DON_letterkenny,Letterkenny,Donegal,2024-01-01,15400.0,5.1,50.0
+DON_letterkenny,Letterkenny,Donegal,2024-02-01,15400.0,5.1,50.0
+DON_letterkenny,Letterkenny,Donegal,2024-03-01,15400.0,5.1,50.0
+DON_letterkenny,Letterkenny,Donegal,2024-04-01,15400.0,5.1,50.0
+DON_letterkenny,Letterkenny,Donegal,2024-05-01,15400.0,5.1,50.0
+DON_letterkenny,Letterkenny,Donegal,2024-06-01,15400.0,5.1,50.0
+DON_letterkenny,Letterkenny,Donegal,2024-07-01,15400.0,5.1,50.0
+DON_letterkenny,Letterkenny,Donegal,2024-08-01,15400.0,5.1,50.0
+DON_letterkenny,Letterkenny,Donegal,2024-09-01,15400.0,5.1,50.0
+DON_letterkenny,Letterkenny,Donegal,2024-10-01,15400.0,5.1,50.0
+DON_letterkenny,Letterkenny,Donegal,2024-11-01,15400.0,5.1,50.0
+DON_letterkenny,Letterkenny,Donegal,2024-12-01,15400.0,5.1,50.0
+DON_donegal_urban,Donegal Urban,Donegal,2024-01-01,11000.0,3.7,50.0
+DON_donegal_urban,Donegal Urban,Donegal,2024-02-01,11000.0,3.7,50.0
+DON_donegal_urban,Donegal Urban,Donegal,2024-03-01,11000.0,3.7,50.0
+DON_donegal_urban,Donegal Urban,Donegal,2024-04-01,11000.0,3.7,50.0
+DON_donegal_urban,Donegal Urban,Donegal,2024-05-01,11000.0,3.7,50.0
+DON_donegal_urban,Donegal Urban,Donegal,2024-06-01,11000.0,3.7,50.0
+DON_donegal_urban,Donegal Urban,Donegal,2024-07-01,11000.0,3.7,50.0
+DON_donegal_urban,Donegal Urban,Donegal,2024-08-01,11000.0,3.7,50.0
+DON_donegal_urban,Donegal Urban,Donegal,2024-09-01,11000.0,3.7,50.0
+DON_donegal_urban,Donegal Urban,Donegal,2024-10-01,11000.0,3.7,50.0
+DON_donegal_urban,Donegal Urban,Donegal,2024-11-01,11000.0,3.7,50.0
+DON_donegal_urban,Donegal Urban,Donegal,2024-12-01,11000.0,3.7,50.0
+DON_buncrana,Buncrana,Donegal,2024-01-01,11000.0,3.7,50.0
+DON_buncrana,Buncrana,Donegal,2024-02-01,11000.0,3.7,50.0
+DON_buncrana,Buncrana,Donegal,2024-03-01,11000.0,3.7,50.0
+DON_buncrana,Buncrana,Donegal,2024-04-01,11000.0,3.7,50.0
+DON_buncrana,Buncrana,Donegal,2024-05-01,11000.0,3.7,50.0
+DON_buncrana,Buncrana,Donegal,2024-06-01,11000.0,3.7,50.0
+DON_buncrana,Buncrana,Donegal,2024-07-01,11000.0,3.7,50.0
+DON_buncrana,Buncrana,Donegal,2024-08-01,11000.0,3.7,50.0
+DON_buncrana,Buncrana,Donegal,2024-09-01,11000.0,3.7,50.0
+DON_buncrana,Buncrana,Donegal,2024-10-01,11000.0,3.7,50.0
+DON_buncrana,Buncrana,Donegal,2024-11-01,11000.0,3.7,50.0
+DON_buncrana,Buncrana,Donegal,2024-12-01,11000.0,3.7,50.0
+DON_bundoran,Bundoran,Donegal,2024-01-01,11000.0,3.7,50.0
+DON_bundoran,Bundoran,Donegal,2024-02-01,11000.0,3.7,50.0
+DON_bundoran,Bundoran,Donegal,2024-03-01,11000.0,3.7,50.0
+DON_bundoran,Bundoran,Donegal,2024-04-01,11000.0,3.7,50.0
+DON_bundoran,Bundoran,Donegal,2024-05-01,11000.0,3.7,50.0
+DON_bundoran,Bundoran,Donegal,2024-06-01,11000.0,3.7,50.0
+DON_bundoran,Bundoran,Donegal,2024-07-01,11000.0,3.7,50.0
+DON_bundoran,Bundoran,Donegal,2024-08-01,11000.0,3.7,50.0
+DON_bundoran,Bundoran,Donegal,2024-09-01,11000.0,3.7,50.0
+DON_bundoran,Bundoran,Donegal,2024-10-01,11000.0,3.7,50.0
+DON_bundoran,Bundoran,Donegal,2024-11-01,11000.0,3.7,50.0
+DON_bundoran,Bundoran,Donegal,2024-12-01,11000.0,3.7,50.0
+DON_carndonagh,Carndonagh,Donegal,2024-01-01,8800.0,2.9,50.0
+DON_carndonagh,Carndonagh,Donegal,2024-02-01,8800.0,2.9,50.0
+DON_carndonagh,Carndonagh,Donegal,2024-03-01,8800.0,2.9,50.0
+DON_carndonagh,Carndonagh,Donegal,2024-04-01,8800.0,2.9,50.0
+DON_carndonagh,Carndonagh,Donegal,2024-05-01,8800.0,2.9,50.0
+DON_carndonagh,Carndonagh,Donegal,2024-06-01,8800.0,2.9,50.0
+DON_carndonagh,Carndonagh,Donegal,2024-07-01,8800.0,2.9,50.0
+DON_carndonagh,Carndonagh,Donegal,2024-08-01,8800.0,2.9,50.0
+DON_carndonagh,Carndonagh,Donegal,2024-09-01,8800.0,2.9,50.0
+DON_carndonagh,Carndonagh,Donegal,2024-10-01,8800.0,2.9,50.0
+DON_carndonagh,Carndonagh,Donegal,2024-11-01,8800.0,2.9,50.0
+DON_carndonagh,Carndonagh,Donegal,2024-12-01,8800.0,2.9,50.0
+DON_ballybofey,Ballybofey,Donegal,2024-01-01,8800.0,2.9,50.0
+DON_ballybofey,Ballybofey,Donegal,2024-02-01,8800.0,2.9,50.0
+DON_ballybofey,Ballybofey,Donegal,2024-03-01,8800.0,2.9,50.0
+DON_ballybofey,Ballybofey,Donegal,2024-04-01,8800.0,2.9,50.0
+DON_ballybofey,Ballybofey,Donegal,2024-05-01,8800.0,2.9,50.0
+DON_ballybofey,Ballybofey,Donegal,2024-06-01,8800.0,2.9,50.0
+DON_ballybofey,Ballybofey,Donegal,2024-07-01,8800.0,2.9,50.0
+DON_ballybofey,Ballybofey,Donegal,2024-08-01,8800.0,2.9,50.0
+DON_ballybofey,Ballybofey,Donegal,2024-09-01,8800.0,2.9,50.0
+DON_ballybofey,Ballybofey,Donegal,2024-10-01,8800.0,2.9,50.0
+DON_ballybofey,Ballybofey,Donegal,2024-11-01,8800.0,2.9,50.0
+DON_ballybofey,Ballybofey,Donegal,2024-12-01,8800.0,2.9,50.0
+DON_milford,Milford,Donegal,2024-01-01,8800.0,2.9,50.0
+DON_milford,Milford,Donegal,2024-02-01,8800.0,2.9,50.0
+DON_milford,Milford,Donegal,2024-03-01,8800.0,2.9,50.0
+DON_milford,Milford,Donegal,2024-04-01,8800.0,2.9,50.0
+DON_milford,Milford,Donegal,2024-05-01,8800.0,2.9,50.0
+DON_milford,Milford,Donegal,2024-06-01,8800.0,2.9,50.0
+DON_milford,Milford,Donegal,2024-07-01,8800.0,2.9,50.0
+DON_milford,Milford,Donegal,2024-08-01,8800.0,2.9,50.0
+DON_milford,Milford,Donegal,2024-09-01,8800.0,2.9,50.0
+DON_milford,Milford,Donegal,2024-10-01,8800.0,2.9,50.0
+DON_milford,Milford,Donegal,2024-11-01,8800.0,2.9,50.0
+DON_milford,Milford,Donegal,2024-12-01,8800.0,2.9,50.0
+DON_dungloe,Dungloe,Donegal,2024-01-01,5500.0,1.8,50.0
+DON_dungloe,Dungloe,Donegal,2024-02-01,5500.0,1.8,50.0
+DON_dungloe,Dungloe,Donegal,2024-03-01,5500.0,1.8,50.0
+DON_dungloe,Dungloe,Donegal,2024-04-01,5500.0,1.8,50.0
+DON_dungloe,Dungloe,Donegal,2024-05-01,5500.0,1.8,50.0
+DON_dungloe,Dungloe,Donegal,2024-06-01,5500.0,1.8,50.0
+DON_dungloe,Dungloe,Donegal,2024-07-01,5500.0,1.8,50.0
+DON_dungloe,Dungloe,Donegal,2024-08-01,5500.0,1.8,50.0
+DON_dungloe,Dungloe,Donegal,2024-09-01,5500.0,1.8,50.0
+DON_dungloe,Dungloe,Donegal,2024-10-01,5500.0,1.8,50.0
+DON_dungloe,Dungloe,Donegal,2024-11-01,5500.0,1.8,50.0
+DON_dungloe,Dungloe,Donegal,2024-12-01,5500.0,1.8,50.0
+DON_glenties,Glenties,Donegal,2024-01-01,5500.0,1.8,50.0
+DON_glenties,Glenties,Donegal,2024-02-01,5500.0,1.8,50.0
+DON_glenties,Glenties,Donegal,2024-03-01,5500.0,1.8,50.0
+DON_glenties,Glenties,Donegal,2024-04-01,5500.0,1.8,50.0
+DON_glenties,Glenties,Donegal,2024-05-01,5500.0,1.8,50.0
+DON_glenties,Glenties,Donegal,2024-06-01,5500.0,1.8,50.0
+DON_glenties,Glenties,Donegal,2024-07-01,5500.0,1.8,50.0
+DON_glenties,Glenties,Donegal,2024-08-01,5500.0,1.8,50.0
+DON_glenties,Glenties,Donegal,2024-09-01,5500.0,1.8,50.0
+DON_glenties,Glenties,Donegal,2024-10-01,5500.0,1.8,50.0
+DON_glenties,Glenties,Donegal,2024-11-01,5500.0,1.8,50.0
+DON_glenties,Glenties,Donegal,2024-12-01,5500.0,1.8,50.0
+DON_falcarragh,Falcarragh,Donegal,2024-01-01,5500.0,1.8,50.0
+DON_falcarragh,Falcarragh,Donegal,2024-02-01,5500.0,1.8,50.0
+DON_falcarragh,Falcarragh,Donegal,2024-03-01,5500.0,1.8,50.0
+DON_falcarragh,Falcarragh,Donegal,2024-04-01,5500.0,1.8,50.0
+DON_falcarragh,Falcarragh,Donegal,2024-05-01,5500.0,1.8,50.0
+DON_falcarragh,Falcarragh,Donegal,2024-06-01,5500.0,1.8,50.0
+DON_falcarragh,Falcarragh,Donegal,2024-07-01,5500.0,1.8,50.0
+DON_falcarragh,Falcarragh,Donegal,2024-08-01,5500.0,1.8,50.0
+DON_falcarragh,Falcarragh,Donegal,2024-09-01,5500.0,1.8,50.0
+DON_falcarragh,Falcarragh,Donegal,2024-10-01,5500.0,1.8,50.0
+DON_falcarragh,Falcarragh,Donegal,2024-11-01,5500.0,1.8,50.0
+DON_falcarragh,Falcarragh,Donegal,2024-12-01,5500.0,1.8,50.0
+CAV_cavan_urban,Cavan Urban,Cavan,2024-01-01,16800.0,5.6,50.0
+CAV_cavan_urban,Cavan Urban,Cavan,2024-02-01,16800.0,5.6,50.0
+CAV_cavan_urban,Cavan Urban,Cavan,2024-03-01,16800.0,5.6,50.0
+CAV_cavan_urban,Cavan Urban,Cavan,2024-04-01,16800.0,5.6,50.0
+CAV_cavan_urban,Cavan Urban,Cavan,2024-05-01,16800.0,5.6,50.0
+CAV_cavan_urban,Cavan Urban,Cavan,2024-06-01,16800.0,5.6,50.0
+CAV_cavan_urban,Cavan Urban,Cavan,2024-07-01,16800.0,5.6,50.0
+CAV_cavan_urban,Cavan Urban,Cavan,2024-08-01,16800.0,5.6,50.0
+CAV_cavan_urban,Cavan Urban,Cavan,2024-09-01,16800.0,5.6,50.0
+CAV_cavan_urban,Cavan Urban,Cavan,2024-10-01,16800.0,5.6,50.0
+CAV_cavan_urban,Cavan Urban,Cavan,2024-11-01,16800.0,5.6,50.0
+CAV_cavan_urban,Cavan Urban,Cavan,2024-12-01,16800.0,5.6,50.0
+CAV_virginia,Virginia,Cavan,2024-01-01,12000.0,4.0,50.0
+CAV_virginia,Virginia,Cavan,2024-02-01,12000.0,4.0,50.0
+CAV_virginia,Virginia,Cavan,2024-03-01,12000.0,4.0,50.0
+CAV_virginia,Virginia,Cavan,2024-04-01,12000.0,4.0,50.0
+CAV_virginia,Virginia,Cavan,2024-05-01,12000.0,4.0,50.0
+CAV_virginia,Virginia,Cavan,2024-06-01,12000.0,4.0,50.0
+CAV_virginia,Virginia,Cavan,2024-07-01,12000.0,4.0,50.0
+CAV_virginia,Virginia,Cavan,2024-08-01,12000.0,4.0,50.0
+CAV_virginia,Virginia,Cavan,2024-09-01,12000.0,4.0,50.0
+CAV_virginia,Virginia,Cavan,2024-10-01,12000.0,4.0,50.0
+CAV_virginia,Virginia,Cavan,2024-11-01,12000.0,4.0,50.0
+CAV_virginia,Virginia,Cavan,2024-12-01,12000.0,4.0,50.0
+CAV_bailieborough,Bailieborough,Cavan,2024-01-01,12000.0,4.0,50.0
+CAV_bailieborough,Bailieborough,Cavan,2024-02-01,12000.0,4.0,50.0
+CAV_bailieborough,Bailieborough,Cavan,2024-03-01,12000.0,4.0,50.0
+CAV_bailieborough,Bailieborough,Cavan,2024-04-01,12000.0,4.0,50.0
+CAV_bailieborough,Bailieborough,Cavan,2024-05-01,12000.0,4.0,50.0
+CAV_bailieborough,Bailieborough,Cavan,2024-06-01,12000.0,4.0,50.0
+CAV_bailieborough,Bailieborough,Cavan,2024-07-01,12000.0,4.0,50.0
+CAV_bailieborough,Bailieborough,Cavan,2024-08-01,12000.0,4.0,50.0
+CAV_bailieborough,Bailieborough,Cavan,2024-09-01,12000.0,4.0,50.0
+CAV_bailieborough,Bailieborough,Cavan,2024-10-01,12000.0,4.0,50.0
+CAV_bailieborough,Bailieborough,Cavan,2024-11-01,12000.0,4.0,50.0
+CAV_bailieborough,Bailieborough,Cavan,2024-12-01,12000.0,4.0,50.0
+CAV_kingscourt,Kingscourt,Cavan,2024-01-01,9600.0,3.2,50.0
+CAV_kingscourt,Kingscourt,Cavan,2024-02-01,9600.0,3.2,50.0
+CAV_kingscourt,Kingscourt,Cavan,2024-03-01,9600.0,3.2,50.0
+CAV_kingscourt,Kingscourt,Cavan,2024-04-01,9600.0,3.2,50.0
+CAV_kingscourt,Kingscourt,Cavan,2024-05-01,9600.0,3.2,50.0
+CAV_kingscourt,Kingscourt,Cavan,2024-06-01,9600.0,3.2,50.0
+CAV_kingscourt,Kingscourt,Cavan,2024-07-01,9600.0,3.2,50.0
+CAV_kingscourt,Kingscourt,Cavan,2024-08-01,9600.0,3.2,50.0
+CAV_kingscourt,Kingscourt,Cavan,2024-09-01,9600.0,3.2,50.0
+CAV_kingscourt,Kingscourt,Cavan,2024-10-01,9600.0,3.2,50.0
+CAV_kingscourt,Kingscourt,Cavan,2024-11-01,9600.0,3.2,50.0
+CAV_kingscourt,Kingscourt,Cavan,2024-12-01,9600.0,3.2,50.0
+CAV_cootehill,Cootehill,Cavan,2024-01-01,9600.0,3.2,50.0
+CAV_cootehill,Cootehill,Cavan,2024-02-01,9600.0,3.2,50.0
+CAV_cootehill,Cootehill,Cavan,2024-03-01,9600.0,3.2,50.0
+CAV_cootehill,Cootehill,Cavan,2024-04-01,9600.0,3.2,50.0
+CAV_cootehill,Cootehill,Cavan,2024-05-01,9600.0,3.2,50.0
+CAV_cootehill,Cootehill,Cavan,2024-06-01,9600.0,3.2,50.0
+CAV_cootehill,Cootehill,Cavan,2024-07-01,9600.0,3.2,50.0
+CAV_cootehill,Cootehill,Cavan,2024-08-01,9600.0,3.2,50.0
+CAV_cootehill,Cootehill,Cavan,2024-09-01,9600.0,3.2,50.0
+CAV_cootehill,Cootehill,Cavan,2024-10-01,9600.0,3.2,50.0
+CAV_cootehill,Cootehill,Cavan,2024-11-01,9600.0,3.2,50.0
+CAV_cootehill,Cootehill,Cavan,2024-12-01,9600.0,3.2,50.0
+CAV_belturbet,Belturbet,Cavan,2024-01-01,9600.0,3.2,50.0
+CAV_belturbet,Belturbet,Cavan,2024-02-01,9600.0,3.2,50.0
+CAV_belturbet,Belturbet,Cavan,2024-03-01,9600.0,3.2,50.0
+CAV_belturbet,Belturbet,Cavan,2024-04-01,9600.0,3.2,50.0
+CAV_belturbet,Belturbet,Cavan,2024-05-01,9600.0,3.2,50.0
+CAV_belturbet,Belturbet,Cavan,2024-06-01,9600.0,3.2,50.0
+CAV_belturbet,Belturbet,Cavan,2024-07-01,9600.0,3.2,50.0
+CAV_belturbet,Belturbet,Cavan,2024-08-01,9600.0,3.2,50.0
+CAV_belturbet,Belturbet,Cavan,2024-09-01,9600.0,3.2,50.0
+CAV_belturbet,Belturbet,Cavan,2024-10-01,9600.0,3.2,50.0
+CAV_belturbet,Belturbet,Cavan,2024-11-01,9600.0,3.2,50.0
+CAV_belturbet,Belturbet,Cavan,2024-12-01,9600.0,3.2,50.0
+CAV_ballyconnell,Ballyconnell,Cavan,2024-01-01,6000.0,2.0,50.0
+CAV_ballyconnell,Ballyconnell,Cavan,2024-02-01,6000.0,2.0,50.0
+CAV_ballyconnell,Ballyconnell,Cavan,2024-03-01,6000.0,2.0,50.0
+CAV_ballyconnell,Ballyconnell,Cavan,2024-04-01,6000.0,2.0,50.0
+CAV_ballyconnell,Ballyconnell,Cavan,2024-05-01,6000.0,2.0,50.0
+CAV_ballyconnell,Ballyconnell,Cavan,2024-06-01,6000.0,2.0,50.0
+CAV_ballyconnell,Ballyconnell,Cavan,2024-07-01,6000.0,2.0,50.0
+CAV_ballyconnell,Ballyconnell,Cavan,2024-08-01,6000.0,2.0,50.0
+CAV_ballyconnell,Ballyconnell,Cavan,2024-09-01,6000.0,2.0,50.0
+CAV_ballyconnell,Ballyconnell,Cavan,2024-10-01,6000.0,2.0,50.0
+CAV_ballyconnell,Ballyconnell,Cavan,2024-11-01,6000.0,2.0,50.0
+CAV_ballyconnell,Ballyconnell,Cavan,2024-12-01,6000.0,2.0,50.0
+CAV_ballyjamesduff,Ballyjamesduff,Cavan,2024-01-01,6000.0,2.0,50.0
+CAV_ballyjamesduff,Ballyjamesduff,Cavan,2024-02-01,6000.0,2.0,50.0
+CAV_ballyjamesduff,Ballyjamesduff,Cavan,2024-03-01,6000.0,2.0,50.0
+CAV_ballyjamesduff,Ballyjamesduff,Cavan,2024-04-01,6000.0,2.0,50.0
+CAV_ballyjamesduff,Ballyjamesduff,Cavan,2024-05-01,6000.0,2.0,50.0
+CAV_ballyjamesduff,Ballyjamesduff,Cavan,2024-06-01,6000.0,2.0,50.0
+CAV_ballyjamesduff,Ballyjamesduff,Cavan,2024-07-01,6000.0,2.0,50.0
+CAV_ballyjamesduff,Ballyjamesduff,Cavan,2024-08-01,6000.0,2.0,50.0
+CAV_ballyjamesduff,Ballyjamesduff,Cavan,2024-09-01,6000.0,2.0,50.0
+CAV_ballyjamesduff,Ballyjamesduff,Cavan,2024-10-01,6000.0,2.0,50.0
+CAV_ballyjamesduff,Ballyjamesduff,Cavan,2024-11-01,6000.0,2.0,50.0
+CAV_ballyjamesduff,Ballyjamesduff,Cavan,2024-12-01,6000.0,2.0,50.0
+MON_monaghan_urban,Monaghan Urban,Monaghan,2024-01-01,15400.0,5.1,50.0
+MON_monaghan_urban,Monaghan Urban,Monaghan,2024-02-01,15400.0,5.1,50.0
+MON_monaghan_urban,Monaghan Urban,Monaghan,2024-03-01,15400.0,5.1,50.0
+MON_monaghan_urban,Monaghan Urban,Monaghan,2024-04-01,15400.0,5.1,50.0
+MON_monaghan_urban,Monaghan Urban,Monaghan,2024-05-01,15400.0,5.1,50.0
+MON_monaghan_urban,Monaghan Urban,Monaghan,2024-06-01,15400.0,5.1,50.0
+MON_monaghan_urban,Monaghan Urban,Monaghan,2024-07-01,15400.0,5.1,50.0
+MON_monaghan_urban,Monaghan Urban,Monaghan,2024-08-01,15400.0,5.1,50.0
+MON_monaghan_urban,Monaghan Urban,Monaghan,2024-09-01,15400.0,5.1,50.0
+MON_monaghan_urban,Monaghan Urban,Monaghan,2024-10-01,15400.0,5.1,50.0
+MON_monaghan_urban,Monaghan Urban,Monaghan,2024-11-01,15400.0,5.1,50.0
+MON_monaghan_urban,Monaghan Urban,Monaghan,2024-12-01,15400.0,5.1,50.0
+MON_carrickmacross,Carrickmacross,Monaghan,2024-01-01,11000.0,3.7,50.0
+MON_carrickmacross,Carrickmacross,Monaghan,2024-02-01,11000.0,3.7,50.0
+MON_carrickmacross,Carrickmacross,Monaghan,2024-03-01,11000.0,3.7,50.0
+MON_carrickmacross,Carrickmacross,Monaghan,2024-04-01,11000.0,3.7,50.0
+MON_carrickmacross,Carrickmacross,Monaghan,2024-05-01,11000.0,3.7,50.0
+MON_carrickmacross,Carrickmacross,Monaghan,2024-06-01,11000.0,3.7,50.0
+MON_carrickmacross,Carrickmacross,Monaghan,2024-07-01,11000.0,3.7,50.0
+MON_carrickmacross,Carrickmacross,Monaghan,2024-08-01,11000.0,3.7,50.0
+MON_carrickmacross,Carrickmacross,Monaghan,2024-09-01,11000.0,3.7,50.0
+MON_carrickmacross,Carrickmacross,Monaghan,2024-10-01,11000.0,3.7,50.0
+MON_carrickmacross,Carrickmacross,Monaghan,2024-11-01,11000.0,3.7,50.0
+MON_carrickmacross,Carrickmacross,Monaghan,2024-12-01,11000.0,3.7,50.0
+MON_castleblayney,Castleblayney,Monaghan,2024-01-01,11000.0,3.7,50.0
+MON_castleblayney,Castleblayney,Monaghan,2024-02-01,11000.0,3.7,50.0
+MON_castleblayney,Castleblayney,Monaghan,2024-03-01,11000.0,3.7,50.0
+MON_castleblayney,Castleblayney,Monaghan,2024-04-01,11000.0,3.7,50.0
+MON_castleblayney,Castleblayney,Monaghan,2024-05-01,11000.0,3.7,50.0
+MON_castleblayney,Castleblayney,Monaghan,2024-06-01,11000.0,3.7,50.0
+MON_castleblayney,Castleblayney,Monaghan,2024-07-01,11000.0,3.7,50.0
+MON_castleblayney,Castleblayney,Monaghan,2024-08-01,11000.0,3.7,50.0
+MON_castleblayney,Castleblayney,Monaghan,2024-09-01,11000.0,3.7,50.0
+MON_castleblayney,Castleblayney,Monaghan,2024-10-01,11000.0,3.7,50.0
+MON_castleblayney,Castleblayney,Monaghan,2024-11-01,11000.0,3.7,50.0
+MON_castleblayney,Castleblayney,Monaghan,2024-12-01,11000.0,3.7,50.0
+MON_clones,Clones,Monaghan,2024-01-01,8800.0,2.9,50.0
+MON_clones,Clones,Monaghan,2024-02-01,8800.0,2.9,50.0
+MON_clones,Clones,Monaghan,2024-03-01,8800.0,2.9,50.0
+MON_clones,Clones,Monaghan,2024-04-01,8800.0,2.9,50.0
+MON_clones,Clones,Monaghan,2024-05-01,8800.0,2.9,50.0
+MON_clones,Clones,Monaghan,2024-06-01,8800.0,2.9,50.0
+MON_clones,Clones,Monaghan,2024-07-01,8800.0,2.9,50.0
+MON_clones,Clones,Monaghan,2024-08-01,8800.0,2.9,50.0
+MON_clones,Clones,Monaghan,2024-09-01,8800.0,2.9,50.0
+MON_clones,Clones,Monaghan,2024-10-01,8800.0,2.9,50.0
+MON_clones,Clones,Monaghan,2024-11-01,8800.0,2.9,50.0
+MON_clones,Clones,Monaghan,2024-12-01,8800.0,2.9,50.0
+MON_ballybay,Ballybay,Monaghan,2024-01-01,8800.0,2.9,50.0
+MON_ballybay,Ballybay,Monaghan,2024-02-01,8800.0,2.9,50.0
+MON_ballybay,Ballybay,Monaghan,2024-03-01,8800.0,2.9,50.0
+MON_ballybay,Ballybay,Monaghan,2024-04-01,8800.0,2.9,50.0
+MON_ballybay,Ballybay,Monaghan,2024-05-01,8800.0,2.9,50.0
+MON_ballybay,Ballybay,Monaghan,2024-06-01,8800.0,2.9,50.0
+MON_ballybay,Ballybay,Monaghan,2024-07-01,8800.0,2.9,50.0
+MON_ballybay,Ballybay,Monaghan,2024-08-01,8800.0,2.9,50.0
+MON_ballybay,Ballybay,Monaghan,2024-09-01,8800.0,2.9,50.0
+MON_ballybay,Ballybay,Monaghan,2024-10-01,8800.0,2.9,50.0
+MON_ballybay,Ballybay,Monaghan,2024-11-01,8800.0,2.9,50.0
+MON_ballybay,Ballybay,Monaghan,2024-12-01,8800.0,2.9,50.0
+MON_emyvale,Emyvale,Monaghan,2024-01-01,5500.0,1.8,50.0
+MON_emyvale,Emyvale,Monaghan,2024-02-01,5500.0,1.8,50.0
+MON_emyvale,Emyvale,Monaghan,2024-03-01,5500.0,1.8,50.0
+MON_emyvale,Emyvale,Monaghan,2024-04-01,5500.0,1.8,50.0
+MON_emyvale,Emyvale,Monaghan,2024-05-01,5500.0,1.8,50.0
+MON_emyvale,Emyvale,Monaghan,2024-06-01,5500.0,1.8,50.0
+MON_emyvale,Emyvale,Monaghan,2024-07-01,5500.0,1.8,50.0
+MON_emyvale,Emyvale,Monaghan,2024-08-01,5500.0,1.8,50.0
+MON_emyvale,Emyvale,Monaghan,2024-09-01,5500.0,1.8,50.0
+MON_emyvale,Emyvale,Monaghan,2024-10-01,5500.0,1.8,50.0
+MON_emyvale,Emyvale,Monaghan,2024-11-01,5500.0,1.8,50.0
+MON_emyvale,Emyvale,Monaghan,2024-12-01,5500.0,1.8,50.0
+MON_glaslough,Glaslough,Monaghan,2024-01-01,5500.0,1.8,50.0
+MON_glaslough,Glaslough,Monaghan,2024-02-01,5500.0,1.8,50.0
+MON_glaslough,Glaslough,Monaghan,2024-03-01,5500.0,1.8,50.0
+MON_glaslough,Glaslough,Monaghan,2024-04-01,5500.0,1.8,50.0
+MON_glaslough,Glaslough,Monaghan,2024-05-01,5500.0,1.8,50.0
+MON_glaslough,Glaslough,Monaghan,2024-06-01,5500.0,1.8,50.0
+MON_glaslough,Glaslough,Monaghan,2024-07-01,5500.0,1.8,50.0
+MON_glaslough,Glaslough,Monaghan,2024-08-01,5500.0,1.8,50.0
+MON_glaslough,Glaslough,Monaghan,2024-09-01,5500.0,1.8,50.0
+MON_glaslough,Glaslough,Monaghan,2024-10-01,5500.0,1.8,50.0
+MON_glaslough,Glaslough,Monaghan,2024-11-01,5500.0,1.8,50.0
+MON_glaslough,Glaslough,Monaghan,2024-12-01,5500.0,1.8,50.0
+MON_scotstown,Scotstown,Monaghan,2024-01-01,5500.0,1.8,50.0
+MON_scotstown,Scotstown,Monaghan,2024-02-01,5500.0,1.8,50.0
+MON_scotstown,Scotstown,Monaghan,2024-03-01,5500.0,1.8,50.0
+MON_scotstown,Scotstown,Monaghan,2024-04-01,5500.0,1.8,50.0
+MON_scotstown,Scotstown,Monaghan,2024-05-01,5500.0,1.8,50.0
+MON_scotstown,Scotstown,Monaghan,2024-06-01,5500.0,1.8,50.0
+MON_scotstown,Scotstown,Monaghan,2024-07-01,5500.0,1.8,50.0
+MON_scotstown,Scotstown,Monaghan,2024-08-01,5500.0,1.8,50.0
+MON_scotstown,Scotstown,Monaghan,2024-09-01,5500.0,1.8,50.0
+MON_scotstown,Scotstown,Monaghan,2024-10-01,5500.0,1.8,50.0
+MON_scotstown,Scotstown,Monaghan,2024-11-01,5500.0,1.8,50.0
+MON_scotstown,Scotstown,Monaghan,2024-12-01,5500.0,1.8,50.0

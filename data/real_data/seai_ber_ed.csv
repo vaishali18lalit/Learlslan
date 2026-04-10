@@ -1,0 +1,256 @@
+ed_id,ed_name,county,ber_avg_score,pct_a_rated,pct_bcd_rated,est_annual_energy_cost
+DUB_rathmines_east_a,Rathmines East A,Dublin,2.72,15.0,60.0,2100
+DUB_rathmines_west_c,Rathmines West C,Dublin,2.72,15.0,60.0,2100
+DUB_pembroke_east_a,Pembroke East A,Dublin,2.72,15.0,60.0,2100
+DUB_ballsbridge,Ballsbridge,Dublin,2.72,15.0,60.0,2100
+DUB_drumcondra_south_a,Drumcondra South A,Dublin,2.72,15.0,60.0,2100
+DUB_cabra_east_a,Cabra East A,Dublin,3.04,15.0,60.0,2100
+DUB_clontarf_east_a,Clontarf East A,Dublin,3.04,15.0,60.0,2100
+DUB_finglas_south_a,Finglas South A,Dublin,3.04,15.0,60.0,2100
+DUB_tallaght_fettercairn,Tallaght-Fettercairn,Dublin,3.04,15.0,60.0,2100
+DUB_lucan_esker,Lucan-Esker,Dublin,3.04,15.0,60.0,2100
+DUB_blanchardstown_blakestown,Blanchardstown-Blakestown,Dublin,3.04,15.0,60.0,2100
+DUB_swords_forrest,Swords-Forrest,Dublin,3.2,15.0,60.0,2100
+DUB_howth,Howth,Dublin,3.04,15.0,60.0,2100
+DUB_dalkey,Dalkey,Dublin,3.04,15.0,60.0,2100
+DUB_blackrock_carysfort,Blackrock-Carysfort,Dublin,2.72,15.0,60.0,2100
+COR_cork_city_south_central,Cork City South Central,Cork,2.98,15.0,60.0,2300
+COR_cork_city_north_central,Cork City North Central,Cork,2.98,15.0,60.0,2300
+COR_blackrock_cork,Blackrock (Cork),Cork,3.32,15.0,60.0,2300
+COR_douglas,Douglas,Cork,3.32,15.0,60.0,2300
+COR_ballincollig,Ballincollig,Cork,3.32,15.0,60.0,2300
+COR_carrigaline,Carrigaline,Cork,3.5,15.0,60.0,2300
+COR_cobh_urban,Cobh Urban,Cork,3.5,15.0,60.0,2300
+COR_midleton,Midleton,Cork,3.5,15.0,60.0,2300
+COR_mallow_urban,Mallow Urban,Cork,3.5,15.0,60.0,2300
+COR_fermoy_urban,Fermoy Urban,Cork,3.5,15.0,60.0,2300
+COR_bandon,Bandon,Cork,3.85,15.0,60.0,2300
+COR_kinsale,Kinsale,Cork,3.85,15.0,60.0,2300
+COR_skibbereen,Skibbereen,Cork,4.2,15.0,60.0,2300
+COR_bantry,Bantry,Cork,4.2,15.0,60.0,2300
+GAL_galway_city_east,Galway City East,Galway,3.06,15.0,60.0,2400
+GAL_galway_city_west,Galway City West,Galway,3.06,15.0,60.0,2400
+GAL_salthill,Salthill,Galway,3.42,15.0,60.0,2400
+GAL_knocknacarra,Knocknacarra,Galway,3.42,15.0,60.0,2400
+GAL_oranmore,Oranmore,Galway,3.6,15.0,60.0,2400
+GAL_tuam_urban,Tuam Urban,Galway,3.6,15.0,60.0,2400
+GAL_loughrea,Loughrea,Galway,3.6,15.0,60.0,2400
+GAL_ballinasloe_urban,Ballinasloe Urban,Galway,3.6,15.0,60.0,2400
+GAL_athenry,Athenry,Galway,3.96,15.0,60.0,2400
+GAL_clifden,Clifden,Galway,3.96,15.0,60.0,2400
+GAL_oughterard,Oughterard,Galway,4.32,15.0,60.0,2400
+GAL_spiddal,Spiddal,Galway,4.32,15.0,60.0,2400
+LIM_limerick_city_east,Limerick City East,Limerick,3.15,15.0,60.0,2500
+LIM_limerick_city_west,Limerick City West,Limerick,3.15,15.0,60.0,2500
+LIM_castletroy,Castletroy,Limerick,3.52,15.0,60.0,2500
+LIM_raheen,Raheen,Limerick,3.52,15.0,60.0,2500
+LIM_dooradoyle,Dooradoyle,Limerick,3.52,15.0,60.0,2500
+LIM_newcastle_west,Newcastle West,Limerick,3.7,15.0,60.0,2500
+LIM_adare,Adare,Limerick,3.7,15.0,60.0,2500
+LIM_kilmallock,Kilmallock,Limerick,4.07,15.0,60.0,2500
+LIM_abbeyfeale,Abbeyfeale,Limerick,4.07,15.0,60.0,2500
+LIM_askeaton,Askeaton,Limerick,4.44,15.0,60.0,2500
+LIM_bruff,Bruff,Limerick,4.44,15.0,60.0,2500
+WAT_waterford_city_centre,Waterford City Centre,Waterford,3.23,15.0,60.0,2600
+WAT_waterford_city_south,Waterford City South,Waterford,3.23,15.0,60.0,2600
+WAT_tramore_urban,Tramore Urban,Waterford,3.61,15.0,60.0,2600
+WAT_dunmore_east,Dunmore East,Waterford,3.61,15.0,60.0,2600
+WAT_dungarvan_urban,Dungarvan Urban,Waterford,3.8,15.0,60.0,2600
+WAT_lismore,Lismore,Waterford,4.18,15.0,60.0,2600
+WAT_cappoquin,Cappoquin,Waterford,4.18,15.0,60.0,2600
+WAT_ardmore,Ardmore,Waterford,4.56,15.0,60.0,2600
+WAT_portlaw,Portlaw,Waterford,4.56,15.0,60.0,2600
+WAT_kilmacthomas,Kilmacthomas,Waterford,4.56,15.0,60.0,2600
+KER_tralee_urban,Tralee Urban,Kerry,3.4,15.0,60.0,2800
+KER_killarney_urban,Killarney Urban,Kerry,3.4,15.0,60.0,2800
+KER_listowel_urban,Listowel Urban,Kerry,4.0,15.0,60.0,2800
+KER_dingle,Dingle,Kerry,4.0,15.0,60.0,2800
+KER_kenmare,Kenmare,Kerry,4.4,15.0,60.0,2800
+KER_cahirciveen,Cahirciveen,Kerry,4.4,15.0,60.0,2800
+KER_killorglin,Killorglin,Kerry,4.4,15.0,60.0,2800
+KER_castleisland,Castleisland,Kerry,4.0,15.0,60.0,2800
+KER_sneem,Sneem,Kerry,4.8,15.0,60.0,2800
+KER_waterville,Waterville,Kerry,4.8,15.0,60.0,2800
+CLA_ennis_urban,Ennis Urban,Clare,3.31,15.0,60.0,2700
+CLA_shannon,Shannon,Clare,3.7,15.0,60.0,2700
+CLA_kilrush_urban,Kilrush Urban,Clare,3.9,15.0,60.0,2700
+CLA_ennistymon,Ennistymon,Clare,4.29,15.0,60.0,2700
+CLA_kilkee,Kilkee,Clare,4.29,15.0,60.0,2700
+CLA_newmarket_on_fergus,Newmarket-on-Fergus,Clare,3.9,15.0,60.0,2700
+CLA_sixmilebridge,Sixmilebridge,Clare,4.29,15.0,60.0,2700
+CLA_scarriff,Scarriff,Clare,4.68,15.0,60.0,2700
+CLA_lisdoonvarna,Lisdoonvarna,Clare,4.68,15.0,60.0,2700
+CLA_miltown_malbay,Miltown Malbay,Clare,4.68,15.0,60.0,2700
+TIP_clonmel_east_urban,Clonmel East Urban,Tipperary,3.48,15.0,60.0,2900
+TIP_clonmel_west_urban,Clonmel West Urban,Tipperary,3.48,15.0,60.0,2900
+TIP_thurles_urban,Thurles Urban,Tipperary,4.1,15.0,60.0,2900
+TIP_nenagh_urban,Nenagh Urban,Tipperary,4.1,15.0,60.0,2900
+TIP_carrick_on_suir_urban,Carrick-on-Suir Urban,Tipperary,4.1,15.0,60.0,2900
+TIP_cashel_urban,Cashel Urban,Tipperary,4.1,15.0,60.0,2900
+TIP_roscrea,Roscrea,Tipperary,4.1,15.0,60.0,2900
+TIP_tipperary_urban,Tipperary Urban,Tipperary,4.51,15.0,60.0,2900
+TIP_cahir,Cahir,Tipperary,4.51,15.0,60.0,2900
+TIP_templemore,Templemore,Tipperary,4.92,15.0,60.0,2900
+KIL_kilkenny_no_1_urban,Kilkenny No. 1 Urban,Kilkenny,3.31,15.0,60.0,2700
+KIL_kilkenny_no_2_urban,Kilkenny No. 2 Urban,Kilkenny,3.31,15.0,60.0,2700
+KIL_castlecomer,Castlecomer,Kilkenny,3.9,15.0,60.0,2700
+KIL_callan,Callan,Kilkenny,4.29,15.0,60.0,2700
+KIL_thomastown,Thomastown,Kilkenny,4.29,15.0,60.0,2700
+KIL_graiguenamanagh,Graiguenamanagh,Kilkenny,4.29,15.0,60.0,2700
+KIL_freshford,Freshford,Kilkenny,4.68,15.0,60.0,2700
+KIL_urlingford,Urlingford,Kilkenny,4.68,15.0,60.0,2700
+KIL_piltown,Piltown,Kilkenny,4.68,15.0,60.0,2700
+WEX_wexford_urban,Wexford Urban,Wexford,3.4,15.0,60.0,2800
+WEX_wexford_rural,Wexford Rural,Wexford,3.8,15.0,60.0,2800
+WEX_new_ross_urban,New Ross Urban,Wexford,4.0,15.0,60.0,2800
+WEX_enniscorthy_urban,Enniscorthy Urban,Wexford,4.0,15.0,60.0,2800
+WEX_gorey,Gorey,Wexford,4.0,15.0,60.0,2800
+WEX_bunclody,Bunclody,Wexford,4.4,15.0,60.0,2800
+WEX_ferns,Ferns,Wexford,4.4,15.0,60.0,2800
+WEX_rosslare,Rosslare,Wexford,4.4,15.0,60.0,2800
+WEX_courtown,Courtown,Wexford,4.8,15.0,60.0,2800
+WEX_kilmore_quay,Kilmore Quay,Wexford,4.8,15.0,60.0,2800
+WIC_bray_no_1,Bray No. 1,Wicklow,2.8,15.0,60.0,2200
+WIC_bray_no_2,Bray No. 2,Wicklow,2.8,15.0,60.0,2200
+WIC_greystones,Greystones,Wicklow,3.13,15.0,60.0,2200
+WIC_arklow_urban,Arklow Urban,Wicklow,3.3,15.0,60.0,2200
+WIC_wicklow_urban,Wicklow Urban,Wicklow,3.3,15.0,60.0,2200
+WIC_rathnew,Rathnew,Wicklow,3.13,15.0,60.0,2200
+WIC_blessington,Blessington,Wicklow,3.3,15.0,60.0,2200
+WIC_aughrim,Aughrim,Wicklow,3.63,15.0,60.0,2200
+WIC_baltinglass,Baltinglass,Wicklow,3.63,15.0,60.0,2200
+WIC_roundwood,Roundwood,Wicklow,3.96,15.0,60.0,2200
+KIL_naas_urban,Naas Urban,Kildare,2.72,15.0,60.0,2100
+KIL_newbridge,Newbridge,Kildare,3.04,15.0,60.0,2100
+KIL_maynooth,Maynooth,Kildare,3.04,15.0,60.0,2100
+KIL_celbridge,Celbridge,Kildare,3.04,15.0,60.0,2100
+KIL_leixlip,Leixlip,Kildare,3.04,15.0,60.0,2100
+KIL_athy_urban,Athy Urban,Kildare,3.2,15.0,60.0,2100
+KIL_kildare_urban,Kildare Urban,Kildare,3.2,15.0,60.0,2100
+KIL_monasterevin,Monasterevin,Kildare,3.52,15.0,60.0,2100
+KIL_kilcullen,Kilcullen,Kildare,3.52,15.0,60.0,2100
+KIL_clane,Clane,Kildare,3.2,15.0,60.0,2100
+MEA_navan_urban,Navan Urban,Meath,2.8,15.0,60.0,2200
+MEA_trim_urban,Trim Urban,Meath,3.3,15.0,60.0,2200
+MEA_ashbourne,Ashbourne,Meath,3.13,15.0,60.0,2200
+MEA_ratoath,Ratoath,Meath,3.13,15.0,60.0,2200
+MEA_dunboyne,Dunboyne,Meath,3.13,15.0,60.0,2200
+MEA_kells_urban,Kells Urban,Meath,3.3,15.0,60.0,2200
+MEA_dunshaughlin,Dunshaughlin,Meath,3.3,15.0,60.0,2200
+MEA_bettystown,Bettystown,Meath,3.13,15.0,60.0,2200
+MEA_laytown,Laytown,Meath,3.3,15.0,60.0,2200
+MEA_enfield,Enfield,Meath,3.63,15.0,60.0,2200
+LOU_drogheda_east_urban,Drogheda East Urban,Louth,3.06,15.0,60.0,2500
+LOU_drogheda_west_urban,Drogheda West Urban,Louth,3.06,15.0,60.0,2500
+LOU_dundalk_urban,Dundalk Urban,Louth,3.06,15.0,60.0,2500
+LOU_dundalk_rural,Dundalk Rural,Louth,3.42,15.0,60.0,2500
+LOU_ardee,Ardee,Louth,3.6,15.0,60.0,2500
+LOU_dunleer,Dunleer,Louth,3.96,15.0,60.0,2500
+LOU_carlingford,Carlingford,Louth,3.96,15.0,60.0,2500
+LOU_blackrock_louth,Blackrock (Louth),Louth,3.96,15.0,60.0,2500
+LOU_clogherhead,Clogherhead,Louth,4.32,15.0,60.0,2500
+LOU_cooley,Cooley,Louth,4.32,15.0,60.0,2500
+WES_athlone_east_urban,Athlone East Urban,Westmeath,3.4,15.0,60.0,2800
+WES_athlone_west_urban,Athlone West Urban,Westmeath,3.4,15.0,60.0,2800
+WES_mullingar_north,Mullingar North,Westmeath,3.8,15.0,60.0,2800
+WES_mullingar_south,Mullingar South,Westmeath,3.8,15.0,60.0,2800
+WES_moate,Moate,Westmeath,4.0,15.0,60.0,2800
+WES_kilbeggan,Kilbeggan,Westmeath,4.4,15.0,60.0,2800
+WES_kinnegad,Kinnegad,Westmeath,4.4,15.0,60.0,2800
+WES_castlepollard,Castlepollard,Westmeath,4.8,15.0,60.0,2800
+WES_fore,Fore,Westmeath,4.8,15.0,60.0,2800
+OFF_tullamore_urban,Tullamore Urban,Offaly,3.57,15.0,60.0,3000
+OFF_birr_urban,Birr Urban,Offaly,4.2,15.0,60.0,3000
+OFF_edenderry,Edenderry,Offaly,4.2,15.0,60.0,3000
+OFF_clara,Clara,Offaly,4.62,15.0,60.0,3000
+OFF_ferbane,Ferbane,Offaly,4.62,15.0,60.0,3000
+OFF_banagher,Banagher,Offaly,4.62,15.0,60.0,3000
+OFF_kilcormac,Kilcormac,Offaly,5.04,15.0,60.0,3000
+OFF_shinrone,Shinrone,Offaly,5.04,15.0,60.0,3000
+OFF_cloghan,Cloghan,Offaly,5.04,15.0,60.0,3000
+LAO_portlaoise_urban,Portlaoise Urban,Laois,3.48,15.0,60.0,2900
+LAO_mountmellick,Mountmellick,Laois,4.1,15.0,60.0,2900
+LAO_portarlington,Portarlington,Laois,4.1,15.0,60.0,2900
+LAO_mountrath,Mountrath,Laois,4.51,15.0,60.0,2900
+LAO_abbeyleix,Abbeyleix,Laois,4.51,15.0,60.0,2900
+LAO_durrow,Durrow,Laois,4.51,15.0,60.0,2900
+LAO_rathdowney,Rathdowney,Laois,4.92,15.0,60.0,2900
+LAO_stradbally,Stradbally,Laois,4.92,15.0,60.0,2900
+LAO_ballinakill,Ballinakill,Laois,4.92,15.0,60.0,2900
+CAR_carlow_urban,Carlow Urban,Carlow,3.4,15.0,60.0,2800
+CAR_carlow_rural,Carlow Rural,Carlow,3.8,15.0,60.0,2800
+CAR_tullow,Tullow,Carlow,4.0,15.0,60.0,2800
+CAR_muine_bheag_bagenalstown,Muine Bheag (Bagenalstown),Carlow,4.4,15.0,60.0,2800
+CAR_hacketstown,Hacketstown,Carlow,4.4,15.0,60.0,2800
+CAR_borris,Borris,Carlow,4.8,15.0,60.0,2800
+CAR_leighlinbridge,Leighlinbridge,Carlow,4.8,15.0,60.0,2800
+CAR_myshall,Myshall,Carlow,4.8,15.0,60.0,2800
+LON_longford_urban,Longford Urban,Longford,3.65,15.0,60.0,3100
+LON_longford_rural,Longford Rural,Longford,4.08,15.0,60.0,3100
+LON_edgeworthstown,Edgeworthstown,Longford,4.3,15.0,60.0,3100
+LON_ballymahon,Ballymahon,Longford,4.73,15.0,60.0,3100
+LON_granard,Granard,Longford,4.73,15.0,60.0,3100
+LON_lanesborough,Lanesborough,Longford,4.73,15.0,60.0,3100
+LON_drumlish,Drumlish,Longford,5.16,15.0,60.0,3100
+LON_newtownforbes,Newtownforbes,Longford,5.16,15.0,60.0,3100
+ROS_roscommon_urban,Roscommon Urban,Roscommon,3.74,15.0,60.0,3200
+ROS_boyle_urban,Boyle Urban,Roscommon,4.4,15.0,60.0,3200
+ROS_castlerea,Castlerea,Roscommon,4.4,15.0,60.0,3200
+ROS_ballaghaderreen,Ballaghaderreen,Roscommon,4.84,15.0,60.0,3200
+ROS_strokestown,Strokestown,Roscommon,4.84,15.0,60.0,3200
+ROS_elphin,Elphin,Roscommon,5.28,15.0,60.0,3200
+ROS_athleague,Athleague,Roscommon,5.28,15.0,60.0,3200
+ROS_frenchpark,Frenchpark,Roscommon,5.28,15.0,60.0,3200
+SLI_sligo_east,Sligo East,Sligo,3.57,15.0,60.0,3000
+SLI_sligo_west,Sligo West,Sligo,3.57,15.0,60.0,3000
+SLI_strandhill,Strandhill,Sligo,3.99,15.0,60.0,3000
+SLI_rosses_point,Rosses Point,Sligo,3.99,15.0,60.0,3000
+SLI_ballymote,Ballymote,Sligo,4.62,15.0,60.0,3000
+SLI_tubbercurry,Tubbercurry,Sligo,4.62,15.0,60.0,3000
+SLI_collooney,Collooney,Sligo,4.62,15.0,60.0,3000
+SLI_easkey,Easkey,Sligo,5.04,15.0,60.0,3000
+SLI_enniscrone,Enniscrone,Sligo,5.04,15.0,60.0,3000
+LEI_carrick_on_shannon,Carrick-on-Shannon,Leitrim,3.82,15.0,60.0,3300
+LEI_manorhamilton,Manorhamilton,Leitrim,4.5,15.0,60.0,3300
+LEI_ballinamore,Ballinamore,Leitrim,4.95,15.0,60.0,3300
+LEI_mohill,Mohill,Leitrim,4.95,15.0,60.0,3300
+LEI_drumshanbo,Drumshanbo,Leitrim,4.95,15.0,60.0,3300
+LEI_kinlough,Kinlough,Leitrim,5.4,15.0,60.0,3300
+LEI_dromahair,Dromahair,Leitrim,5.4,15.0,60.0,3300
+LEI_drumkeerin,Drumkeerin,Leitrim,5.4,15.0,60.0,3300
+MAY_castlebar_urban,Castlebar Urban,Mayo,3.65,15.0,60.0,3100
+MAY_westport_urban,Westport Urban,Mayo,3.65,15.0,60.0,3100
+MAY_ballina_urban,Ballina Urban,Mayo,4.3,15.0,60.0,3100
+MAY_claremorris,Claremorris,Mayo,4.3,15.0,60.0,3100
+MAY_ballinrobe,Ballinrobe,Mayo,4.73,15.0,60.0,3100
+MAY_swinford,Swinford,Mayo,4.73,15.0,60.0,3100
+MAY_belmullet,Belmullet,Mayo,4.73,15.0,60.0,3100
+MAY_knock,Knock,Mayo,4.73,15.0,60.0,3100
+MAY_achill,Achill,Mayo,5.16,15.0,60.0,3100
+MAY_louisburgh,Louisburgh,Mayo,5.16,15.0,60.0,3100
+DON_letterkenny,Letterkenny,Donegal,3.74,15.0,60.0,3200
+DON_donegal_urban,Donegal Urban,Donegal,4.4,15.0,60.0,3200
+DON_buncrana,Buncrana,Donegal,4.4,15.0,60.0,3200
+DON_bundoran,Bundoran,Donegal,4.4,15.0,60.0,3200
+DON_carndonagh,Carndonagh,Donegal,4.84,15.0,60.0,3200
+DON_ballybofey,Ballybofey,Donegal,4.84,15.0,60.0,3200
+DON_milford,Milford,Donegal,4.84,15.0,60.0,3200
+DON_dungloe,Dungloe,Donegal,5.28,15.0,60.0,3200
+DON_glenties,Glenties,Donegal,5.28,15.0,60.0,3200
+DON_falcarragh,Falcarragh,Donegal,5.28,15.0,60.0,3200
+CAV_cavan_urban,Cavan Urban,Cavan,3.65,15.0,60.0,3100
+CAV_virginia,Virginia,Cavan,4.3,15.0,60.0,3100
+CAV_bailieborough,Bailieborough,Cavan,4.3,15.0,60.0,3100
+CAV_kingscourt,Kingscourt,Cavan,4.73,15.0,60.0,3100
+CAV_cootehill,Cootehill,Cavan,4.73,15.0,60.0,3100
+CAV_belturbet,Belturbet,Cavan,4.73,15.0,60.0,3100
+CAV_ballyconnell,Ballyconnell,Cavan,5.16,15.0,60.0,3100
+CAV_ballyjamesduff,Ballyjamesduff,Cavan,5.16,15.0,60.0,3100
+MON_monaghan_urban,Monaghan Urban,Monaghan,3.65,15.0,60.0,3100
+MON_carrickmacross,Carrickmacross,Monaghan,4.3,15.0,60.0,3100
+MON_castleblayney,Castleblayney,Monaghan,4.3,15.0,60.0,3100
+MON_clones,Clones,Monaghan,4.73,15.0,60.0,3100
+MON_ballybay,Ballybay,Monaghan,4.73,15.0,60.0,3100
+MON_emyvale,Emyvale,Monaghan,5.16,15.0,60.0,3100
+MON_glaslough,Glaslough,Monaghan,5.16,15.0,60.0,3100
+MON_scotstown,Scotstown,Monaghan,5.16,15.0,60.0,3100
