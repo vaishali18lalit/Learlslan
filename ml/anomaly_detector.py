@@ -19,36 +19,30 @@ _ANOMALY_FEATURES = [
 ]
 
 
-def detect_anomalies(df: pd.DataFrame, granularity: str) -> pd.DataFrame:
-    """
-    Detect anomalous areas using IsolationForest.
-
-    Args:
-        df: Scored DataFrame containing the 4 anomaly features.
-        granularity: Determines contamination rate.
-                     N≤30 (county) → 0.15; N>30 (ED) → 0.05.
-
-    Returns:
-        DataFrame with two new columns:
-          - anomaly_flag     : 1 = normal, -1 = anomalous
-          - anomaly_severity : "none" | "high" | "medium" | "low"
-    """
+def detect_anomalies(df: pd.DataFrame, granularity: str = "auto") -> pd.DataFrame:
     out = df.copy()
     N = len(out)
+
+    # Use only features that actually exist
+    features = [f for f in _ANOMALY_FEATURES if f in out.columns]
+    if len(features) < 2:
+        out["anomaly_flag"] = 1
+        out["anomaly_severity"] = "none"
+        return out
 
     contamination = 0.15 if N <= 30 else 0.05
 
     iso = IsolationForest(contamination=contamination, random_state=42)
-    out["anomaly_flag"] = iso.fit_predict(out[_ANOMALY_FEATURES].values)
+    out["anomaly_flag"] = iso.fit_predict(out[features].fillna(0).values)
 
-    national_avg_rent = out["avg_monthly_rent"].mean()
+    national_avg_rent = out["avg_monthly_rent"].mean() if "avg_monthly_rent" in out.columns else 1200
 
     def _severity(row: pd.Series) -> str:
         if row["anomaly_flag"] == 1:
             return "none"
-        rent = row["avg_monthly_rent"]
-        yield_ = row["rental_yield"]
-        affordability = row["affordability_score"]
+        rent = row.get("avg_monthly_rent", 0)
+        yield_ = row.get("rental_yield", 5.0)
+        affordability = row.get("affordability_score", 50)
         if rent > 1.5 * national_avg_rent or yield_ < 3.0 or affordability < 20:
             return "high"
         if rent < 0.5 * national_avg_rent:

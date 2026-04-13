@@ -215,3 +215,45 @@ def assign_labels(df: pd.DataFrame) -> pd.DataFrame:
     )
 
     return out
+
+
+# ── Compatibility functions used by app.py ─────────────────────────────────────
+
+def train_risk_model(df: pd.DataFrame):
+    """Wrapper for app.py compatibility. Trains GBMs and returns (models, scored_df, feature_names)."""
+    from config import FEATURE_COLS
+    feature_cols = [c for c in FEATURE_COLS if c in df.columns]
+    if not feature_cols:
+        feature_cols = [c for c in df.select_dtypes(include="number").columns
+                        if c not in ("cluster", "umap_x", "umap_y", "anomaly_flag")]
+    scored_df, models_dict, feature_names, _ = train_gbm_models(df, feature_cols)
+    scored_df = assign_labels(scored_df)
+    return models_dict, scored_df, feature_names
+
+
+def get_risk_label(score: float) -> str:
+    if score >= 67:
+        return "High"
+    if score >= 34:
+        return "Medium"
+    return "Low"
+
+
+def get_affordability_label(score: float) -> str:
+    if score >= 67:
+        return "Affordable"
+    if score >= 34:
+        return "Moderate"
+    return "Expensive"
+
+
+def get_risk_trend(county: str, scores_df: pd.DataFrame) -> str:
+    row = scores_df[scores_df["county"] == county]
+    if row.empty:
+        return "Stable"
+    risk = row.iloc[0].get("risk_score", 50)
+    if risk > 60:
+        return "Increasing"
+    if risk < 30:
+        return "Decreasing"
+    return "Stable"

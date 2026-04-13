@@ -24,7 +24,7 @@ def minmax_norm(series: pd.Series) -> pd.Series:
     return (series - s_min) / (s_max - s_min)
 
 
-def engineer_features(df: pd.DataFrame) -> pd.DataFrame:
+def engineer_features(df: pd.DataFrame, daft_summaries=None) -> pd.DataFrame:
     """
     Compute 6 derived features and append them to the DataFrame.
 

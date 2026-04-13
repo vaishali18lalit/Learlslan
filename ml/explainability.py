@@ -57,3 +57,9 @@ def explain_score(
 
     entries.sort(key=lambda e: e["impact"], reverse=True)
     return entries[:top_n]
+
+
+def get_top_drivers(model, X, row_idx, feature_names, n=5):
+    """Compatibility wrapper for app.py. Returns top-N SHAP drivers for a single row."""
+    row = X.iloc[[row_idx]]
+    return explain_score(model, row, feature_names, top_n=n)
