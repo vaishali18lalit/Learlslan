@@ -1,9 +1,9 @@
 """
-AI Advisor chat module for the Léarslán dashboard.
+AI Advisor chat module for the Learslán dashboard.
 
-Renders the advisor tab (called from app.py) and the floating sidebar widget.
-Powered by Gemini 2.0 Flash with hybrid RAG context injection.
-Falls back to template-based responses when Gemini is unavailable.
+Supports two modes:
+  - popover_mode=True: uses text_input+button (works inside st.popover)
+  - popover_mode=False: uses chat_input (full page mode)
 """
 
 import logging
@@ -20,24 +20,21 @@ logger = logging.getLogger(__name__)
 
 @st.cache_resource
 def _get_cached_rag_engine():
-    """Build RAG engine once, persist across all Streamlit reruns."""
     return get_rag_engine()
 
 _MAX_HISTORY = 20
 _MODEL_NAME = "gpt-4o-mini"
 
-# ── System Prompt ─────────────────────────────────────────────────────────────
-
 _SYSTEM_PROMPT = dedent("""\
-    You are **Léarslán AI**, an expert Irish community intelligence advisor built
-    into the Léarslán dashboard. You help users understand cost-of-living data,
+    You are **Learslán AI**, an expert Irish community intelligence advisor built
+    into the Learslán dashboard. You help users understand cost-of-living data,
     housing affordability, risk scores, transport connectivity, and energy
     efficiency across Ireland's 26 counties and 255 Electoral Divisions.
 
     PERSONALITY:
     - Warm, knowledgeable, concise. You speak like a trusted local advisor.
     - Use Irish place names naturally. Reference specific data points.
-    - Be opinionated when the data supports it — don't hedge unnecessarily.
+    - Be opinionated when the data supports it.
 
     CAPABILITIES:
     - Explain ML scores (risk, livability, transport, affordability) and what drives them.
@@ -55,102 +52,122 @@ _SYSTEM_PROMPT = dedent("""\
 
     FORMATTING:
     - Use markdown for readability (bold, bullet points, headers).
-    - Keep answers focused — 3-5 paragraphs max unless the user asks for detail.
-    - Use € for currency, Irish conventions for place names.
+    - Keep answers focused - 3-5 paragraphs max unless the user asks for detail.
+    - Use EUR for currency, Irish conventions for place names.
 """)
 
 
-# ── Public API (called from app.py) ──────────────────────────────────────────
-
 def render_advisor_tab(
-    selected_county: str,
-    scores_df: pd.DataFrame,
-    drivers: list | None = None,
-    market: dict | None = None,
-    models: dict | None = None,
-    feature_names: list | None = None,
-    ts_data: dict | None = None,
+    selected_county,
+    scores_df,
+    drivers=None,
+    market=None,
+    models=None,
+    feature_names=None,
+    ts_data=None,
+    popover_mode=False,
 ):
-    """
-    Render the AI Advisor as a full tab.
-
-    This is the function imported by app.py:
-        from insights.chat import render_advisor_tab
-    """
-    st.markdown("### 🤖 Léarslán AI Advisor")
-    st.caption(
-        f"Context: **{selected_county}** · Powered by live ML models (GBM, TOPSIS, SHAP, ARIMA)"
-    )
-
+    """Render the AI Advisor. popover_mode=True uses text_input for st.popover compatibility."""
     _ensure_session_state()
 
-    # Store models in session state for live inference
     st.session_state["_advisor_models"] = models or {}
     st.session_state["_advisor_feature_names"] = feature_names or []
     st.session_state["_advisor_scored_df"] = scores_df
     st.session_state["_advisor_ts_data"] = ts_data
     st.session_state["_advisor_county"] = selected_county
 
-    # Build context
     area_context = build_area_context(selected_county, scores_df, drivers, market)
-    page_ctx = build_page_context(
-        active_tab="advisor",
-        selected_county=selected_county,
-    )
+    page_ctx = build_page_context(active_tab="advisor", selected_county=selected_county)
 
-    # Render chat history
-    for msg in st.session_state.advisor_messages:
-        with st.chat_message(msg["role"]):
+    # Chatbot header
+    if popover_mode:
+        st.markdown("""
+        <div style="display:flex; align-items:center; gap:12px; margin-bottom:12px; padding-bottom:12px; border-bottom:1px solid rgba(128,128,128,0.2);">
+            <div style="width:40px; height:40px; border-radius:50%; background:linear-gradient(135deg,#10b981,#3b82f6); display:flex; align-items:center; justify-content:center; font-size:20px; flex-shrink:0;">&#x1F916;</div>
+            <div>
+                <div style="font-weight:700; font-size:1rem;">Learsl\u00e1n AI Advisor</div>
+                <div style="font-size:0.75rem; opacity:0.6;">&#x1F7E2; Online &middot; Powered by GBM + TOPSIS + SHAP + ARIMA</div>
+            </div>
+        </div>
+        """, unsafe_allow_html=True)
+    else:
+        st.markdown("### Learsl\u00e1n AI Advisor")
+        st.caption(f"Context: **{selected_county}** | Powered by live ML models")
+
+    # Welcome message if no history
+    msgs = st.session_state.advisor_messages
+    if not msgs:
+        with st.chat_message("assistant", avatar="\U0001f916"):
+            st.markdown(
+                f"Hi! I'm your **Learsl\u00e1n AI Advisor**. I have live access to ML models "
+                f"covering **255 Electoral Divisions** across Ireland.\n\n"
+                f"Currently looking at **{selected_county}**. Try asking me:\n"
+                f"- *Where should I live on a \u20ac65k salary?*\n"
+                f"- *Why is Dublin's risk score high?*\n"
+                f"- *What will rent be in 6 months?*\n"
+                f"- *What grants are available for first-time buyers?*"
+            )
+
+    # Show chat history
+    display_msgs = msgs[-6:] if popover_mode else msgs
+    for msg in display_msgs:
+        avatar = "\U0001f916" if msg["role"] == "assistant" else "\U0001f464"
+        with st.chat_message(msg["role"], avatar=avatar):
             st.markdown(msg["content"])
 
-    # Chat input
-    if prompt := st.chat_input("Ask Léarslán AI about this area..."):
-        # Show user message
-        with st.chat_message("user"):
-            st.markdown(prompt)
+    # Input handling
+    prompt = None
+    if popover_mode:
+        col1, col2 = st.columns([8, 1])
+        with col1:
+            user_input = st.text_input(
+                "Ask anything...",
+                key="popover_advisor_input",
+                label_visibility="collapsed",
+                placeholder="Ask about rent, areas, grants...",
+            )
+        with col2:
+            send_clicked = st.button(">", key="popover_send_btn", type="primary", use_container_width=True)
+        if user_input and send_clicked:
+            prompt = user_input
+    else:
+        prompt = st.chat_input("Ask Learslán AI about this area...", key="advisor_chat_input")
+
+    if prompt:
         st.session_state.advisor_messages.append({"role": "user", "content": prompt})
-
-        # Generate response
-        with st.chat_message("assistant"):
-            with st.spinner("Thinking..."):
-                response = _generate_response(prompt, area_context, page_ctx)
-            st.markdown(response)
+        with st.spinner("Running ML models + generating response..."):
+            response = _generate_response(prompt, area_context, page_ctx)
         st.session_state.advisor_messages.append({"role": "assistant", "content": response})
-
         _trim_history()
+        st.rerun()
 
 
 def render_floating_advisor(
-    selected_county: str,
-    scores_df: pd.DataFrame,
-    drivers: list | None = None,
-    market: dict | None = None,
-    page_context: dict | None = None,
+    selected_county,
+    scores_df,
+    drivers=None,
+    market=None,
+    page_context=None,
 ):
-    """
-    Render the AI Advisor as a sidebar expander (visible on all tabs).
-
-    Call this from app.py OUTSIDE of any tab block, in the sidebar section.
-    """
+    """Render the AI Advisor as a sidebar expander (visible on all tabs)."""
     _ensure_session_state()
 
     area_context = build_area_context(selected_county, scores_df, drivers, market)
     page_ctx = page_context or build_page_context(
-        active_tab="overview",
-        selected_county=selected_county,
+        active_tab="overview", selected_county=selected_county,
     )
 
     with st.sidebar:
         st.markdown("---")
-        with st.expander("🤖 AI Advisor", expanded=False):
+        with st.expander("AI Advisor", expanded=False):
             tab_label = page_ctx.get("active_tab", "overview").title()
-            st.caption(f"👀 Looking at: **{tab_label}** · **{selected_county}**")
+            st.caption(f"Looking at: **{tab_label}** - **{selected_county}**")
 
             for msg in st.session_state.advisor_messages[-6:]:
                 with st.chat_message(msg["role"]):
                     st.markdown(msg["content"])
 
-            if prompt := st.chat_input("Ask Léarslán AI...", key="floating_advisor_input"):
+            if prompt := st.chat_input("Ask Learslán AI...", key="floating_advisor_input"):
                 with st.chat_message("user"):
                     st.markdown(prompt)
                 st.session_state.advisor_messages.append({"role": "user", "content": prompt})
@@ -164,7 +181,7 @@ def render_floating_advisor(
                 _trim_history()
 
 
-# ── Internal ──────────────────────────────────────────────────────────────────
+# -- Internal --
 
 def _ensure_session_state():
     if "advisor_messages" not in st.session_state:
@@ -176,9 +193,7 @@ def _trim_history():
         st.session_state.advisor_messages = st.session_state.advisor_messages[-_MAX_HISTORY:]
 
 
-def _generate_response(query: str, area_context: str, page_context: dict) -> str:
-    """Generate a response using live ML inference + RAG + LLM."""
-    # 1. Run live ML models based on query intent
+def _generate_response(query, area_context, page_context):
     from insights.ml_tools import build_ml_context
     ml_context = ""
     try:
@@ -193,40 +208,25 @@ def _generate_response(query: str, area_context: str, page_context: dict) -> str
     except Exception as e:
         logger.warning("ML inference failed: %s", e)
 
-    # 2. Retrieve RAG context
     rag_engine = _get_cached_rag_engine()
     rag_results = rag_engine.retrieve(query, top_k=3)
 
-    # 3. Assemble full prompt with ML context
     full_system = _assemble_system_prompt(area_context, page_context, rag_results, ml_context)
 
-    # 4. Try LLM — single API call per message
     try:
-        result = _call_gemini(query, full_system)
-        return result
+        return _call_llm(query, full_system)
     except Exception as e:
         logger.warning("LLM call failed: %s", e)
-        st.warning(f"LLM error: {e}")
         return _template_fallback(query, area_context, rag_results)
 
 
-def _assemble_system_prompt(
-    area_context: str,
-    page_context: dict,
-    rag_results: list[dict],
-    ml_context: str = "",
-) -> str:
-    """Build the full system prompt with all context layers."""
+def _assemble_system_prompt(area_context, page_context, rag_results, ml_context=""):
     parts = [_SYSTEM_PROMPT]
 
-    # Layer 1: Page context
     desc = page_context.get("natural_description", "browsing the dashboard")
     parts.append(f"\n--- CURRENT PAGE CONTEXT ---\nThe user is currently {desc}.")
-
-    # Layer 2: Area data (static scores from pre-trained models)
     parts.append(f"\n--- AREA DATA (from pre-trained GBM models) ---\n{area_context}")
 
-    # Layer 3: Live ML inference results
     if ml_context:
         parts.append(f"\n--- LIVE MODEL INFERENCE (run just now for this query) ---{ml_context}")
         parts.append(
@@ -235,7 +235,6 @@ def _assemble_system_prompt(
             "Always cite the model used, e.g. [Model: TOPSIS ranking] or [Model: SHAP analysis]."
         )
 
-    # Layer 3: RAG documents
     if rag_results:
         parts.append("\n--- REFERENCE DOCUMENTS ---")
         for i, r in enumerate(rag_results, 1):
@@ -256,8 +255,7 @@ def _assemble_system_prompt(
     return "\n".join(parts)
 
 
-def _call_gemini(query: str, system_prompt: str) -> str:
-    """Call LLM via LiteLLM (OpenAI-compatible) endpoint."""
+def _call_llm(query, system_prompt):
     import requests
     import os
     from dotenv import load_dotenv
@@ -269,7 +267,6 @@ def _call_gemini(query: str, system_prompt: str) -> str:
     if not base_url or not api_key:
         raise ValueError("LITELLM_BASE_URL or LITELLM_API_KEY not configured in .env")
 
-    # Build messages: system + history + current query
     messages = [{"role": "system", "content": system_prompt}]
     for msg in st.session_state.get("advisor_messages", [])[:-1]:
         messages.append({"role": msg["role"], "content": msg["content"]})
@@ -289,20 +286,17 @@ def _call_gemini(query: str, system_prompt: str) -> str:
     return resp.json()["choices"][0]["message"]["content"]
 
 
-def _template_fallback(query: str, area_context: str, rag_results: list[dict]) -> str:
-    """Rule-based fallback when Gemini is unavailable."""
+def _template_fallback(query, area_context, rag_results):
     lines = area_context.split("\n")
-    county = lines[0].replace("=== ", "").replace(" — Key Metrics ===", "") if lines else "this area"
+    county = lines[0].replace("=== ", "").replace(" -- Key Metrics ===", "") if lines else "this area"
 
-    # Extract key metrics for template
     metrics = {}
     for line in lines:
         if ":" in line and "===" not in line and "---" not in line:
             key, val = line.split(":", 1)
             metrics[key.strip()] = val.strip()
 
-    response_parts = [f"## {county} — Quick Summary\n"]
-
+    response_parts = [f"## {county} -- Quick Summary\n"]
     risk = metrics.get("Risk Score", "N/A")
     livability = metrics.get("Livability Score", "N/A")
     affordability = metrics.get("Affordability Score", "N/A")
@@ -314,18 +308,17 @@ def _template_fallback(query: str, area_context: str, rag_results: list[dict]) -
         f"Average monthly rent is **{rent}**.\n"
     )
 
-    # Add RAG context if available
     if rag_results:
         response_parts.append("### Relevant Policy Context\n")
         for r in rag_results[:2]:
             response_parts.append(
                 f"> {r['content'][:200]}...\n"
-                f"> — [Source: {r['source_title']}]\n"
+                f"> -- [Source: {r['source_title']}]\n"
             )
 
     response_parts.append(
-        "\n*⚠️ AI Advisor is running in template mode. "
-        "Configure GEMINI_API_KEY in .env for full conversational AI.*"
+        "\n*AI Advisor is running in template mode. "
+        "Configure LITELLM keys in .env for full conversational AI.*"
     )
 
     return "\n".join(response_parts)

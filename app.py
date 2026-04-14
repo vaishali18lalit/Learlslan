@@ -250,7 +250,7 @@ def main():
     anomalies = detect_anomalies(active_df)
     render_alert_banner(anomalies)
 
-    tab_overview, tab_property, tab_duel, tab_clusters, tab_budget, tab_forecast, tab_recommend, tab_advisor = st.tabs([
+    tab_overview, tab_property, tab_duel, tab_clusters, tab_budget, tab_forecast, tab_recommend = st.tabs([
         "🗺️ Overview",
         "🏠 Property Explorer",
         "⚔️ Area Duel",
@@ -258,7 +258,6 @@ def main():
         "💰 Budget Simulator",
         "🔮 Forecast",
         "🧠 Where to Live?",
-        "🤖 AI Advisor",
     ])
 
     # ── Tab 1: Overview ───────────────────────────────────────
@@ -314,25 +313,136 @@ def main():
         else:
             render_recommender_tab(scores_df)
 
-    # ── Tab 8: AI Advisor ─────────────────────────────────────
-    with tab_advisor:
-        from ml.explainability import get_top_drivers
-        risk_model = models.get("risk_score")
-        county_mask = scores_df["county"] == selected_county
-        drivers = []
-        if risk_model is not None and county_mask.any():
-            try:
-                county_idx = scores_df[county_mask].index[0]
-                drivers = get_top_drivers(risk_model, X, county_idx, feature_names, n=5)
-            except Exception:
-                pass
+    # ── Floating AI Advisor (below tabs, with bottom-right button) ──
+    _render_floating_chatbot(
+        selected_county, scores_df,
+        ed_scores_df if (ed_data_available and ed_scores_df is not None) else None,
+        models, feature_names, X, ts_data, daft_summaries,
+    )
 
-        market = (daft_summaries or {}).get(selected_county, {})
-        # Pass ED-level data for live TOPSIS inference
-        advisor_df = ed_scores_df if (ed_data_available and ed_scores_df is not None) else scores_df
+
+
+
+def _render_floating_chatbot(
+    selected_county, scores_df, ed_scores_df,
+    models, feature_names, X, ts_data, daft_summaries,
+):
+    """Floating AI chatbot popup on bottom-right."""
+    from ml.explainability import get_top_drivers
+
+    risk_model = models.get("risk_score")
+    county_mask = scores_df["county"] == selected_county
+    drivers = []
+    if risk_model is not None and county_mask.any():
+        try:
+            county_idx = scores_df[county_mask].index[0]
+            drivers = get_top_drivers(risk_model, X, county_idx, feature_names, n=5)
+        except Exception:
+            pass
+
+    market = (daft_summaries or {}).get(selected_county, {})
+    advisor_df = ed_scores_df if ed_scores_df is not None else scores_df
+
+    # CSS to position popover as compact button at bottom-right
+    st.markdown("""
+    <style>
+    /* Hide the popover from normal flow and fix to bottom-right */
+    .stPopover {
+        position: fixed !important;
+        bottom: 24px !important;
+        right: 24px !important;
+        z-index: 99999 !important;
+        width: auto !important;
+        max-width: fit-content !important;
+    }
+    /* Style the trigger button - compact pill */
+    .stPopover > div:first-child {
+        width: auto !important;
+    }
+    .stPopover > div:first-child > button {
+        background: linear-gradient(135deg, #10b981, #3b82f6) !important;
+        color: white !important;
+        border: none !important;
+        border-radius: 28px !important;
+        padding: 12px 20px !important;
+        font-size: 0.9rem !important;
+        font-weight: 700 !important;
+        box-shadow: 0 4px 24px rgba(16,185,129,0.45) !important;
+        width: auto !important;
+        min-width: unset !important;
+    }
+    .stPopover > div:first-child > button:hover {
+        transform: scale(1.05) !important;
+        box-shadow: 0 6px 32px rgba(16,185,129,0.6) !important;
+    }
+    /* Chat window - override ALL popover size constraints */
+    .stPopover [data-testid="stPopoverBody"],
+    .stPopover [data-testid="stPopoverBody"] > div,
+    div[data-baseweb="popover"] > div,
+    div[data-baseweb="popover"] > div > div {
+        width: 550px !important;
+        min-width: 550px !important;
+        max-width: 550px !important;
+        min-height: 600px !important;
+        max-height: 85vh !important;
+        overflow-y: auto !important;
+    }
+    div[data-baseweb="popover"] {
+        border-radius: 20px !important;
+        box-shadow: 0 12px 48px rgba(0,0,0,0.3) !important;
+    }
+    .stPopover [data-testid="stPopoverBody"] {
+        padding: 20px !important;
+        border-radius: 20px !important;
+    }
+    /* Chat message styling inside popover */
+    .stPopover [data-testid="stChatMessage"] {
+        padding: 8px 12px !important;
+        font-size: 0.9rem !important;
+    }
+    /* Send button styling - circular */
+    .stPopover button[data-testid="stBaseButton-primary"] {
+        background: linear-gradient(135deg, #10b981, #3b82f6) !important;
+        color: white !important;
+        border: none !important;
+        border-radius: 50% !important;
+        padding: 0 !important;
+        font-weight: 700 !important;
+        font-size: 1.2rem !important;
+        min-width: 42px !important;
+        width: 42px !important;
+        height: 42px !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+    }
+    .stPopover button[data-testid="stBaseButton-primary"]:hover {
+        opacity: 0.9 !important;
+    }
+    /* Text input styling inside popover */
+    .stPopover input[data-testid="stTextInputRootElement"] input,
+    .stPopover .stTextInput input {
+        border-radius: 12px !important;
+        border: 1px solid rgba(128,128,128,0.3) !important;
+        padding: 10px 14px !important;
+        font-size: 0.9rem !important;
+    }
+    .stPopover .stTextInput input:focus {
+        border-color: #10b981 !important;
+        box-shadow: 0 0 0 2px rgba(16,185,129,0.2) !important;
+    }
+    /* Spinner styling */
+    .stPopover .stSpinner {
+        font-size: 0.85rem !important;
+    }
+    </style>
+    """, unsafe_allow_html=True)
+
+    with st.popover("\U0001f916 AI Advisor", use_container_width=False):
         render_advisor_tab(
             selected_county, advisor_df, drivers, market,
             models=models, feature_names=feature_names, ts_data=ts_data,
+            popover_mode=True,
         )
 
 
