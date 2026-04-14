@@ -261,8 +261,15 @@ def _call_llm(query, system_prompt):
     from dotenv import load_dotenv
     load_dotenv(override=True)
 
-    base_url = os.getenv("LITELLM_BASE_URL", "")
-    api_key = os.getenv("LITELLM_API_KEY", "").strip('"')
+    # Check Streamlit Cloud secrets first, then .env
+    try:
+        base_url = st.secrets.get("LITELLM_BASE_URL", "") or os.getenv("LITELLM_BASE_URL", "")
+        api_key = st.secrets.get("LITELLM_API_KEY", "") or os.getenv("LITELLM_API_KEY", "")
+    except Exception:
+        base_url = os.getenv("LITELLM_BASE_URL", "")
+        api_key = os.getenv("LITELLM_API_KEY", "")
+
+    api_key = api_key.strip('"')
 
     if not base_url or not api_key:
         raise ValueError("LITELLM_BASE_URL or LITELLM_API_KEY not configured in .env")
