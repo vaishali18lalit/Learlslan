@@ -217,7 +217,7 @@ def _generate_response(query, area_context, page_context):
         return _call_llm(query, full_system)
     except Exception as e:
         logger.warning("LLM call failed: %s", e)
-        return _template_fallback(query, area_context, rag_results)
+        return _template_fallback(query, area_context, rag_results, error=str(e))
 
 
 def _assemble_system_prompt(area_context, page_context, rag_results, ml_context=""):
@@ -263,13 +263,16 @@ def _call_llm(query, system_prompt):
 
     # Check Streamlit Cloud secrets first, then .env
     try:
-        base_url = st.secrets.get("LITELLM_BASE_URL", "") or os.getenv("LITELLM_BASE_URL", "")
-        api_key = st.secrets.get("LITELLM_API_KEY", "") or os.getenv("LITELLM_API_KEY", "")
+        base_url = st.secrets["LITELLM_BASE_URL"]
     except Exception:
         base_url = os.getenv("LITELLM_BASE_URL", "")
+    try:
+        api_key = st.secrets["LITELLM_API_KEY"]
+    except Exception:
         api_key = os.getenv("LITELLM_API_KEY", "")
 
     api_key = api_key.strip('"')
+    base_url = base_url.strip('"')
 
     if not base_url or not api_key:
         raise ValueError("LITELLM_BASE_URL or LITELLM_API_KEY not configured in .env")
@@ -293,7 +296,7 @@ def _call_llm(query, system_prompt):
     return resp.json()["choices"][0]["message"]["content"]
 
 
-def _template_fallback(query, area_context, rag_results):
+def _template_fallback(query, area_context, rag_results, error=None):
     lines = area_context.split("\n")
     county = lines[0].replace("=== ", "").replace(" -- Key Metrics ===", "") if lines else "this area"
 
@@ -327,5 +330,8 @@ def _template_fallback(query, area_context, rag_results):
         "\n*AI Advisor is running in template mode. "
         "Configure LITELLM keys in .env for full conversational AI.*"
     )
+
+    if error:
+        response_parts.append(f"\n\n`Debug: {error}`")
 
     return "\n".join(response_parts)
