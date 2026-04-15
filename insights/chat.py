@@ -23,7 +23,7 @@ def _get_cached_rag_engine():
     return get_rag_engine()
 
 _MAX_HISTORY = 20
-_MODEL_NAME = "gpt-4o-mini"
+from config import GEMINI_API_KEY, GEMINI_MODEL
 
 _SYSTEM_PROMPT = dedent("""\
     You are **Learslán AI**, an expert Irish community intelligence advisor built
@@ -256,44 +256,30 @@ def _assemble_system_prompt(area_context, page_context, rag_results, ml_context=
 
 
 def _call_llm(query, system_prompt):
-    import requests
-    import os
-    from dotenv import load_dotenv
-    load_dotenv(override=True)
+    from google import genai
+    from google.genai import types
 
-    # Check Streamlit Cloud secrets first, then .env
-    try:
-        base_url = st.secrets["LITELLM_BASE_URL"]
-    except Exception:
-        base_url = os.getenv("LITELLM_BASE_URL", "")
-    try:
-        api_key = st.secrets["LITELLM_API_KEY"]
-    except Exception:
-        api_key = os.getenv("LITELLM_API_KEY", "")
+    if not GEMINI_API_KEY:
+        raise ValueError("GEMINI_API_KEY not configured")
 
-    api_key = api_key.strip('"')
-    base_url = base_url.strip('"')
+    client = genai.Client(api_key=GEMINI_API_KEY)
 
-    if not base_url or not api_key:
-        raise ValueError("LITELLM_BASE_URL or LITELLM_API_KEY not configured in .env")
-
-    messages = [{"role": "system", "content": system_prompt}]
+    contents = []
     for msg in st.session_state.get("advisor_messages", [])[:-1]:
-        messages.append({"role": msg["role"], "content": msg["content"]})
-    messages.append({"role": "user", "content": query})
+        role = "user" if msg["role"] == "user" else "model"
+        contents.append(types.Content(role=role, parts=[types.Part(text=msg["content"])]))
+    contents.append(types.Content(role="user", parts=[types.Part(text=query)]))
 
-    resp = requests.post(
-        f"{base_url}/v1/chat/completions",
-        headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
-        json={"model": _MODEL_NAME, "messages": messages, "max_tokens": 1024, "temperature": 0.7},
-        verify=False,
-        timeout=30,
+    response = client.models.generate_content(
+        model=GEMINI_MODEL,
+        contents=contents,
+        config=types.GenerateContentConfig(
+            system_instruction=system_prompt,
+            max_output_tokens=1024,
+            temperature=0.7,
+        ),
     )
-
-    if resp.status_code != 200:
-        raise RuntimeError(f"{resp.status_code} {resp.text[:300]}")
-
-    return resp.json()["choices"][0]["message"]["content"]
+    return response.text
 
 
 def _template_fallback(query, area_context, rag_results, error=None):
@@ -328,7 +314,7 @@ def _template_fallback(query, area_context, rag_results, error=None):
 
     response_parts.append(
         "\n*AI Advisor is running in template mode. "
-        "Configure LITELLM keys in .env for full conversational AI.*"
+        "Configure GEMINI_API_KEY in .env for full conversational AI.*"
     )
 
     if error:
